@@ -1,0 +1,197 @@
+     Jeu par forum • Création d'un personnage • Classes et évolutions •
+   Présentation du Jeu • Règles du Jeu • FAQ
+   Règles Obligatoires : I • II • III • IV • V | Règles Secondaires : • I
+   • II • III • IV • V • VI | Règles Spécifiques • I • II • III • IV • V •
+   VI • VII • VIII
+   Règles Propres aux Dirigés • Rp Dirigés • Combats Dirigés
+
+                             L'Univers de Yuimen
+
+                Forum de jeu de rôle médiéval fantastique
+                    Yuimen RPG jeu par navigateur gratuit
+
+   Acces au forum de Yuimen Sommaire du site » Règles du Jeu » Règle
+   Spécifique 1
+   Consultez les images de Yuimen sur sa galerie.   Consultez les sites
+   partenaires de Yuimen ainsi que les topsites à voter.
+
+                                 Les Chevaux
+
+                                    Image
+
+   I/ Qu'est-ce qu'un cheval?
+   II/ La fiche officielle
+   III/ Comment augmenter son taux de synchronisation?
+   IV/ Les Bonus de Cavalerie
+   V/ Les courses
+   I/ Qu'est ce qu'un cheval ?
+   Le cheval, ou equus caballus, est le plus noble des équidés. Animal à
+   quatre pattes, herbivore, il est élevé sur toutes les îles de Yuimen.
+   On peut également en trouver à l'état sauvage.
+   Meilleure conquête de l'homme, plus fidèle compagnon de l'Elfe et
+   terreur des nains, il est considéré comme indispensable pour les longs
+   voyages. Les petites gens appelés Hobbits montent quant à eux des
+   poneys plus adaptés à leur taille.
+   Les différentes races rencontrées déquidés : Cheval normal, cheval de
+   trait, poney, âne, mulet.
+   II/ La fiche officielle :
+   La fiche du cheval se présente de la même manière que celle d'un PJ.
+   La fiche sera intégrée a celle du PJ lors dune location ou dun achat.
+   Nom :
+   Race :
+   Description :
+   --------------------------------------------------------------
+   Equipement :
+   -
+   -
+   Sac (doit être acheté!)
+   -
+   -
+   -
+   -
+   -
+   --------------------------------------------------------------
+   Synchronisation PJ/Cheval: /100
+   PV : variable
+   Vitesse: Variable
+   Résistance : Variable
+   Endurance : Variable
+   --------------------------------------------------------------
+   Explication détaillée de la fiche :
+   Le nom : Le nom que vous donnerez à votre cheval.
+   La race : Sa race : Ane, poney, cheval de trait, etc...
+   La description : Ceci vous donnera une image visuelle de l'allure de
+   votre animal. La description psychologique y sera également inscrite.
+   Equipement : Il y a trois emplacements réservés pour cela : la selle,
+   les mors et brides, et un éventuel chariot ou charrette. Ils influent
+   sur : la synchronisation.
+   La Synchronisation PJ/Cheval : Ceci détermine lentente du cheval
+   vis-à-vis du PJ qui le monte (en %). Elle sera déterminée une seule
+   fois, à laide de 3 lancés de dés (la moyenne des chiffres obtenus)
+   -De 0 a 25: Vous avez du mal à faire comprendre à votre monture où
+   aller. Risque de chutes important.
+   -De 26 a 50: Le cheval vous obéit assez bien, mais peut en faire à sa
+   tête également. Risque de chutes réduit.
+   -De 51 a 75: Il vous obéit bien, et le combat ne larrête pas, à moins
+   quil ne soit blessé. Chutes très rares.
+   -De 76 a 100: Vous ne faites quun avec votre monture, vos gestes et
+   impulsions sont les siennes et sa fidélité ne vous fera jamais défaut.
+   Aucune chute.
+   Les PV (Points de Vie): Ils sont variables, cest la vie du cheval ! Un
+   cheval mal nourri perd 2 PVs/jours ! Pensez à avoir toujours des unités
+   de fourrage sur vous !
+   La vitesse : Elle détermine l'allure du cheval.
+   La résistance: Détermine combien de temps l'équidé peut tenir une
+   course sans épuiser ses réserves.
+   Lendurance: Comme pour les Pjs, elle détermine la défense du cheval.
+   Elle peut être augmentée par des armures spéciales.
+   III/ Comment augmenter son taux de synchronisation si celui-ci est bas
+   ?
+     * Dans lhippodrome et dans diverses écuries, il existe des cours
+       payants déquitation. Ce nest que du rp, vous êtes avec votre animal
+       et vous le dressez, vous vous en occupez et petit à petit, il y a
+       du progrès. Le taux de synchronisation va donc augmenter, il sera
+       déterminé par un GM selon un barème connu des GM seuls.
+     * Chaque jour entier de voyage rp (donc pas les promenades dans les
+       villes) rapporteront 1 point de synchronisation. (pensez à le dire
+       au gm qui vous corrigera si celui-ci oublie:p )
+
+   IV/ Les Bonus de Cavalerie :
+   Ces bonus/malus de force (attaque) et dendurance (défense) sont
+   déterminés par rapport à la classe !
+   Guerrier> F: +2 , End: +1
+   Maitre darme> F: +2 , End: + 1
+   Barbare> F: -3 , End: -3
+   Aventurier > F: +3, end+1
+   Rôdeur> F: +2 , End: +3
+   Druide> F: +3 , End: +2
+   Shaman > F:+3, End: +3
+   Coureur de plaine > F:+2, End+3
+   Archer> F: +0 , End: +1
+   Chasseur > F: +3, End+1
+   Tireur > F+1, End +1
+   Soldat > F+3, End+2
+   Mage> F: -1 , End: +0
+   Magicien> F: -1 , End: +0
+   Mage de guerre > F:0, End+2
+   Enchanteur > F:+2, End +0
+   Guérisseur > F:+0, End +0
+   Prêtre> F: -2 , End: -1
+   Paladin> F: +2 , End: +2
+   Moine > F:-1, End +3
+   Fanatique > F:-1, End:-1
+   Prêtre obscur> F: -2 , End: -2
+   Nécromancien> F: -1 , End: +0
+   Chevalier du Chaos > F:+2, End+1
+   Voleur> F: +1 , End: +1
+   Assassin> F: -1 , End: +1
+   Larron > F:-1, End+1
+   Chasseur de Primes > F+1, End+0
+   Dès que le joueur atteint la classe tertiaire, il gagne +1/+1 par
+   rapport à son bonus/malus de sa classe secondaire.
+   V/ Les courses :
+   Les Kendran adorent les courses de chevaux. Ils en organisent souvent.
+   Il y en a 3 différentes:
+   - la classique
+   - la course de chars
+   - la course d'obstacles
+   La classique
+   La course se passe sur lhippodrome de Kendra-Kâr qui se trouve dans la
+   ville, cest un stade oval avec une piste de 450 m par tour. Chaque
+   course doit faire 5 tours de piste. Il y a 6 chevaux par course, le
+   départ est arrêté et donné par un son de trompette de ce quon appelle
+   le poste du juge, qui domine le stade, contrôlant toute la course. La
+   probabilité de blessure dun cheval est de 1/12.
+   Comment est déterminé le classement en fin de course?
+   Simplifions cela au maximum. Le résultat est celui qui a le plus de
+   points en additionant:vitesse + résistance + synchronisation
+   Mais, pour rajouter un peu de piment, un jet de dé de 100 fera
+   laffaire. Doù le nombre de points sera: vitesse + resistance+
+   synchronisation + dé
+   Les chars
+   Pareil que la classique, mais, cette fois-ci, il y a deux chevaux qui
+   tractent un char dans lequel le jockey prend place. Toujours 5 tours à
+   parcourir et le char est standard pour tout le monde. La probabilite de
+   blessure dun cheval est de 1/8.
+   Comment est déterminé le classement en fin de course?
+   Quelque peu plus complexe:
+   Il faut additionner: vitesse + resistance + synchronisation pour chacun
+   des 2 chevaux + tir de de 100 pour la chance + tir de de 100 pour la
+   synchro entre les 2 chevaux (lentente en somme)
+   En résumé: [ (vitesse c1 + resistance c1 + synchro c1) + (vitesse c2 +
+   resistance c2 + synchro c2) ] + tir de 100 + synchro c1/c2.
+   Les obstacles:
+   Cette fois-ci, la piste se transforme. Plusieurs obstacles bloquent la
+   progression des chevaux et ils doivent les sauter pour continuer la
+   course. Toujours 5 tours à parcourir.
+   La probabilite de blessure dun cheval est de 1/5 du fait de la
+   difficulté de lépreuve.
+   Comment est déterminé le classement en fin de course?
+   Cette fois-ci, pas trop compliqué:
+   Vitesse + résistance + synchronisation + tir de 1 (chance) + tir de 2
+   (difficulté du parcours)
+   Les paris
+   Mais au fait, pourquoi les courses?? Ben pour parier, bien entendu.
+   Et comment parier?? Très simple! Le Pj demande un ticket et mise (il
+   doit donner un chiffre qui sera le prix fixe) sur 2 chevaux (sachant
+   quil y a une possibilite de 6 chevaux participants)
+   Les gains:
+     * Pour un cheval trouvé: le Pj remporte sa mise x la moitié de la
+       cote du cheval.
+       Ex: Si le cheval est coté ¼, et que le Pj a misé 10 yus, il
+       remportera 20 yus)
+     * Pour 2 chevaux trouvés: le Pj remporte sa mise x ½ de la cote des 2
+       chevaux
+       Ex: Si le c1 est a ¼ et le c2 a 1/6, et que le Pj a misé 10 yus, il
+       remportera alors (10 x 2 x 3) = 60 yus
+     * Pour 2 chevaux trouvés dans lordre: le Pj remporte sa mise x la
+       cote des 2 chevaux.
+       Ex: Si le cheval est coté a ¼ et lautre a 1/6 et que le Pj a misé
+       10 yus, alors il gagnera (10 x 4 x 6)= 240 yus!!!
+
+   Mais plus fou que ça: si vous êtes propriétaire dun cheval, vous pouvez
+   lengager dans une course. Ceci est payant (40 yus/course). Cependant,
+   si vous gagnez la course, vous empocherez 900 yus!!! )
+   Haut
+
+   [ © Yuimen.net 2002 - 2024 ]

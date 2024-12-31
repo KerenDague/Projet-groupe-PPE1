@@ -1,0 +1,263 @@
+     * CAO.fr|
+     * CAO-formation|
+     * Newsletter
+
+     * Contact|
+     * Mentions légales|
+     * Communiquer sur CAO.fr|
+     * Accès acteurs
+
+   CAO.fr
+   Toutes rubriques
+     * Toutes rubriques
+     * CAO mécanique et design
+     * IAO, calculs, simulation
+     * FAO, usine numérique
+     * Prototypage et impression 3D
+     * PLM / GDT, travail collaboratif
+     * CAO électronique, électricité, IoT
+     * BIM, architecture, SIG, MEP
+     * Composants industriels
+     * Matériels pour la CAO
+     * Rendus, anim.3D, réalité virtuelle
+     * Vert, divers et inclassable
+
+     * Rechercher
+       Vous pouvez filtrer sur un domaine avant la recherche
+       ____________________ (BUTTON)
+       [___________________________________________________]
+       [____________________________________]
+     * LinkedIn
+     * Newsletter
+
+     * Accueil
+     * Actualité
+     * Annuaire
+     * Rendez-vous
+     * Webina'tech
+     * Formations
+     * Journaux en 3D
+     * Fichiers CAO
+
+   Tous domaines > Actualité
+
+   Le 4 Février 2022
+
+Ansys propulse le premier vol de l'avion de course électrique Air Race E
+grâce à la simulation numérique
+
+   L’équipe Nordic Air Racing s’est appuyée sur les solutions de
+   simulation d’Ansys pour franchir une étape historique dans l’ère de
+   l'aviation électrique.
+   Domaines
+   Retour à la liste
+
+   Partager le communiqué
+   Tweeter Facebook Envoyer par e-mail
+
+   Paris, le 4 février 2022
+
+
+   Ansys propulse le premier vol de l'avion de course électrique Air Race
+   E grâce à la simulation numérique
+   (Cliquez sur l'image pour l'agrandir)
+
+   La Nordic Air Racing Team, membre officielle de l’Air Race E (coupe du
+   monde de Formule E de course aérienne), vient de réussir le premier vol
+   mondial d'un avion de course entièrement électrique - conçu et
+   développé à l'aide des solutions de simulation d'Ansys (NASDAQ : ANSS).
+   En tant que partenaire officiel de l'Air Race E pour les logiciels de
+   simulation, Ansys permet aux équipes de relever des principaux défis
+   techniques liés au vol d’un avion de course 100 % électrique.
+
+   L'Air Race E, qui est le premier et unique championnat mondial de
+   courses d'avions électriques, constitue un levier clé dans
+   l’accélération du développement des propulsions hybrides et électriques
+   pour les applications aérospatiales. À l’heure où les entreprises du
+   monde entier se mobilisent pour réduire leurs émissions de carbone, en
+   particulier celles liées à la mobilité, ces avancées technologiques
+   représentent un enjeu crucial pour tous les acteurs de l’industrie
+   aéronautique.
+
+   Avant le début officiel de l’Air Race E en 2023, chaque équipe
+   concurrente doit être en mesure de démontrer la navigabilité de son
+   aéronef. Grâce à l’utilisation des logiciels de simulation, l’accès à
+   de nombreuses formations en ligne via la plateforme Ansys Learning Hub,
+   ainsi qu’une étroite collaboration avec les experts techniques d’Ansys,
+   l’équipe Nordic Air Racing est parvenue à réduire de 40 % le délai
+   global du projet« Ce premier vol d'un avion de course électrique Air
+   Race E piloté est un moment historique pour l’industrie aéronautique et
+   une étape majeure dans l’électrification des aéronefs », déclare Jeff
+   Zaltman, PDG d'Air Race E. « Il s’agit de l'aboutissement de plusieurs
+   mois de planification, de développement de concepts, de tests et de
+   fabrication par les ingénieurs, et rien de tout cela n'aurait été
+   possible sans le soutien et l'expertise d'Ansys et de nos partenaires
+   visionnaires. Toute l’équipe d’Air Race E est extrêmement fière de
+   participer à la révolution de la mobilité électrique et nous sommes
+   reconnaissants à Ansys pour son rôle dans cette étape décisive. »,
+   ajoute-t-il.
+
+   Les ingénieurs de l’équipe Nordic Air Racing ont utilisé les solutions
+   de simulation multiphysique d'Ansys pour transformer un avion de course
+   thermique en remplaçant le moteur à piston par un groupe motopropulseur
+   électrique. La simulation a également été utilisée pour concevoir le
+   compartiment du moteur à l’aide de matériaux composites, modifier le
+   nez de l'avion, optimiser le centre de gravité, le système de
+   refroidissement par air et l'aérodynamique.
+
+   « Les simulations Ansys nous ont donné une confiance totale dans notre
+   avion et ont raccourci le délai de notre premier vol d’essai »,
+   explique Sathvik Rao, ingénieur au sein de la Nordic Air Racing Team.
+   « J'ai été surpris de voir comment le logiciel Ansys peut intégrer
+   chaque exigence de paramètre pour un système aussi complexe que notre
+   batterie. Sans la simulation dans les premières étapes du
+   développement, notre équipe aurait dû réaliser environ 250 heures
+   supplémentaires de travail expérimental autour de la dissipation et de
+   la propagation de la chaleur du bloc-batterie. », conclut-il.
+
+   La Nordic Air Racing Team fait partie des dix-sept équipes officielles
+   actuellement en lice pour participer à l'Air Race E en 2023. Les
+   courses pourront impliquer jusqu'à huit petits avions à hélices,
+   décollant simultanément et volant à plus de 9 000 m à des vitesses
+   supérieures à 400 km/h.
+
+   « Les compétitions de sport mécanique ont souvent ouvert la voie à des
+   innovations technologiques de rupture », commente Shane Emswiler,
+   Senior vice-président d'Ansys. « Le vol inaugural de la Nordic Air
+   Racing Team en est la preuve, ainsi que l'incroyable travail d'Air Race
+   E pour mettre en œuvre les conditions optimales pour favoriser
+   l’innovation, en sont la parfaite illustration. Nous sommes honorés
+   d’avoir participé à cette étape clé et sommes impatients de contribuer
+   aux futures innovations pour réduire la dépendance de l’aviation aux
+   combustibles fossiles. »
+
+   Pour davantage d’information sur ce premier vol d’essai inaugural et
+   l’Air Race E, veuillez cliquer sur ce lien.
+
+     __________________________________________________________________
+
+   Plus sur ANSYS : www.ansys.com/fr-FR
+
+   Partager le communiqué
+   Tweeter Facebook Envoyer par e-mail
+   Ansys
+     * Tout sur Ansys
+     * Toute l'actu Ansys
+
+Recommandé
+
+   Image de l'encart Livre blanc : Usinage CNC et moulage par injection
+   dans l'industrie électronique
+
+   Ce livre blanc traite de l'usage du moulage par injection et de
+   l'usinage CNC pour la production de pièces telles que des connecteurs,
+   des dissipateurs thermiques et des boîtiers pour l'électronique grand
+   public. Il fournit des informations sur les choix des processus et des
+   matériaux; propose des recommandations de conception et d'autres
+   conseils pratiques avant de commander des pièces.
+   ... En savoir plus [blank_track.gif]
+
+Abonnez-vous
+
+     * Newsletter
+
+   Recevez deux fois par mois la synthèse de l'actualité CAO et PLM et
+   gagnez peut-être une imprimante 3D ou une souris 3D (un tirage au sort
+   chaque mois)
+
+   CAO.fr
+     * Contact
+     * Mentions légales - RGPD
+     * Communiquer
+     * Accès acteurs
+     * Index des acteurs
+     * Index des produits
+
+Domaines
+
+     * Toutes rubriques
+     * CAO mécanique et design
+     * IAO, calculs, simulation
+     * FAO, usine numérique
+     * Prototypage et impression 3D
+     * PLM / GDT, travail collaboratif
+     * CAO électronique, électricité, IoT
+
+     * BIM, architecture, SIG, MEP
+     * Composants industriels
+     * Matériels pour la CAO
+     * Rendus, anim.3D, réalité virtuelle
+     * Vert, divers et inclassable
+
+Suivez nous
+
+     * X
+     * LinkedIn
+     * Newsletter
+     * Flux RSS
+
+     * ©2024 TRACEPARTS - WebDesign : FabienNail.com
+     * CAO.fr|
+     * CAO-formation.com|
+     * Newsletter
+
+   top
+
+Contacts
+
+   Les sites www.cao.fr, www.bimactu.com et www.cao-formation.com sont
+   publiés par la société :
+     TraceParts S.A.S
+     Parc Eco Normandie
+     76430 Saint Romain
+     France
+
+Contact commercial
+
+   Laetitia RIMBERT
+
+   Délégué à la protection des données : Mélissa GLEYO
+
+   Envoi des communiqués de presse
+
+   Retour au site
+
+Mentions légales
+
+   Les sites www.cao.fr, ww.bimactu.comet www.cao-formation.com sont
+   publiés par la société :
+   TraceParts S.A.S
+   Parc Eco Normandie
+   76430 Saint Romain
+   France
+
+Directeur de publication :
+
+   Gabriel GUIGUE, Directeur Général.
+
+Hébergeur :
+
+   OVH SAS
+   2, rue Kellermann,
+   59100 Roubaix
+
+   Les sites CAO.fr et BIMactu.com reprennent l'actualité dans les
+   domaines de la CAO, du PLM et du BIM, en publiant les communiqués de
+   presse qui lui sont envoyés par les acteurs du marché.
+   TraceParts S.A.S ne saurait être tenue pour responsable des
+   informations diffusées par le biais de ces communiqués - dont la
+   pertinence ou la véracité relève de la seule responsabilité de leurs
+   auteurs - ni des conséquences de leur publication.
+
+   Les sites CAO.fr, BIMactu.com et CAO-formation.com présentent également
+   les acteurs et produits du marché (annuaire des produits, des sociétés
+   et des formations). Les informations publiées sont données et validées
+   par les acteurs du marché par le biais d'un espace privé.
+   TraceParts S.A.S ne saurait être tenue pour responsable des
+   informations erronées sur les activités présentées, de la pertinence
+   des données et de la légalité de ces dernières ni des conséquences de
+   leur publication.
+
+   Déclaration CNIL n°1162346
+   Retour au site
+   Notre politique de protection des données personnelles

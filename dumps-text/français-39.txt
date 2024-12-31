@@ -1,0 +1,579 @@
+GPRO - Grand Prix Racing Online
+
+     * Accueil
+     * Forum
+     * Chat
+     * Téléchargements
+     * Aide
+     * Récompenses
+     * Captures d'écran
+     * À propos
+     * Se connecter
+     * S'inscrire
+
+     * 8957 managers en ligne
+
+   Si vous souhaitez voir le tutoriel à partir de n'importe quelle page,
+   cliquez simplement sur cette icône.
+   [fr.gif]
+     * English English
+     * Deutsch Deutsch
+     * Español Español
+     * Română Română
+     * Italiano Italiano
+     * Português Português
+     * Português Português
+     * Polski Polski
+     * Русский Русский
+     * Български Български
+     * Македонски Македонски
+     * Српски Српски
+     * Nederlands Nederlands
+     * Vlaams Vlaams
+     * Svenska Svenska
+     * Suomi Suomi
+     * Lietuvių Lietuvių
+     * Čeština Čeština
+     * Magyar Magyar
+     * Eesti keel Eesti keel
+     * Slovenčina Slovenčina
+     * Türkçe Türkçe
+     * Shqip Shqip
+     * 中文（简体） 中文（简体）
+     * Ελληνικά Ελληνικά
+     * Hrvatski Hrvatski
+     * Bahasa Melayu Bahasa Melayu
+     * Dansk Dansk
+     * Pirate Pirate
+
+   31 Décembre 2024, 15:55:20 HCE
+
+Foire aux questions
+Dernière mise à jour: 4 Décembre 2022, 01:35:54 [print.gif]
+
+Pilote
+
+Q.: Je veux renouveler le contrat de mon pilote, comment dois-je faire ?
+
+   R.: Vous pouvez renouveler un contrat à tout moment si le niveau global
+   du pilote est dans les limites de son groupe. Vous paierez la prime de
+   signature immédiatement, vous ne paierez pas le nouveau salaire jusqu'à
+   la fin du contrat actuel. Pour pouvoir le renouveler, sélectionnez le
+   lien "contrat du pilote" sur la page principale de GPRO.
+
+Q.: J'ai renouvelé le contrat de mon pilote mais le nombre de courses
+restantes n'a pas changé, pourquoi ?
+
+   R.: Votre pilote terminera son contrat existant avec vous puis
+   démarrera le nouveau avec vous, le nombre de courses restantes ne
+   changera qu'à ce moment. Ne vous inquiétez pas, s'il a accepté votre
+   prolongation vous ne pourrez pas le perdre, à moins d'être relégué au
+   niveau inférieur et que le niveau global du pilote ne soit supérieur à
+   celui permis par le niveau où vous êtes relégué. La prolongation de
+   contrat apparaîtra sur la page principale comme ceci : courses
+   restantes : 8(+17). Cependant, cela n'apparaîtra sur aucune autre page
+   excepté la page de contrat du pilote.
+
+Q.: Le niveau global de mon pilote est au dessus de la limite du groupe mais
+je souhaite le renouveler, comment faire ?
+
+   R.: Vous ne pouvez pas, si vous planifiez à l'avance, il est possible
+   de renouveler le contrat du pilote pour 17 autres courses dès que vous
+   le signez, alors vous pourrez le garder pour au moins 34 courses.
+
+Q.: Où est-ce que mon pilote est parti ?
+
+   R.: Soit son contrat a expiré - vous aurez à en signer un nouveau !
+   Soit vous avez été relégué et le niveau global de votre pilote était
+   trop élevé pour votre nouveau groupe.
+
+Mise à jour de la voiture
+
+Q.: Est-il possible de mettre à jour la voiture après les essais libres ou
+les qualifications ?
+
+   R.: Oui, la mise à niveau de la voiture sera possible, mais vous devez
+   considérer que si vous changez des pièces après les essais libres /
+   qualifications, cela est susceptible d'affecter les réglages que vous
+   avez pour la course.
+
+Q.: Pourquoi ne puis-je pas mettre à niveau ma voiture?
+
+   R.: Les raisons possibles :
+   • Si vous avez des dettes, vous n'êtes pas autorisé à mettre à jour
+   votre voiture, vous ne pouvez que seulement baisser le niveau des
+   pièces.
+   • Vous avez déjà mis à jour votre voiture, ce qui ne peut être effectué
+   qu'une fois par course.
+   • Vous avez manqué la limite pour la prochaine course, qui est de 1
+   heure et demi avant le départ.
+
+Q.: Toutes mes pièces sont usées, je suis endetté et ne peux donc pas acheter
+de nouvelles pièces, que dois-je faire?
+
+   R.: Pas de panique ! Vous avez besoin de ralentir et d'apprendre à
+   maîtriser l'usure de vos pièces de voiture, essayez de regarder les
+   risques pris par le pilote. Essayez de finir les courses pour vous
+   permettre de gagner plus d'argent pour mettre à jour la voiture. Vous
+   pouvez toujours aussi déclasser les pièces. Pensez soigneusement à ce
+   sur quoi vous dépensez votre argent. Un petit indice : en Rookie, même
+   des risques de 40 sont considérés comme très élevés.
+
+Q.: Que signifient P,H et A ?
+
+   R.: Il s'agit de la puissance, la maniabilité et l'accélération qui
+   sont les caractéristiques de la voiture selon les niveaux des pièces
+   que vous avez acquises et les points que vous avez obtenus en essais
+   privés.
+
+Q.: Qu'est-ce que signifie les lettres P, M, A et E en dessous du type de
+voiture dans la page Argent et niveau voiture ?
+
+   R.: C'est une caractéristique globale de la voiture. P est pour
+   Puissance, M pour Maniabilité, A pour Accélération et E pour Équilibré.
+
+Q.: En quoi influent P, M et A ?
+
+   R.: Regardez les statistiques de la piste, par exemple, une voiture
+   avec des caractéristiques globales orientées Puissance ira plus vite
+   sur une piste qui favorise la Puissance.
+
+Q.: Combien coûte une pièce de voiture de chaque niveau ?
+
+   R.: Vous devrez trouver ceci par vous-même, les pièces qui ont plus
+   d'effet sur les performances de la voiture coûtent plus. Ainsi, un
+   moteur de niveau 2 sera plus cher qu'un aileron avant niveau 2.
+
+Essais libres
+
+Q.: Comment puis-je commencer ?
+
+   R.: L'écran des essais libres vous permet de trouver en 8 tours une
+   configuration pour votre combinaison pilote/voiture pour le circuit en
+   question. Entrez des paramètres, soit 500 dans chaque case et voyez
+   comment votre pilote répond et ajustez les réglages en fonction de ce
+   que dit le pilote.
+
+Q.: Qu'est-ce que les réglages signifient quand on fait ses essais libres ?
+
+   R.: Sur l'écran des essais libres, vous pouvez passer votre souris sur
+   le [b]?[/b] bleu pour obtenir des informations sur les paramètres de
+   cette partie spécifique, voici un résumé :
+   • Ailerons - une valeur plus élevée donne une plus grande force d'appui
+   à la voiture.
+   • Moteur - une valeur plus élevée favorise vitesse de pointe plutôt que
+   l'accélération.
+   • Freins - une valeur plus élevée déplace l'équilibre de freinage vers
+   l'avant.
+   • Boîte de vitesse - une valeur plus élevée augmente la vitesse
+   maximale mais réduit l'accélération.
+   • Suspension - une valeur plus élevée augmente la rigidité de la
+   suspension.
+
+Q.: Mon pilote est satisfait des réglages, mais je suis encore très lent.
+Quel est le problème ?
+
+   R.: Il y a plusieurs raisons pour lesquelles vous êtes lent, la
+   voiture, le pilote, même les conditions atmosphériques influent sur le
+   réglage et puis même si le conducteur est satisfait de celui-ci, il
+   peut ne pas être nécessairement le plus rapide possible. Essayez de
+   peaufiner votre configuration pour voir si vous pouvez la rendre plus
+   rapide.
+
+Q.: La configuration choisie par le pilote est plus lente qu'une autre dont
+il est mécontent, pourquoi?
+
+   R.: Il est possible que votre pilote ne possède aucune compétence dans
+   la préparation/configuration de la voiture, vous pouvez entrainer ses
+   connaissances techniques pour améliorer cela.
+   Il y a bien sûr d'autres raisons qui peuvent provoquer ce problème.
+
+Q.: Quels pneus puis-je utiliser en essais libres ?
+
+   R.: Vous pouvez utiliser n'importe quel type de pneus en essais libres.
+
+Q.: Mes temps d'essais libres sont beaucoup plus lent que les temps de mes
+adversaires en qualifications, que dois-je faire ?
+
+   R.: De nombreux paramètres affectent votre rythme, cela peut être le
+   niveau de la voitures ou quelque chose d'autre, comme par exemple vos
+   adversaires qui ont eu de la chance en qualifications avec des risques
+   élevés.
+
+Qualification 1
+
+Q.: Quel type de pneus dois-je utiliser en qualifications ?
+
+   R.: Les pneus que vous choisissez d'utiliser en qualifications sont les
+   pneus que vous allez utiliser dans la course. Vous devez sélectionner
+   les pneus qui vous donneront la meilleure stratégie : ils s'usent
+   pendant la course. Quand ils sont usés, ils vous ralentiront.
+   Sélectionnez vos pneus à bon escient.
+
+Q.: Si je choisis des pneus pluie, dois-je les garder ?
+
+   R.: Non, si vous sélectionnez pneus pluie, il vous sera également
+   demandé de sélectionner un composé pneus pour piste sèche pour la
+   course, au cas où il y ait des périodes sèches.
+
+Q.: Combien de temps les pneus vont durer ?
+
+   R.: Vous pouvez vous faire une idée juste de la façon dont les pneus
+   s'usent pendant les essais privés. L'usure des pneus est dépendante de
+   la piste et de la température, d'autres choses peuvent aussi influer
+   sur l'usure des pneus, mais vous devrez le découvrir par vous-même. Il
+   est important de noter quelle est l'usure des pneus afin que vous
+   puissiez utiliser ces données à l'avenir.
+
+Qualifications 2
+
+Q.: De combien de carburant ai-je besoin ?
+
+   R.: Le carburant que vous entrez pour la Qualif. 2 est la charge de
+   carburant lors du départ de la course pour le premier relais, selon la
+   stratégie que vous avez choisie. C'est un domaine du jeu que vous avez
+   besoin d'expérimenter, vous ne serez jamais retiré de la course par
+   manque de carburant, le pilote rentrera toujours aux stands si le
+   carburant est trop bas pour effectuer un nouveau tour. Ainsi, mettez
+   beaucoup de carburant et regardez par la suite ce que vous avez
+   réellement consommé, sur l'écran « Analyse de la course ». Vous aurez
+   par la suite une meilleure idée de la quantité de carburant nécessaire.
+   De manière générale, il est peu probable qu'une course standard d'une
+   longueur d'environ 300 km nécessite plus de 280 litres de carburant.
+
+Réglages pour la course et stratégie
+
+Q.: Je ne peux pas apporter de modifications à mes réglages, mais la course
+n'est pas dans une heure. Pourquoi ?
+
+   R.: La page des réglages de course est toujours verrouillée 1 heure et
+   30 minutes avant le début de la course, de sorte que le script du jeu
+   puisse effectuer quelques calculs pour la course.
+
+Détails du circuit
+
+Q.: Le temps d'entrée/sortie des stands de la piste est de 16,5 secondes, est
+ce qu'il s'agit d'un ensemble, ou 16,5 secondes d'entrée et 16,5 secondes de
+sortie?
+
+   R.: C'est le temps total pour entrer et sortir de la voie des stands.
+
+Météo
+
+Q.: Sur les prévisions météo qu'est-ce que le 0h-0h30m représente ?
+
+   R.: Ces périodes sont basées sur le temps d'un tour de course, pas le
+   temps d'un tour en course en direct. Par exemple, avec un temps moyen
+   au tour de 1:30.000, le pilote couvrira 20 tours en cette période de 30
+   minutes.
+
+Course en direct
+
+Q.: Quand est ce que je peux regarder la course ?
+
+   R.: La course peut être vue en direct le mardi et le vendredi de 20:00
+   HCE. 15 minutes avant que commence la course, un bouton vous menant à
+   l'écran de course en Direct apparaîtra sur la page principale du bureau
+   dans le coin en haut à droite (au lieu du compteur avant la prochaine
+   course).
+
+Q.: Dans l'écran de course Direct/Replay il y a un numéro à côté de la barre
+jaune - carburant restant - qui indique quelque chose comme ~22%. Qu'est ce
+que cela représente?
+
+   R.: Il s'agit d'une valeur approximative de ce qu'il reste comme
+   carburant dans la voiture, cette valeur descend par tranches de 3%. Par
+   conséquent, votre carburant restant se situerait entre 21% et 24%.
+
+Q.: Quand je regarde la course en direct, la page ne se met pas
+automatiquement à jour. Est ce un bug ?
+
+   R.: Non, ce n'est pas un bug. Cela peut se produire si votre navigateur
+   ne supporte pas le JavaScript/AJAX ou si vous l'avez désactivé.
+
+Analyse de la course
+
+Q.: Dans l'Analyse de course, il est dit carburant restant à la fin du relais
+= 20%, 20% de quoi exactement?
+
+   R.: La valeur du carburant restant est le % de la capacité totale du
+   réservoir, celle-ci étant de 180L. Par exemple, 20% restant : 180/100 =
+   1,8 et 1,8x20 = 36 Litres.
+
+Q.: Dans ma course je me suis arrêté au bout de 4 tours, j'avais plus de
+carburant dans le réservoir que ce que j'avais demandé à l'équipe de
+ravitaillement d'ajouter, comment l'équipe peut elle retirer du carburant de
+la voiture? Est-ce un bug?
+
+   R.: Non, votre équipe gardera le niveau d'essence restant dans la
+   voiture, l'équipe de ravitaillement ne retirera pas d'essence de la
+   voiture.
+
+Essais privés
+
+Q.: Pourquoi devrai-je faire des essais privés ?
+
+   R.: Vous n'êtes pas obliger d'en faire mais c'est une bonne façon
+   d'apprendre sur le jeu et les essais privés apportent des améliorations
+   à votre voiture.
+
+Q.: La piste d'essais privés peut-elle changer ?
+
+   R.: Habituellement, une nouvelle piste d'essais privés est sélectionnée
+   au début de la saison, et est utilisée pour toute la saison.
+
+Q.: Comment les essais privés améliorent-ils la voiture ?
+
+   R.: Vous remarquerez qu'il existe différents types d'essais privés,
+   chacun intervenant sur certaines caractéristiques de la voiture -
+   Puissance, Maniabilité ou Accélération, d'autres travaillent sur toutes
+   les caractéristiques. Les tours d'essais privés que vous effectuez
+   génèrent des points de tests. Après la course, ces derniers sont
+   convertis à l'étape suivante (R&D), puis après en points d'ingénierie
+   et, enfin, en points de caractéristiques de la voiture qui sont ajoutés
+   aux points P/M/A de la voiture.
+   Notez que les essais usent les pièces de la voiture.
+
+Q.: Je ne peux pas lancer d'essais privés, est-ce un bug ?
+
+   R.: Si vous êtes endetté, vous ne pouvez pas lancer d'essai privé. De
+   plus, si une pièce de la voiture a plus de 90% d'usure, vous ne serez
+   pas autorisé à faire des essais en raison des règlements de sécurité.
+
+Q.: Comment puis-je savoir combien de carburant j'ai utilisé dans une session
+d'essais privés ?
+
+   R.: Avant que vous ne lanciez le relais, vous avez spécifié la quantité
+   de carburant que vous vouliez dans la voiture. Après le passage aux
+   stands, la quantité de carburant restante est montrée avec l'usure des
+   pneus et les temps au tour.
+
+Q.: Pourquoi mon pilote ne me donne t-il pas de commentaires techniques en
+essais privés ?
+
+   R.: La seule fois où le pilote vous donnera un retour technique en
+   essais privés est quand vous sélectionnez en priorité la recherche de
+   réglages.
+
+Les sponsors
+
+Q.: Je négocie avec 5 sponsors et cela prend une éternité, y-a-t'il quelque
+chose qui ne va pas avec les sponsors?
+
+   R.: Votre équipe commerciale passe trop de temps avec trop de sponsors,
+   essayez de vous concentrer sur 1 ou 2 sponsors et voir ce qui se passe.
+
+Q.: Pourquoi ai-je perdu mon sponsor?
+
+   R.: Peut-être que vous les avez trompés lors de la négociation avec
+   eux. Peut-être leur avez vous dit que vous pourriez gagner le
+   championnat? Pour gagner le championnat vous avez besoin de gagner dans
+   le groupe Élite.
+
+Q.: Mon sponsor m'a posé une question, comment dois-je y répondre ?
+
+   R.: C'est à vous de décider, mais rappelez-vous que si vous induisez en
+   erreur vos sponsors, ils peuvent devenir mécontents et ne pas exécuter
+   le contrat.
+
+Personnel et installations
+
+Q.: Je ne suis pas endetté, mais je ne peux pas entrainer mon personnel,
+pourquoi ?
+
+   R.: Cela se produit lorsque le niveau de compétences de votre personnel
+   est plus élevé que le niveau de compétence requis pour pouvoir
+   l'entrainer. Pour entrainer votre personnel, vous devrez d'abord faire
+   progresser les installations.
+
+Directeur technique
+
+Q.: Je ne peux pas renouveler le contrat de mon directeur technique, pourquoi
+?
+
+   R.: Il n'est pas possible de renouveler le contrat d'un directeur
+   technique dans GPRO. Cela permet un marché plus concurrentiel.
+
+Q.: Mon directeur technique a disparu alors qu'il lui restait des courses
+sous contrat, pourquoi ?
+
+   R.: Les règles du jeu stipulent qu'un directeur technique vous quitte
+   si votre solde financier est inférieur à -15.000.000 $ donc vous ne
+   pouvez pas le payer et il ne travaillera pas gratuitement. Ou alors
+   vous avez été relégué à un groupe qui ne permet pas de directeur
+   technique.
+
+Q.: Je ne peux pas proposer de contrat à un Directeur technique, pourquoi?
+
+   R.: Les seules raisons pour cela sont : • Vous n'êtes pas dans le bon
+   groupe, les directeurs technique sont disponibles pour l'Élite, les
+   Master et les groupes Pro uniquement. • Vous ne pouvez pas payer un
+   directeur technique pour cause de balance financière négative. • Le
+   niveau global du directeur technique est trop élevé pour la classe.
+
+Q.: Si je descend en dessous de -15.000.000$, est-ce que mon directeur
+technique part immédiatement ou est ce qu'il attend de voir si je suis
+toujours en dessous de -15.000.000$ après la course?
+
+   R.: Il partira avant la course.
+
+Classements des managers
+
+Q.: Que signifie le “N” après le nom du manager dans le classement de la
+saison ?
+
+   R.: Le "N" représente un solde financier négatif pour le manager.
+
+Les équipes
+
+Q.: Est ce que l'argent venant des points d'équipe est partagé entre tous les
+membres de l'équipe à la fin de la saison ou est-ce le montant que chaque
+membre de l'équipe va recevoir ?
+
+   R.: L'argent provenant des points de l'équipe sera partagé également
+   entre tous les membres de l'équipe.
+
+Promotion / Relégation et fin de saison
+
+Q.: Quand est-ce que les promotions / relégations sont calculées ? Est ce
+avant ou après que les primes sont décernées ?
+
+   R.: La promotion ou relégation est calculée après que la prime pour le
+   Top 10 soit payée après la dernière course de la saison et AVANT que
+   l'argent obtenu par les points marqués, par l'équipe et par le bonus de
+   participation à toutes les courses de la saison soit versé. Il est
+   préférable de prévoir la promotion et de s'assurer que vous avez un peu
+   d'argent pour encore améliorer votre voiture, il ne serait pas une
+   bonne idée de promouvoir avec très peu d'argent.
+
+Q.: Qu'est-ce qui est réinitialisé à la fin de la saison en Rookie ?
+
+   R.: En Rookie à la fin de chaque saison une partie de vos attributs
+   sera remise à zéro, ceci se passe après le script promotion/relégation:
+   • Niveau de votre voiture : remis au niveau 1
+   • Installations : toutes remises au niveau 0
+   • Pilote : si le niveau global de votre pilote est au dessus de celui
+   de Rookie (85) avant la réinitialisation pour la saison à venir, vous
+   le perdrez
+   • Argent : sera fixé à 30.000.000 $
+   • Sponsor : un sponsor par défaut est donné, les autres sponsors sont
+   enlevés et toutes les négociations en cours sont remises à zéro
+   • Points de tests : tous les points des caractéristiques de la voiture
+   sont rétablis
+   • Personnel - réinitialisé
+
+Q.: Qu'est-ce qui n'est pas réinitialisé à la fin de la saison en Rookie ?
+
+   R.: La réinitialisation Rookie n'a aucun effet sur les points suivants
+   : • Pilote - si son niveau global est en-dessous de (85) • Équipe - si
+   vous êtes déjà dans une équipe, votre participation continuera • Stats
+   personnelles - toutes vos stats resteront
+
+Q.: Que se passe t-il exactement à la fin de la saison ?
+
+   R.: Voici la liste de ce qui arrive :
+   • Après la dernière course les 10 premiers de chaque championnat
+   touchent une prime en rapport à leurs places et à leurs niveaux
+   • Script de Promotion/Relégation
+   • Vente de pièces/installations pour repasser en positif
+   • Bonus de fin de saison pour les points marqués en championnat
+   • Argent pour les points d'équipe
+   • Les comptes de tous les managers en Rookie sont remis à zéro
+   • Bonus pour avoir pris part à toutes les courses
+
+Q.: Quand le calendrier de la nouvelle saison est-il annoncé ?
+
+   R.: Habituellement, la liste des pistes avec les dates de course
+   provisoires est publié 3-4 courses avant la fin de la saison en cours.
+   La date prévue pour le reset de fin de saison est publiée après la
+   dernière course de la saison.
+
+Profil
+
+Q.: J'ai un ami qui jouer à GPRO et je tiens à être mis dans le même groupe
+rookie pour la saison prochaine. Est-il possible de demander cela ?
+
+   R.: Oui, tous les managers peuvent sélectionner un groupe rookie
+   préféré. La préférence peut être réglée dans les paramètres du compte
+   -> Remise à zéro / suppression du compte -> Groupe rookie préféré.
+   Assurez-vous que vous et votre/vos ami(s) choisissez le même groupe. La
+   préférence n'aura d'effet que dans le cas où le manager joue en Rookie
+   la saison suivante et n'aura pas d'effet pour les managers qui jouent
+   dans les divisions supérieures. Les managers de divisions supérieures
+   qui veulent repartir en division Rookie doivent faire la demande dans
+   les paramètres du compte -> Remise à zéro / suppression du compte ->
+   Réinitialiser votre compte.
+
+Q.: Mon nom est erroné mais il ne se change pas quand je modifie mon profil,
+pourquoi ?
+
+   R.: Une fois votre compte approuvé, vous ne pouvez pas changer votre
+   nom dans le jeu par vous-même. Si votre nom est incorrect, contactez un
+   des Administrateurs et ils vont le changer pour vous.
+
+Q.: Je ne peux pas charger ma photo, est-ce un bug ?
+
+   R.: Si vous essayez de télécharger une image plus grande que 30 Ko,
+   vous pourriez obtenir une erreur. Dans ce cas, vous aurez à
+   redimensionner votre image avant de la télécharger. Si vous ne savez
+   pas comment redimensionner votre image, n'hésitez pas à contacter un
+   des Administrateurs.
+
+Les forums
+
+Q.: Comment puis-je chercher dans les forums ?
+
+   R.: Accédez aux forums en utilisant le bouton Forum en haut de la page,
+   puis cliquez sur Recherche. Vous pourrez voir des options de recherche
+   dans le forum : vous pouvez lancer une recherche par auteur ou par
+   mot(s) spécifié(s). REMARQUE : l'option par défaut est la recherche par
+   titres de sujets seulement. Pour rechercher dans l'ensemble du forum,
+   sélectionnez l'option "totalité des posts".
+
+Q.: Je voudrais utiliser l'italique, gras et souligné dans les forums, est-ce
+possible ?
+
+   R.: Oui, certaines balises spéciales sont disponibles à cette fin. Les
+   balises sont représentées par des crochets ([tag]du texte[/tag]) comme
+   suit:
+   • italique - la balise est "i"
+   • gras - le tag est "b"
+   • souligné - la balise est "u"
+   • [DEL: rayé :DEL] - la balise est "s"
+
+Q.: Comment puis-je citer un autre post dans le forum ?
+
+   R.: Il suffit de sélectionner le texte que vous souhaitez citer avec la
+   souris et cliquez sur "Citer" à côté du message que vous citez. Le
+   texte cité apparaît dans la zone "Répondre à ce sujet". Vous
+   remarquerez qu'il est enfermé dans une balise de ([quote]citation de
+   texte[/quote]).
+
+Q.: Quels sont ces globes oculaires effrayants au bas de la page dans une
+discussion du forum ?
+
+   R.: Si vous cliquez sur les globes oculaires, le sujet que vous lisez
+   actuellement sera ajouté à la liste d'alerte et le sujet apparaît alors
+   dans les "Dernières discussions" sur la page principale.
+
+Q.: Quel est le symbole rouge à côté des yeux effrayants au bas de la page
+dans une discussion du forum ?
+
+   R.: Si vous cliquez sur le symbole, vous choisissez d'ajouter le sujet
+   en cours à votre liste d'ignorés. Une fois ignoré, le sujet ne sera
+   plus affiché dans la section "Dernières discussions" qui figure dans
+   votre bureau principal.
+
+Foire aux questions
+Dernière mise à jour: 4 Décembre 2022, 01:35:54 [print.gif]
+
+   Retour au Bureau
+
+   Soutenir GPRO
+
+   © Grand Prix Racing Online 2005-2024. Tous droits réservés
+   Accès au Service|Politique de Confidentialité|Programme de partenariat
+     * Access Keys Help
+     * Skip To Content
+     * Mailbox
+     * Race Screen

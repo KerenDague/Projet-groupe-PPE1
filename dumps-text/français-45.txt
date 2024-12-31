@@ -1,0 +1,614 @@
+   #nakan.ch » Flux nakan.ch » Flux des commentaires oEmbed (JSON) oEmbed
+   (XML) Flux RSS du podcast
+
+   Skip to content
+
+   (BUTTON)
+
+Navigation
+
+     * Accueil
+     * Les tests
+          + Tous les tests
+          + Les tests Apple
+          + Les tests Coros
+          + Les tests Garmin
+          + Les tests Polar
+          + Les tests Suunto
+     * Le podcast Transition
+     * La chaîne Youtube
+     * Les dossiers
+          + Le guide Garmin
+          + Puissance en course à pied
+     * Les bons plans et promos
+     * Les guides pour choisir sa montre
+     * Newsletter
+     * Contact
+     * A propos
+          + On a parlé de nakan.ch…
+
+   Rechercher: ____________________ (BUTTON) Recherche
+   nakan.ch
+
+   nakan.ch
+
+   Tests de montres cardio GPS, triathlon et plus
+   YouTube
+   Instagram
+   Facebook
+   Threads
+   Bluesky
+
+   Avant-première
+
+Garmin annonce les Forerunner 955 et 255
+
+   1 juin 2022 greg (nakan) 21
+
+     Depuis la publication de cet article de présentation, un test
+     complet a été publié sur le site.
+     Forerunner 955: retrouvez ici le test de fond en comble!
+
+     Depuis la publication de cet article de présentation, un test
+     complet a été publié sur le site.
+     Forerunner 255: retrouvez ici le test de fond en comble!
+
+   [lazy_placeholder.gif] [kwImg.php]
+   Actuellement chez i-run
+
+   En profiter!
+   [lazy_placeholder.gif] [efImg.php]
+   Actuellement chez Alltricks
+
+   En profiter!
+
+   Ce matin, les sites de Garmin à travers le monde affichaient deux
+   nouveaux modèles: les Forerunner 955 et 255. Alors que la première est
+   la déclinaison dans la gamme « fitness » des dernières fenix, la
+   seconde est la montre de milieu de gamme de Garmin principalement
+   destinée aux adeptes de course à pied. Ces modèles s’inscrivent dans
+   une certaine continuité du côté de Garmin, apportant peu de grosses
+   nouveautés mais de petites améliorations qui en font des montres très
+   complètes sur leurs segments respectifs
+
+   Contenu de l’article
+
+     * Soutenir le site
+     * Forerunner 955: l’héritage des fenix 7 et Epix 2
+     * La Forerunner 255, le standard pour la course à pied se renouvelle
+     * Conclusion
+     * Supporter ce site pour de futurs articles
+          + Forerunner 955 et 955 Solar
+          + Forerunner 255 et 255 Music
+
+Soutenir le site
+
+   Vous appréciez les contenus de nakan.ch? Vous souhaitez soutenir le
+   site, tout en vous équipant avec les dernières nouveautés en matière de
+   technologie sportive? En utilisant le lien sur l'un des logos
+   ci-dessous, vous soutenez la réalisation de futurs tests de matériel
+   sur le site! Et cela ne vous coûte rien de plus!
+   [lazy_placeholder.gif] [irun_sq_alpha_130.png]
+   i-run, c'est le spécialiste de l'équipement de sport en ligne!
+   Chaussures, textile, équipement et bien sûr, cardio-GPS!
+   [lazy_placeholder.gif] [amazon_sq_alpha_130.png]
+   On ne présente plus amazon, qui propose un catalogue de miliers de
+   produits, y compris tous les articles de sport!
+   [lazy_placeholder.gif] [alltricks_sq_alpha_130.png]
+   Alltricks, c'est tout l'univers de l'outdoor, du vélo et de la course à
+   pied, sans oublier bien sûr l'électronique de sport!
+   Les liens vers amazon.fr, i-run.fr, alltricks.fr contenus dans cet
+   article sont des liens affiliés, qui permettent au site de reçevoir une
+   commission. Sans incidence sur le prix de l'article!
+
+Forerunner 955: l’héritage des fenix 7 et Epix 2
+
+   Les Forerunner 955 sont déjà disponible chez i-run!
+
+   La Forerunner 955 était attendue depuis l’annonce des fenix 7 et Epix
+   2. Premier enseignement: il s’agit du tout premier modèle de la série
+   Forerunner à intégrer la technologie Solar de Garmin. Après les fenix
+   puis les Instinct, il est désormais possible de prolonger l’autonomie
+   de sa montre lors d’activités ensoleillées pour les adeptes des montres
+   Forerunner. Toutefois, on constate que cette fonction a un prix: 100€
+   de plus sur le modèle solar qui s’affiche à 649€ contre 549€ pour le
+   modèle standard. Et puis, tous les modèles sont aussi tactiles, en plus
+   des commandes par boutons.
+   La Forerunner 955 Solar, les deux modèles sont disponibles en blanc ou
+   en noir
+
+   Deuxième amélioration, Garmin a ripoliné la façade des widgets de suivi
+   de performance en intégrant des nouveaux paramètres dans les
+   algorithmes, incluant la variabilité de fréquence cardiaque mesurée
+   automatiquement et en continu durant le sommeil. Ces données permettent
+   de proposer des données de meilleures qualité quant à la récupération
+   et l’aptitude à encaisser une nouvelle charge d’entrainement.
+
+   Enfin, Garmin arrive timidement avec une solution intégrée de mesure de
+   puissance en course à pied. Attention, ce n’est là probablement que le
+   début, mais des données natives débarquent dans les profils de course à
+   pied. Pour l’instant, leur utilisation reste très limitée, puisqu’on
+   devra se contenter des données issues des ceintures HRM-Run, HRM-Tri ou
+   HRM-Pro ou encore du RD-Pod. Garmin ne supporte pas les source externes
+   de données de puissance, et on pense ici immédiatement au Stryd, que
+   l’on pourra toujours utiliser mais en se limitant aux champs de données
+   Connect IQ, comme c’est le cas actuellement. Au vu de ces nouveautés,
+   on sent un petit arrière goût d’inachevé.
+
+   Pour le reste, la Forerunner 955 est une fenix 7 dans un format plus
+   compact et un boitier composite. Le niveau fonctionnel, hormis les
+   nouveautés ci-dessus qui arriveront par mise à jour sur les fenix 7 et
+   Epix 2, est pour ainsi dire similaire. La montre embarque le même chip
+   GPS que la fenix 7 et propose tous les modes GPS incluant le GPS en
+   mode double fréquence L1 + L5.
+
+   Sur le points de la connectique, Garmin ne semble pas vouloir proposer
+   de modèle LTE pour l’instant, le 945 LTE restant pour l’heure la seule
+   variante à proposer une connectivité cellulaire.
+
+   L’étiquette de prix est elle aussi une surprise, pour une fois le prix
+   à la sortie de la Forerunner haut de gamme, le prix est plus bas que le
+   modèle précédent. En se basant sur le prix américain, la 945 affichait
+   599$ alors que la 955 sort à 499$. En Europe, le prix de sortie est de
+   549€ contre 599€ pour la 945 à sa sortie.
+
+La Forerunner 255, le standard pour la course à pied se renouvelle
+
+   La famille de montres Forerunner 255
+
+   Les Garmin Forerunner 255 sont déjà disponibles chez i-run
+
+   Jusque là, la montre de milieu de gamme de course à pied de Garmin se
+   déclinait en deux modèles: avec et sans musique. Désormais, il faut
+   encore inclure une variante de taille dans la balance. On retrouve
+   ainsi 4 modèles: Forerunner 255, Forerunner 255 Music et Forerunner
+   255S, Forerunner 255S Music. Les caractéristiques de toutes les montres
+   sont identiques, mais les Forerunner 255S sont plus compactes, avec un
+   boitier de 41mm contre 46mm pour le modèle standard.
+
+   La considération la plus notable quand on regarde les caractéristiques
+   de cette nouvelle 255 est le fait que Garmin fait tomber le mur de la
+   « montre de triathlon exclusive ». Suunto, Coros et Polar avaient déjà
+   abandonné la ségrégation des montres « Running » et « Triathlon » il y
+   a plusieurs années. Garmin, plus timide, avait commencé à intégrer les
+   profils de natation à ses montres dites de « course à pied ».
+   Désormais, la Forerunner 255 propose un profil complet de triathlon.
+   Cela pourrait bien signifier la fin des séries de milieu de gamme
+   incarnées aujourd’hui par la Forerunner 745.
+
+   En ce qui concerne les nouveautés, on note principalement l’intégration
+   des algorithmes de HRV, les mêmes que sur la Forerunner 955 ci-dessus.
+   Les fonctions liées à la puissance en course à pied sont également de
+   la partie sur la 255. Plus surprenant encore: la montre propose aussi
+   l’intégralité des modes GPS y compris la double fréquence L1 + L5 sur
+   le GPS. Dire que ce mode est limité sur les fenix 7 non sapphire…
+
+   Enfin, le tour du propriétaire est complet une fois que l’on aura dit
+   que la montre intègre, et dans ce segment chez Garmin c’est quasi une
+   révolution, un altimètre barométrique.
+
+   Le prix par contre est revu à la hausse par rapport à la sortie de la
+   Forerunner 245. Le prix des modèles avec musique est à 399€ et les
+   modèles sans musique à 349€, quelle que soit la taille de la montre.
+   Mais au vu des caractéristiques de ces nouveaux modèles, cela n’est pas
+   forcément une surprise.
+
+Conclusion
+
+   Il va falloir désormais retrousser les manches et commencer les tests.
+   Une Forerunner 955 est déjà en route pour les tests et peut-être
+   pourra-t-elle être à mon poignet déjà le 11 juin pour mon prochain
+   half. Pour la 255, cela arrivera un tout petit peu plus tard.
+
+   Sur le papier, deux sentiments: le premier c’est Garmin qui laisse
+   enfin tomber cette ségrégation montre de course / montre de triathlon,
+   et c’est à n’en pas douter un tournant pour la marque. De l’autre, on
+   sent toujours cette fermeture de Garmin sur la puissance en course à
+   pied, ça en devient presque ridicule. Pourquoi essayer de conserver la
+   mainmise sur une solution qui est partout ailleurs ouverte et
+   compatible avec les capteurs du marché. Comme si les appareils Garmin
+   ne supportaient que les capteurs de puissance cyclistes de la marque.
+   Personne ne me fera croire que c’est une limitation technique…
+
+   Enfin, la dernière grosse surprise, c’est le prix, en particulier sur
+   les Forerunner 955. Que Garmin réduise le prix de sortie par rapport au
+   modèles précédent indique beaucoup de choses par rapport à la
+   saturation de ce marché et probablement que la barrière de prix a été
+   atteinte sur ces modèles. Finalement, c’est plutôt une bonne chose pour
+   toutes les sportives et tous les sportifs intéressés par ces modèles!
+
+Supporter ce site pour de futurs articles
+
+   Rédiger des tests et des articles sur la technologie dans le sport est
+   une passion dévorante! Cela fait plus de 12 ans que je le fais en marge
+   de mon activité professionnelle et sportive.Je ne compte pas mon temps,
+   et je ne suis absolument pas rémunéré par les marques pour le faire.
+
+   En passant par l'un des liens ci-dessous pour réaliser votre prochaine
+   commande en ligne, je touche une petite commission sur la transaction,
+   vous soutiendrez le site, et cela ne vous côutera pas plus cher!
+
+   Vous pouvez également soutenir le site au travers de la plateforme "Buy
+   Me a Coffee" ou d'autres moyens de soutenir le site sur cette page. Je
+   vous en remercie beaucoup!
+
+   Pour tout savoir sur ma politique de publication et de publicité sur le
+   site, rendez-vous ici!
+   [lazy_placeholder.gif] [irun_sq_alpha_130.png]
+   i-run, c'est le spécialiste de l'équipement de sport en ligne!
+   Chaussures, textile, équipement et bien sûr, cardio-GPS!
+   [lazy_placeholder.gif] [amazon_sq_alpha_130.png]
+   On ne présente plus amazon, qui propose un catalogue de miliers de
+   produits, y compris tous les articles de sport!
+   [lazy_placeholder.gif] [alltricks_sq_alpha_130.png]
+   Alltricks, c'est tout l'univers de l'outdoor, du vélo et de la course à
+   pied, sans oublier bien sûr l'électronique de sport!
+
+Forerunner 955 et 955 Solar
+
+   [lazy_placeholder.gif] [fr955solarnoir_250.jpg]
+   Forerunner 955 Solar Noir
+   [lazy_placeholder.gif] [irun.png]  i-run.fr 429.00 €VOIR L'OFFRE >
+   [lazy_placeholder.gif] [alltricks.png]  Alltricks 429.00 €VOIR L'OFFRE
+   >
+   [lazy_placeholder.gif] [fr955solarblanc_250.jpg]
+   Forerunner 955 Solar Blanc
+   [lazy_placeholder.gif] [irun.png]  i-run.fr 429.00 €VOIR L'OFFRE >
+   [lazy_placeholder.gif] [alltricks.png]  Alltricks 558.13 €VOIR L'OFFRE
+   >
+   [lazy_placeholder.gif] [fr955noir_250.jpg]
+   Forerunner 955 Noir (non solaire)
+   [lazy_placeholder.gif] [alltricks.png]  Alltricks 497.90 €VOIR L'OFFRE
+   >
+   [lazy_placeholder.gif] [fr955blanc_250.jpg]
+   Forerunner 955 Blanc (non solaire)
+   [lazy_placeholder.gif] [irun.png]  i-run.fr 449.00 €VOIR L'OFFRE >
+   [lazy_placeholder.gif] [alltricks.png]  Alltricks 495.72 €VOIR L'OFFRE
+   >
+
+Forerunner 255 et 255 Music
+
+   Les Garmin Forerunner 255 chez i-run
+     * Facebook
+     * Twitter
+     * WhatsApp
+     * Email
+
+Navigation de l’article
+
+   Previous Post:Des protocoles standards, même sur mon vélo
+   Next Post:La montre outdoor Garmin Instinct 2 testée de fond en comble
+
+21 commentaires
+
+    1.
+   Sam dit :
+       1 juin 2022 à 15 h 09 min
+       Merci pour tous ces tests.
+       Je me réjouis.
+       Avez vous testé la instinct 2? On la voit dans la publication sur
+       les bracelets mais je ne retrouve le test.
+       Merci
+       Répondre
+         1.
+        greg (nakan) dit :
+            1 juin 2022 à 15 h 15 min
+            Hello! Le test est encore en cours. Il devrait arriver dans
+            les prochains jours, au pire début de semaine prochaine !
+            Sportivement.
+            Répondre
+    2.
+   LE BARON dit :
+       1 juin 2022 à 18 h 32 min
+       Merci pour la news. La 255 a l’air très sympa, mais la grande
+       question est : est-ce que la prise en charge de la puissance sera
+       compatible avec le Stryd ?
+       Répondre
+         1.
+        Garos dit :
+            2 juin 2022 à 13 h 23 min
+            Comme sur les autres Garmin : via l’application Connect IQ.
+            Répondre
+              1.
+             LE BARON dit :
+                 4 juin 2022 à 18 h 57 min
+                 Ok, j’en déduis qu’on ne pourra paramétrer d’entrainement
+                 avec cette donnée dans ce cas. C’est tellement dommage …
+                 Répondre
+                   1.
+                  Garos dit :
+                      5 juin 2022 à 16 h 22 min
+                      On peut le faire via l’appli Stryd dans Connect IQ.
+                      Répondre
+                        1.
+                       LE BARON dit :
+                           5 juin 2022 à 17 h 23 min
+                           Ok je vais regarder ça car je ne sais pas
+                           comment on fait, merci pour ton retour.
+                           Répondre
+    3.
+   clems dit :
+       2 juin 2022 à 8 h 32 min
+       La coros 255 son positionnement tarifaire me parait trop élevé par
+       rapport à Coros notamment au regard de ses restrictions.
+       La 955 en revanche, je me demande si elle ne devient pas le
+       meilleur rapport qualité prix sur ce segment.
+       Répondre
+    4.
+   Stef dit :
+       3 juin 2022 à 22 h 33 min
+       Bonjour,
+       J’hésite entre une instinct 2 (que je regarder depuis un moment
+       sous toutes ces coutures) et du coup une 255.
+       Je sais que vous n’avez pas terminé le test de l’instinct 2 et
+       forcément pas commencé celui de la 255. Mais sur le papier laquelle
+       vous paraît la mieux pour un prix strictement indentique.
+       Merci d’avance
+       Répondre
+         1.
+        clems dit :
+            4 juin 2022 à 17 h 47 min
+            Si tu regardes sur la page de garmin les différences entre une
+            instinct 2 et une garmin 255 sur l’onglet caractéristiques, tu
+            verras que les différences sont assez nettes, il manque bcp de
+            fonctionnalités sur l’instinct2. D’ailleurs le support de
+            garmin conseille bien de partir toujours sur la gamme runner
+            dés que l’on fait de la course car il y a des mauvaises
+            surprises à l’usage… Et parfois aussi des surprises sur les
+            algos qui sont discriminants en fonction du modèle de montre.
+            Donc à prix égal c’est évident que je prendrais une 255.
+            Là je me demande comment on va se positionner à l’achat avec
+            des promotions entre Coros et Garmin car le match se resserre,
+            garmin a vu le danger
+            Répondre
+              1.
+             Stef dit :
+                 10 juin 2022 à 22 h 38 min
+                 Merci pour vos conseils.effectivement la forerunner 255
+                 est plus complète. J’aimais bien le look de l’instinct et
+                 le fait qu’elle ait une grosse autonomie. Mais en y
+                 regardant de plus près la 255 paraît être meilleure.
+                 Répondre
+         2.
+        cvanquick dit :
+            4 juin 2022 à 18 h 30 min
+            Que vas-tu faire avec ?
+            Répondre
+              1.
+             Stef dit :
+                 10 juin 2022 à 22 h 39 min
+                 Course (semi) et vélo quotidien.
+                 Répondre
+                   1.
+                  cvanquick dit :
+                      13 juin 2022 à 7 h 51 min
+                      Les fonctions principales seront largement
+                      suffisantes pour couvrir tes deux activités.
+                      L’instinct à son look, son autonomie (surtout la
+                      Solar) et quelques écrans outdoor sympas.
+                      La 255 va plus loin dans le traitement dans la
+                      donnée et dans la précision du GPS si tu utilises la
+                      double fréquence (et donc réduit ton autonomie en
+                      activité GPS par 2).
+                      J’ai eu l’instinct et je suis passé à la 255 parce
+                      que je suis un geek et que je triture la donnée pour
+                      voir comment mon corps réagit.
+                      Mais l’instinct était largement suffisante pour mon
+                      usage trail/course à pied et la recharge solaire
+                      fonctionne bien.
+                      Point à prendre en compte, l’écran : est-ce que le
+                      plus petit écran de l’instinct et sa résolution
+                      moindre te conviendront.
+                      Sauf à vouloir la dernière nouveauté et à triturer
+                      de la donnée dans tous les sens, l’instinct devrait
+                      suffire à ton usage.
+                      Répondre
+                        1.
+                       jbj dit :
+                           13 juin 2022 à 8 h 15 min
+                           Bonjour,
+                           Avez vous vous pu l essayer avant en magasin ou
+                           achat en ligne?
+                           Je ne sais pas si des boutiques en suisse
+                           romande propose deja le produit !
+                           merci
+                           Répondre
+                             1.
+                            cvanquick dit :
+                                13 juin 2022 à 19 h 01 min
+                                Je l’ai achetée en ligne et l’utilise
+                                depuis plus d’une semaine maintenant.
+                                Et je l’ai baptisée lors du Trail du Saint
+                                Jacques le WE dernier.
+                                Répondre
+    5.
+   Giovanni dit :
+       9 juin 2022 à 10 h 14 min
+       Alors l’info choquante dans toutes ces annonces que je retiens de
+       suite c’est la double fréquence pour la 255 et 955 d’emblée alors
+       qu’elle est réservée aux modèles sapphire de la serie fenix ! (
+       sans parler de la mémoire 16go…. )
+       Il ne reste plus qu’à Garmin ( Monsieur Jonathan METGE lorsque vous
+       lirez cet article… ;-) ) à lancer une maj corrigeant tout ça sur
+       les fenix…!!
+       Non ??!
+       Répondre
+    6.
+   philippe dit :
+       3 juillet 2022 à 12 h 47 min
+       Bonjour, je viens de recevoir ma nouvelle 255 music. Stupeur car le
+       virtual partner ne fonctionne pas ou plus exactement le temps
+       d’avance ou de retard dont l’information est inscrite en haut est
+       remplacé par  » temps restant  » qui reste fixe sans données à
+       l’intérieur et le fond blanc ou noir qui change selon que vous êtes
+       en avance ou en retard ne bouge pas non plus que se soit en mode
+       course ou mode entrainement. Sachant que je ne m’entraine seul
+       qu’avec le virtual partner cette montre n’a plus d’utilité pour
+       moi. Vraiment déçu car le problème existé dèja sur la garmin 735 et
+       je croyais que depuis cela avait disparu. très mécontent.
+       Répondre
+    7.
+   Simon dit :
+       23 juillet 2022 à 15 h 00 min
+       Bonjour,
+       Un grand merci pour vos articles et vos tests qui sont d’une grande
+       aide précieuse.
+       Je viens de passer de la 945 à la 955 solaire.
+       Les paramètres de la 945 se sont chargés automatiquement sur la 955
+       après deux mois d’utilisation je constate que le mode gps: tous
+       +multibandes et énergivore au plus haut point. Après deux sorties
+       d’une heure et demie je n’ai plus de batterie sur ma montre.
+       Je veux bien que le système est beaucoup plus gourmand mais de la à
+       tenir à peine 3h en course cela me paraît très peu.
+       Sportivement Sims
+       Répondre
+         1.
+        Olivier dit :
+            31 juillet 2022 à 10 h 19 min
+            Merci pour ce retour.
+            Je comptais moi aussi passer à la 955 mais vos commentaires
+            m’ont refroidi !
+            @Greg: une idée des résultats de vos tests avec la 955 ?
+            Répondre
+              1.
+             Marc dit :
+                 1 août 2022 à 17 h 51 min
+                 Pareil, je voudrais passer à un montée avec de la carto
+                 et j’hésite entre les fenix 6 qu’on trouve à des tarifs
+                 intéressants et la 955 mais si l’autonomie est à ce
+                 niveau, mon problème est réglé… et la fenix 7 n’est pas
+                 dans mon budget
+                 Répondre
+
+Laisser une réponse Annuler la réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   [ ] Me notifier de nouveaux messages par e-mail. Il est également
+   possible de s'inscrire sans commenter.
+
+   Laisser un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Ce site utilise Akismet pour réduire les indésirables. En savoir plus
+   sur comment les données de vos commentaires sont utilisées.
+
+Supporter le site
+
+   Vous souhaitez soutenir le site? En passant par l'un des liens affiliés
+   que vous trouverez en fin d'article, vous me permettez de toucher une
+   petite commission sur la vente. Que ce soit chez i-run.fr, amazon.fr,
+   alltricks.fr, vous aidez le site pour de futurs articles!
+
+Rechercher sur le site
+
+   Rechercher: ____________________ (BUTTON) Recherche
+
+A propos de ce site
+
+   Nakan.ch est le premier blog francophone sur les montres de sport
+   cardio GPS, sur le triathlon et la technologie dans le sport
+   d'endurance, en ligne depuis 2011. Sur ce site, vous trouverez des
+   tests de montres cardio GPS objectifs et indépendants, effectués par un
+   passionné qui pratique le triathlon depuis 2009. Les tests "de fond en
+   comble" sont désormais reconnus dans le milieu du sport d'endurance.
+
+Derniers commentaires
+
+     * Charles-André Coste dans Tout savoir sur l’utilisation de Stryd
+       avec une montre Garmin
+     * Michel Rysenaer dans La Polar Vantage M3 testée de fond en comble
+     * Chris dans Les casques Suunto Wing et Suunto Sonic testés de fond
+       en comble
+     * Nicolas Rod dans Fitcompare: l’outil de nakan.ch pour comparer les
+       fichiers .fit
+     * Charles dans Garmin Venu 2: la montre connectée sportive testée de
+       fond en comble
+     * Jeewee dans Tout savoir sur l’utilisation de Stryd avec une montre
+       Garmin
+     * Eric dans Le compteur COROS Dura testé de fond en comble
+     * greg (nakan) dans Tout savoir sur l’utilisation de Stryd avec une
+       montre Garmin
+     * rémi nfkb dans Tout savoir sur l’utilisation de Stryd avec une
+       montre Garmin
+     * Nino Quincampoix dans La montre Suunto Race S testée de fond en
+       comble
+
+     * Accueil
+     * Contact
+     * A propos
+     * Politique de confidentialité
+
+   © Grégory Chanez - nakan.ch
+
+   Le site nakan.ch utilise des cookies ou traceurs pour stocker des
+   informations, comme votre visite sur ce site pour des fonctions liées
+   aux réseaux sociaux, la mesure de performance des publicités ou encore
+   des données d'audience. Vous pouvez autoriser ou refuser les cookies ou
+   traceurs qui permettent de vous identifier ou de vous suivre. Le site
+   utilise des cookies nécessaires à son fonctionnement technique. Ils ne
+   permettent pas de vous identifier.
+   Tout accepter
+   Refuser
+
+   Gérer le consentement relatif aux cookies
+
+   (BUTTON) Fermer
+
+Privacy Overview
+
+   This website uses cookies to improve your experience while you navigate
+   through the website. Out of these, the cookies that are categorized as
+   necessary are stored on your browser as they are essential for the
+   working of basic functionalities of the website. We also use
+   third-party cookies that help us analyze and understand how you use
+   this website. These cookies will be stored in your browser only with
+   your consent. You also have the option to opt-out of these cookies. But
+   opting out of some of these cookies may affect your browsing
+   experience.
+   Necessary
+   [X] Necessary
+   Toujours activé
+   Necessary cookies are absolutely essential for the website to function
+   properly. These cookies ensure basic functionalities and security
+   features of the website, anonymously.
+   Cookie Durée Description
+   cookielawinfo-checkbox-necessary 3600 This cookie is set by GDPR Cookie
+   Consent plugin. The cookies is used to store the user consent for the
+   cookies in the category "Necessary".
+   viewed_cookie_policy 3600 The cookie is set by the GDPR Cookie Consent
+   plugin and is used to store whether or not user has consented to the
+   use of cookies. It does not store any personal data.
+   Advertisement
+   [ ] Advertisement
+   Advertisement cookies are used to provide visitors with relevant ads
+   and marketing campaigns. These cookies track visitors across websites
+   and collect information to provide customized ads.
+   Enregistrer & appliquer
+   Propulsé par CookieYes Logo

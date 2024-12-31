@@ -1,0 +1,543 @@
+   #nakan.ch » Flux nakan.ch » Flux des commentaires oEmbed (JSON) oEmbed
+   (XML) Flux RSS du podcast
+
+   Skip to content
+
+   (BUTTON)
+
+Navigation
+
+     * Accueil
+     * Les tests
+          + Tous les tests
+          + Les tests Apple
+          + Les tests Coros
+          + Les tests Garmin
+          + Les tests Polar
+          + Les tests Suunto
+     * Le podcast Transition
+     * La chaîne Youtube
+     * Les dossiers
+          + Le guide Garmin
+          + Puissance en course à pied
+     * Les bons plans et promos
+     * Les guides pour choisir sa montre
+     * Newsletter
+     * Contact
+     * A propos
+          + On a parlé de nakan.ch…
+
+   Rechercher: ____________________ (BUTTON) Recherche
+   nakan.ch
+
+   nakan.ch
+
+   Tests de montres cardio GPS, triathlon et plus
+   YouTube
+   Instagram
+   Facebook
+   Threads
+   Bluesky
+
+   Focus
+
+Puissance à pied: définir rFTPw et ses zones de puissance
+
+   20 décembre 2018 greg (nakan) 15
+   [lazy_placeholder.gif] [kwImg.php]
+   Actuellement chez i-run
+
+   En profiter!
+   [lazy_placeholder.gif] [efImg.php]
+   Actuellement chez Alltricks
+
+   En profiter!
+
+   Dans les deux premiers épisodes de cette série sur la puissance en
+   course à pied, nous avons vu les solutions qui existent sur le marché,
+   puis l’intérêt mais aussi les limites de la mesure de puissance dans
+   cette discipline. Après ces deux premiers épisodes, il est temps de
+   parler plus concrètement de l’utilisation de cette mesure lorsqu’on
+   court. Alors peu importe si il s’agit de la mesure interne de la
+   Vantage V, de la ceinture HRM-Run de Garmin et son app Connect IQ, le
+   Stryd attaché à la chaussure ou encore une autre solution de mesure de
+   la puissance: il est temps de partir courir en affichant cette donnée
+   sur la montre!
+
+   Contenu de l’article
+
+     * Apprivoiser la donnée
+     * rFTPw: la donnée de référence
+     * Déterminer rFTPw
+          + L’un des protocoles pour déterminer rFTPw
+          + De l’importance de toujours utiliser un capteur de référence
+          + Définir ses zones de puissance à pied
+
+Apprivoiser la donnée
+
+   Tout comme les données d’allure et de fréquence cardiaque, il convient
+   d’accorder un peu de temps pour apprivoiser cette donnée de puissance.
+   Alors si dès la première séance effectuée avec le capteur de puissance
+   il est utile d’enregistrer les données pour une utilisation ultérieure,
+   il convient de ne garder qu’un œil discret sur cette donnée au début.
+   En effet, inutile pour l’instant de vouloir absolument garder la donnée
+   à un niveau quelconque. Il est par contre intéressant lors des
+   premières utilisations du capteur de puissance de remarquer la
+   variation de puissance en courant « vite » ou « lentement », en montée
+   ou en descente par exemple. Enfin, il est également intéressant
+   d’analyser les courbes de puissance (ci-dessous avec Polar Flow) et de
+   les superposer à d’autres données pour comparer l’évolution de la
+   puissance avec le dénivelé par exemple.
+
+   Il faudra par contre veiller à renseigner correctement les paramètres
+   du capteur ou les données utilisées par ce dernier dans le profil de
+   l’utilisateur. Par exemple, les données de poids ou de taille sont
+   importantes pour obtenir des données correctes.
+
+   Puis, après quelques séances effectuées avec cette donnée de puissance
+   sous les yeux, il va devenir intéressant d’avoir des données de
+   référence pour aller plus loin dans son utilisation.
+
+rFTPw: la donnée de référence
+
+   Lorsqu’on s’entraine en se basant sur la fréquence cardiaque, on
+   utilise plusieurs valeurs clé pour juger de l’intensité: FCMax et les
+   valeurs de seuil S1 et S2 par exemple. Si on utilise l’allure, la
+   notion de VMA n’est étrangère à aucun coureur à pied.
+
+   Pour utiliser la puissance efficacement en course à pied, il convient
+   également d’avoir une valeur de référence. Cette valeur est nommée
+   rFTPw. Pour les habitués de la puissance à vélo, elle est équivalente
+   au fameux FTP. D’ailleurs, certains ouvrages ou articles utilisent
+   simplement FTP comme désignation pour cette valeur en course à pied. Il
+   reste préférable d’utiliser rFTPw (avec le premier « r » pour running
+   et le Pw pour power, afin d’éviter la confusion avec « pace » en
+   anglais) qui semble finalement adopté par la majorité des acteurs du
+   milieu de la course à pied.
+
+   Tout comme le FTP en cyclisme, rFTPw correspond à la puissance moyenne
+   maximale qu’un athlète peut développer en course à pied durant un
+   effort d’une heure. C’est ensuite en ciblant des intensités basées sur
+   un pourcentage de cette valeur qu’il sera possible de planifier des
+   entrainements spécifiques basés sur la puissance.
+
+Déterminer rFTPw
+
+   Puisque cette valeur correspond à une heure de course à intensité
+   maximale, on pourrait penser que le meilleur moyen de l’estimer serait
+   de partir s’échauffer puis de partir courir une heure à fond et de
+   simplement consulter la moyenne obtenue. Mais comme à vélo, il est
+   préférable de ne pas le faire ainsi. D’une part car un effort constant
+   et si intense sur une heure est difficile à gérer surtout pour un
+   coureur amateur. D’autre part car cette mesure est à renouveler
+   régulièrement au cours de la saison et qu’un effort d’une heure aussi
+   intensif nécessite une récupération plus importante qu’un protocole
+   plus « léger ».
+
+   Alors comme on préconise des estimations basées sur des efforts de 20 à
+   30 minutes pour la mesure de FTP à vélo, l’estimation de rFTPw à pied
+   est proposée par plusieurs protocoles différents. En ce qui me
+   concerne, j’ai choisi le protocole développé par Stryd et repris par
+   Training Peaks. Il est d’ailleurs repris par une grande partie des
+   ouvrages que j’ai consultés sur le sujet.
+
+L’un des protocoles pour déterminer rFTPw
+
+   Ce protocole est issu des études de Stryd et a été légèrement adapté
+   par Training Peaks, comme ils l’expliquent sur leur blog. L’article
+   original est disponible ici.
+
+   Il sera de préférence réalisé après une période de repos ou
+   d’entrainements légers. Pour les triathlètes, il ne sera de préférence
+   pas pratiqué en enchainement après une séance de vélo.
+
+   Le test de rFTPw sera effectué dans des conditions reproductibles pour
+   des données plus cohérentes au cours de la saison. Idéalement, on
+   l’exécutera sur piste ou sur terrain plutôt plat.
+     * Un échauffement complet doit avoir lieu avant de commencer les
+       choses sérieuses, au moins 15 minutes, en se préparant à un effort
+       conséquent ensuite, en concluant échauffement par quelques sprints
+       courts par exemple.
+     * On mesure ensuite la puissance moyenne sur un effort à intensité
+       maximale de 3 minutes. Il est important de bien marquer un tour
+       avant et après ces 3 minutes pour obtenir la puissance moyenne de
+       cette période.
+     * Durant la phase suivante, on récupère de la manière suivante: 5
+       minutes de marche, puis 10 minutes de course à intensité faible,
+       puis 5 minutes de marche, puis 5 minute de course à intensité
+       faible, puis 5 minutes de marche. Cette période intermédiaire dure
+       au total 30 minutes.
+     * On mesure ensuite la puissance moyenne sur un effort maximal de 9
+       minutes. Il est important de bien marquer un tour avant et après
+       ces 9 minutes pour obtenir la puissance moyenne de cette période.
+     * Le test est alors terminé avec un retour au calme de 10 à 15
+       minutes.
+
+   Après le test, on obtient sa valeur de rFTPw grâce au calcul suivant:
+
+   On additionne la moyenne de watts obtenue pour la période de 3 minutes
+   à celle de 9 minutes et on divise ce résultat par 2. On prend alors le
+   90% de ce nombre pour obtenir rFTPw.
+
+   Par exemple, lors de mon dernier test j’ai obtenu 363 et 328 watts pour
+   les périodes de 3 minutes et de 9 minutes. Le calcul pour obtenir rFTPw
+   dans mon cas est donc:
+
+   ((363+328)/2)*0.9= 311W
+
+De l’importance de toujours utiliser un capteur de référence
+
+   La mesure de puissance varie d’un capteur à l’autre, on l’a vu dans les
+   premiers épisodes de cette série. Alors il est important d’effectuer le
+   test de rFTPw puis toutes les mesures et analyses avec le même capteur
+   pour continuer à utiliser et obtenir des données cohérentes!
+
+Définir ses zones de puissance à pied
+
+   Une fois rFTPw connu, il est possible de définir les zones de
+   puissance. Tout comme pour le cyclisme, il existe de nombreuses
+   méthodes pour établir les zones de puissance à pied. Et encore une fois
+   il faut faire un choix de méthodologie.
+
+   une fois de plus j’ai orienté mon choix vers la méthode qui est
+   proposée par Training Peaks, à savoir celle de Jim Vance. Elle comporte
+   7 zones et se découpe comme suit. Dans les dernière colonne, les
+   données brutes en watts basés sur mon rFTPw ci-dessus de 311W:
+  Zone      Intensité       % de rFTPw   Durée de soutien  W (selon mon exemple)
+  Z1   Marche/récupération 0-81%        3 heures et plus   0-249
+  Z2   Endurance           81-88%       2-3 heures         250-274
+  Z3   Tempo               89-95%       1-3 heures         279-295
+  Z4   Seuil               96-105%      1 heure            296-327
+  Z5   Intensité           106-115%     20-45 minutes      328-358
+  Z6   VO2                 116-128%     2-18 minutes       359-398
+  Z7   Anaérobique         129% et plus moins de 2 minutes 399-2000
+
+   Grâce à ces zones de puissance, il sera possible par la suite de
+   planifier et de suivre un programme d’entrainement spécifique, aspect
+   qui sera abordé dans cette série sur l’utilisation de la puissance en
+   course pied dans de futurs articles.
+
+   Notez enfin que la plupart des applications qui permettent un suivi de
+   la progression de l’entrainement basé sur la puissance, comme par
+   exemple Training Peaks ou encore GoldenCheetah (qui sont deux outils
+   qui seront également abordés plus en détail plus tard) calculeront
+   automatiquement les zones de puissance en indiquant simplement le
+   rFTPw.
+
+   Retrouvez tous les articles traitant de la puissance en course à pied
+   sur cette page!
+     * Facebook
+     * Twitter
+     * WhatsApp
+     * Email
+
+Navigation de l’article
+
+   Previous Post:Pourquoi utiliser un capteur de puissance en course à
+   pied?
+   Next Post:La montre multisport Coros Apex testée de fond en comble
+
+15 commentaires
+
+    1.
+   Thibault dit :
+       20 décembre 2018 à 20 h 19 min
+       Hello,
+       Il me semble qu’il y a une faute dans cette phrase
+       On mesure ensuite la puissance moyenne sur un effort maximal de 9
+       minutes. Il est important de bien marquer un tour avant et après
+       ces 3—>9?? minutes pour obtenir la puissance moyenne de cette
+       période.
+       Sinon article intéressant
+       Répondre
+         1.
+        Donnay dit :
+            20 décembre 2018 à 20 h 27 min
+            Top comme d’hab
+            Les encu…. de mouche vont bientôt venir hurler sur la
+            précision de la reproductibilité de la mesure de ces capteurs
+            me réjoui
+            Répondre
+         2.
+        Chc dit :
+            20 décembre 2018 à 21 h 18 min
+            Superbe article, bravo !
+            Steve Palladino (une grande référence sur le sujet en course à
+            pied avec la puissance !) propose pour les coureurs à pied
+            qu’il suit le même protocole à un détail près, le second test
+            de 10 min au lieu de 9 min pour bénéficier de mesures
+            éprouvées et directes sur le calculateur en ligne de référence
+            de Monod gratuit et sans inscription en sélectionnant 3 et 10
+            minutes à
+            http://www.cyclingpowerlab.com/MonodCriticalPower.aspx !
+            Pas de calcul, des données très sûres, quelques autres
+            précisions car ce calculateur en ligne a prévu beaucoup de
+            combinaisons de durées mais pas 9 minutes ! Et après tout un
+            test court puis un peu plus long ensuite de 1 minute c’est
+            encore mieux sans bouleverser le monde.
+            Répondre
+              1.
+             greg (nakan) dit :
+                 20 décembre 2018 à 22 h 04 min
+                 Merci pour ces précisions!
+                 Répondre
+         3.
+        greg (nakan) dit :
+            20 décembre 2018 à 22 h 03 min
+            Exact. Erreur de frappe. Je corrige.
+            Merci!
+            Répondre
+    2.
+   Gio dit :
+       20 décembre 2018 à 20 h 27 min
+       C’est très claire.
+       Thanks
+       Répondre
+    3.
+   Patrice dit :
+       21 décembre 2018 à 21 h 44 min
+       Bjr,
+       Merci Greg. Une fois de plus c’est très instructif.
+       Je débute avec le stryd (15 jours seulement) et compte faire le
+       test entre noel et le 1er de l’an afin de démarrer 2019 sur un plan
+       d’entrainement sur la puissance.
+       J’ai une spartan sport mais movescount est vraiment limité. Je
+       comptais donc utiliser Polarflow mais quand j’extrais mes données
+       (via SyncMyTracks) je ne retrouve pas mes infos de puissance dans
+       Polarflow. La cadence, l’altitude, fréquence cardiaque tout y est…
+       sauf la puissance et les tours !
+       Cela peut venir de quoi stp ? Merci
+       Répondre
+         1.
+        greg (nakan) dit :
+            22 décembre 2018 à 11 h 34 min
+            Salut,
+            Je n’ai jamais essayé de synchroniser les données dans ce sens
+            sur Flow. Peut-être que SyncMyTrack n’exporte pas les données
+            de puissance… Je vais faire quelques tests en ce sens
+            prochainement.
+            Sportivement.
+            Répondre
+              1.
+             Patrice dit :
+                 5 janvier 2019 à 18 h 05 min
+                 Salut Greg.
+                 Bon je fais un blocage avec Movescount, j’aime pas du
+                 tout :(
+                 Du coup j’ai bien envie de changer de montre mais il m’en
+                 faut une compatible avec la polar h10 et forcément le
+                 stryd.
+                 J’hésite entre la garmin 935 (tout simplement parce que
+                 tous mon matos vélo est déjà chez garmin) ou alors la
+                 vantage M (env 100 € d ‘écart quand même)
+                 Y a-t-il une différence à l’utilisation entre ces 2
+                 montres couplées avec le stryd ? laquelle des 2 offres
+                 plus « d’options » quant à l’entrainement à la puissance
+                 ?
+                 Merci de tes bon conseils et très bonne année 2019 :)
+                 Répondre
+                   1.
+                  greg (nakan) dit :
+                      7 janvier 2019 à 11 h 35 min
+                      Salut,
+                      D’un point de vie purement puissance cap les deux
+                      montres fournissent à peu près les mêmes données, à
+                      savoir les watts. La Polar affichera en plus les
+                      zones de puissance dans les récap ce que ne fait pas
+                      la Garmin en mode natif avec l’app Stryd. Pour le
+                      reste, la 935 reste plus complète et surtout il est
+                      plus facile de définir quel appareil (stryd ou GPS)
+                      doit se charger de la mesure de distance sur les
+                      Garmin.
+                      Sportivement.
+                      Répondre
+    4.
+   Quentin dit :
+       24 décembre 2018 à 17 h 12 min
+       Excellent article, on rentre dans le concret, c’est top! Merci pour
+       ton travail, ça me servira cette année.
+       Quentin
+       Répondre
+    5.
+   Gennek dit :
+       4 janvier 2019 à 11 h 44 min
+       Bonjour Greg,
+       Comme tu l’indiques chaque constructeur à son propre algorithme de
+       puissance en course à pied, je me demandais si tu pouvais faire un
+       « comparatif » sur un sujet témoin et volontaire des différences de
+       valeur obtenue suivant les capteurs et constructeur.
+       Je me doute que c’est une travaille conséquent.
+       Je commence à m’intéresser à la puissance à la course à pied suite
+       à la lecture de tes articles, mais si j’ai bien compris que chaque
+       coureur à sa propre puissance de course à pied, il serait bon de
+       savoir si les résultats obtenu sont cohérents.
+       Pour ma part, j’utilise le capteur cardiaque Garmin HRM-Run et
+       j’obtiens des valeur qui me semble étrange au regard des résultats
+       que tu présentes.
+       Merci d’avance
+       Sportivement
+       Répondre
+    6.
+   Vincent dit :
+       7 janvier 2019 à 16 h 56 min
+       Bonjour Greg,
+       Cette petite série d’articles et très intéressante et le fait que
+       ca soit découpé en « chapitre » rend la lecture aisée et la
+       compréhension particulièrement facile. Je serai très intéressé par
+       une série sur la VMA, le VO2Max, les zones, etc et leurs
+       utilisations dans un programme d’entrainement. L’amateur éclairé
+       que je suis a souvent tendance à s’y perdre dans tout ca.
+       Bonne année sportive
+       Répondre
+         1.
+        greg (nakan) dit :
+            9 janvier 2019 à 14 h 35 min
+            Merci!
+            Ca donne effectivement des idées d’articles et de dossiers
+            thématiques pour l’avenir. Je vais déjà aller au bout de la
+            série sur la puissance à pied puis je pourrais commencer un
+            nouvel aspect de l’entrainement!
+            Sportivement.
+            Répondre
+    7.
+   PARSY dit :
+       19 décembre 2022 à 14 h 43 min
+       Bonjour
+       J’ai une forrenur 645 et une HRM Pro. J’ai téléchargé l’application
+       LAPS RUNNING CONNECT depuis Connect iq mais je ne parvient pas à la
+       récupérer sur garmin connect alors que la synchronisation se fait.
+       Pourriez vous m’aider ?
+       Répondre
+
+Laisser une réponse Annuler la réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   [ ] Me notifier de nouveaux messages par e-mail. Il est également
+   possible de s'inscrire sans commenter.
+
+   Laisser un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Ce site utilise Akismet pour réduire les indésirables. En savoir plus
+   sur comment les données de vos commentaires sont utilisées.
+
+Supporter le site
+
+   Vous souhaitez soutenir le site? En passant par l'un des liens affiliés
+   que vous trouverez en fin d'article, vous me permettez de toucher une
+   petite commission sur la vente. Que ce soit chez i-run.fr, amazon.fr,
+   alltricks.fr, vous aidez le site pour de futurs articles!
+
+Rechercher sur le site
+
+   Rechercher: ____________________ (BUTTON) Recherche
+
+A propos de ce site
+
+   Nakan.ch est le premier blog francophone sur les montres de sport
+   cardio GPS, sur le triathlon et la technologie dans le sport
+   d'endurance, en ligne depuis 2011. Sur ce site, vous trouverez des
+   tests de montres cardio GPS objectifs et indépendants, effectués par un
+   passionné qui pratique le triathlon depuis 2009. Les tests "de fond en
+   comble" sont désormais reconnus dans le milieu du sport d'endurance.
+
+Derniers commentaires
+
+     * Charles-André Coste dans Tout savoir sur l’utilisation de Stryd
+       avec une montre Garmin
+     * Michel Rysenaer dans La Polar Vantage M3 testée de fond en comble
+     * Chris dans Les casques Suunto Wing et Suunto Sonic testés de fond
+       en comble
+     * Nicolas Rod dans Fitcompare: l’outil de nakan.ch pour comparer les
+       fichiers .fit
+     * Charles dans Garmin Venu 2: la montre connectée sportive testée de
+       fond en comble
+     * Jeewee dans Tout savoir sur l’utilisation de Stryd avec une montre
+       Garmin
+     * Eric dans Le compteur COROS Dura testé de fond en comble
+     * greg (nakan) dans Tout savoir sur l’utilisation de Stryd avec une
+       montre Garmin
+     * rémi nfkb dans Tout savoir sur l’utilisation de Stryd avec une
+       montre Garmin
+     * Nino Quincampoix dans La montre Suunto Race S testée de fond en
+       comble
+
+     * Accueil
+     * Contact
+     * A propos
+     * Politique de confidentialité
+
+   © Grégory Chanez - nakan.ch
+
+   Le site nakan.ch utilise des cookies ou traceurs pour stocker des
+   informations, comme votre visite sur ce site pour des fonctions liées
+   aux réseaux sociaux, la mesure de performance des publicités ou encore
+   des données d'audience. Vous pouvez autoriser ou refuser les cookies ou
+   traceurs qui permettent de vous identifier ou de vous suivre. Le site
+   utilise des cookies nécessaires à son fonctionnement technique. Ils ne
+   permettent pas de vous identifier.
+   Tout accepter
+   Refuser
+
+   Gérer le consentement relatif aux cookies
+
+   (BUTTON) Fermer
+
+Privacy Overview
+
+   This website uses cookies to improve your experience while you navigate
+   through the website. Out of these, the cookies that are categorized as
+   necessary are stored on your browser as they are essential for the
+   working of basic functionalities of the website. We also use
+   third-party cookies that help us analyze and understand how you use
+   this website. These cookies will be stored in your browser only with
+   your consent. You also have the option to opt-out of these cookies. But
+   opting out of some of these cookies may affect your browsing
+   experience.
+   Necessary
+   [X] Necessary
+   Toujours activé
+   Necessary cookies are absolutely essential for the website to function
+   properly. These cookies ensure basic functionalities and security
+   features of the website, anonymously.
+   Cookie Durée Description
+   cookielawinfo-checkbox-necessary 3600 This cookie is set by GDPR Cookie
+   Consent plugin. The cookies is used to store the user consent for the
+   cookies in the category "Necessary".
+   viewed_cookie_policy 3600 The cookie is set by the GDPR Cookie Consent
+   plugin and is used to store whether or not user has consented to the
+   use of cookies. It does not store any personal data.
+   Advertisement
+   [ ] Advertisement
+   Advertisement cookies are used to provide visitors with relevant ads
+   and marketing campaigns. These cookies track visitors across websites
+   and collect information to provide customized ads.
+   Enregistrer & appliquer
+   Propulsé par CookieYes Logo

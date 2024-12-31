@@ -1,0 +1,524 @@
+   #RSS Cuk: Articles
+
+   Profitez des offres Memoirevive.ch!
+
+   navigation
+    accueil
+    compte
+    commentaires
+    produits
+   articles
+     Rechercher..._______ OK
+   Afficher une catégorie:
+    Audio, Hi-fi
+    Bureautique, graphisme
+    Culture, jeu, loisir
+    Humeur, actualité
+    Education
+    iPhone, iPad
+    Macintosh
+    Matériel, périphériques
+    Photo, vidéo
+    Test, prise en main
+    Utilitaire
+   [Choisissez________________]
+   Archives par date:
+   [Tous_____] [2017] OK
+   à propos
+    esprit du site
+    à propos des tests
+    devenir rédacteur
+    contact
+
+   François Cuneo, le 8 juillet 2016
+   Runkeeper et l’Apple Watch, ce n’est plus bonnard du tout!
+
+   J'ai écrit un article sur l'Apple le 30 décembre 2015 intitulé "Courir
+   avec l’Apple Watch, c’est bonnard avec Runkeeper et le bracelet
+   milanais".
+
+   Eh bien je me rétracte.
+
+   Parce que courir avec l'Apple Watch et Runkeeper, c'est tout simplement
+   devenu catastrophique.
+
+   Et j'ai bien l'impression que l'Apple Watch n'y est pour rien.
+
+   Je ne sais pas ce qui arrive chez Runkeeper, mais il me semble que rien
+   ne va plus depuis des mois.
+
+   D'abord, ils ont été rachetés par la marque sportive Asics d'où
+   peut-être une certaine démotivation de certains vieux de l'équipe.
+
+   Mais les problèmes remontent déjà à avant.
+
+   Je m'explique: d'abord, vous dire que Runkeeper est un site normalement
+   assez formidable puisqu'il est un hub qui permet de tout savoir sur vos
+   activités, en particulier la course à pied et le vélo.
+
+   Vous savez par où vous êtes passés, à quelle vitesse vous avez couru,
+   quel a été votre dénivelé, pour ne prendre que ces exemples.
+
+   Là où le service est fort, c'est qu'il est reconnu par un nombre assez
+   incroyable d'autres services et s'interconnecte avec eux.
+
+   Par exemple, mon service Rubytrack Pro peut recevoir ce que j'ai fait
+   avec Runkeeper qui lui-même est relié à ma balance électronique
+   Withings, pour ne prendre que ces petits exemples de rien du tout.
+
+   Je tiens à dire que certains peuvent se gausser de la connectivité
+   permanente que nous demandons à ces services, mais, en tout cas en ce
+   qui me concerne, cette dernière est incroyablement importante et
+   motivante.
+
+   Sans toutes ces petites choses, je n'aurais jamais commencé à courir il
+   y a trois ans.
+
+   Le fait de savoir combien de milliers de kilomètres j'ai couru depuis
+   ce mois de mars 2013 est incroyablement important pour moi, même si
+   cela peut vous paraître totalement futile.
+
+   Bref, au départ, et même maintenant, Runkeeper, c'est tout de même
+   assez bien fait.
+
+   Alors, qu'est-ce qui ne va pas avec la montre?
+
+   Un relevé des pulsations déficient
+
+   Commençons par un petit problème que j'avais déjà relevé dans mon
+   premier test: le relevé des pulsations.
+
+   Il n'est pas rare que ce relevé indique des pulsations à plus de 180,
+   là où je sais parfaitement que je suis autour de 150.
+
+   Purée, si l'on a un capteur de fréquence cardiaque, c'est pour voir si
+   tout va bien!
+
+   Or voyez-vous, le jour où il arrivera quelque chose, eh bien je
+   penserai que c'est ma montre qui déconne.
+
+   Bon… j'imagine me connaître un peu depuis quelques années, et je pense
+   que je verrai la chose de l'intérieur, mais tout de même…
+
+   Mais ce n'est pas tout!
+
+   Depuis plusieurs versions, il est simplement impossible de faire passer
+   les données cardiaques de la montre vers l'iPhone.
+
+   J'ai bien évidemment compris qu'il faut autoriser Santé à accéder aux
+   données de Runkeeper, qu'il faut aussi lancer la course depuis la
+   montre, l'arrêter et l'enregistrer avec la montre également, mais non,
+   ça ne fait rien, je n'arrive absolument plus à passer ces fichues
+   données sur le téléphone (et donc le site, et donc RubiTrack).
+
+   Au fil des nouvelles versions, ça s'est dégradé pour finir par ne plus
+   jamais faire le passage.
+
+   Réponse de la hot line? Désinstaller Runkeeper et l'application sur la
+   montre, et tout réinstaller.
+
+   Ah pour ce conseil, ils sont forts!
+
+   Encore heureux que l'on ne perde pas les données principales (vitesse,
+   parcours, kilomètres pour chaque session) puisque tout est en ligne et
+   que la synchronisation fonctionne bien.
+
+   Ou alors on peut aller sur cette page, qui nous indique tous les
+   problèmes rencontrés par la montre (je les amasse presque tous). Ils
+   bossent dessus disent-ils. Mais pas vite alors…
+
+   Runkeeper doit être fiable au niveau du rendu kilométrique: avec la
+   montre, il ne l'est pas
+
+   Le pire du pire? Par trois fois, Runkeeper sur mon iPhone m'indique (et
+   c'est parfaitement exact) que j'ai couru un certain nombre de
+   kilomètres, et voilà que la montre (qui pourtant indique à l'arrivée la
+   distance juste) vous écrase les données juste pour donner un truc tout
+   faux.
+
+   Typiquement, la semaine passée, j'ai soudain vu que j'avais couru 19 km
+   en 58 minutes, alors que j'en avais couru 11 dans le même temps.
+
+   Résultat? Je reçois des félicitations du programme (et d'un ami) qui
+   sont éberlués par l'excellent temps réalisé.
+
+   Je bats même un record personnel, courant en dessous des 4 km/minute.
+
+   Je devrais être content?
+
+   Eh bien non! Ça doit être mon éducation protestante: je veux que soient
+   indiqués les kilomètres justes, et ne surtout pas être récompensé pour
+   ce que je n'ai pas fait.
+
+   Alors je fais quoi? J'efface la séance et j'entre une activité manuelle
+   avec le nombre de kilomètres exacts, mais en perdant le parcours (que
+   la montre avait de toute manière détruit).
+
+   Runkeeper sur la montre plante une fois sur trois
+
+   Je ne compte pas le nombre de fois où l'application sur l'Apple Watch
+   plante.
+
+   C'est une catastrophe ce truc.
+
+   Heureusement, la course continue sur l'iPhone.
+
+   Runkeeper n'évolue pas
+
+   Depuis 3 ans, l'évolution de Runkeeper est somme toute minime.
+
+   Le service permet de relever votre cadence (nombre de pas par minute)
+   sur votre iPhone et vous en fait un beau graphique, mais… il ne le
+   reprend pas sur le site en ligne, ce qui fait que dès qu'on réinstalle
+   l'application (et Dieu sait si on doit le faire souvent!), on perd ces
+   données puisqu'elles sont liées au téléphone.
+
+   Je pose la question au service technique pour connaître le pourquoi de
+   cette lacune, et la réponse me revient en me disant que j'ai une
+   rudement bonne idée, qu'ils vont réfléchir à la chose.
+
+   Nom d'une pipe, ça ne leur est même pas venu à l'idée ou bien? De toute
+   manière, depuis ma demande, rien n'a bougé. J'imagine que j'ai eu droit
+   à une réponse générique…
+
+   De plus, l'écran de l'iPhone devrait être personnalisable (il l'est,
+   mais tellement peu…). J'arrivais à presque tout faire avec ma Garmin
+   sur un tout petit écran.
+
+   Ici, quasiment rien n'est proposé. Les barres de vitesse prennent
+   pratiquement tout l'écran et ne servent à pas grand-chose…
+
+   Bref, ce qui passait il y a trois ans a bien vieilli.
+
+   Ah, pour ceux que ça pourrait aider, un méchant bug fait que l'on
+   entend plus les données vocales de l'appareil plus souvent qu'à son
+   tour, et ce malgré que le volume de l'iPhone est à fond, et que le
+   volume de l'application l'est aussi. J'ai pesté sur ce truc, avec un
+   service technique qui me conseillait de réinstaller l'application bien
+   sûr, ce qui ne changeait rien.
+
+   En fait, il faut forcer une notification vocale (un tap du doigt sur le
+   haut de l'écran permet de le faire) et vite pousser le volume de
+   l'iPhone pendant que l'on fait ça. Je ne sais pas où se cache ce
+   troisième réglage, bref, c'est comme ça.
+
+   Et chaque fois que vous réinstallez l'application, il faut repasser par
+   cette astuce.
+
+   En conclusion
+
+   Alors, pourquoi continuer me direz-vous?
+
+   Pourquoi ne pas reprendre ma petite Garmin qui m'a rendu de tels fiers
+   services?
+
+   Pour des raisons de synchronisation entre Runkeeper, qui doit rester
+   une sorte de Hub et le service Garmin Connect.
+
+   Parce que je n'ai plus envie de mettre une ceinture cardiaque.
+
+   Parce que j'aimerais utiliser mon Apple Watch comme il faut pour
+   courir.
+
+   Mais franchement, là, j'en ai marre…
+
+
+
+
+
+   François Cuneo
+   16 commentaires
+
+   1)
+   un collègue
+   , le 08.07.2016 à 06:40
+
+   Quand on s’obstine ….
+   Su tu ne veux pas utiliser de capteur cardiaque avec ceinture
+   thoracique, et bien il te faut la montre Garmin Fenix 3 WHR.
+   Cette montre est juste incroyable … personnalisation des différentes
+   activités simple comme « bonjour »…
+   Comme appli, il y a Garmin connect qui fait bien sont boulot, qui parle
+   à ton iPhone …
+   Pour remplacer RunKeeper et bien il te faut installer STRAVA …!!!
+   C’est « LE » réseau social de tous les grands sportifs …. Ca
+   comptabilise tout …vitesse, moyenne, calories, dénivelé, parcours, et
+   plus encore.
+   C’est uilisable avec Garmin, Suunto, etc …
+   Voilà, enfin c’est ce que je ferai à ta place …
+
+   2)
+   ToTheEnd
+   , le 08.07.2016 à 08:26
+
+   Connais pas Runkeeper mais je ne peux dire que du bien de Strava… et
+   puis les mecs sont super actifs puisque je reçois au moins une mise à
+   jour par mois.
+
+   T
+
+   3)
+   patrice
+   , le 08.07.2016 à 08:51
+
+   J’ai abandonné STRAVA parce que je ne suis pas satisfait de la
+   confidentialité. Même en indiquant que je ne veux pas partager mes
+   données, mon nom apparait dans les classements publiquement. Le
+   collègue a raison c’est un réseau social, et mes données de course ne
+   concernent que moi.
+   Mon mix: Apple Watch, Runmeter, Rubitrack.
+   L’avantage: rien n’est stocké publiquement, uniquement sur iCloud, pour
+   mon seul usage.
+   L’inconvénient: je dois m’envoyer le fichier gpx de ma course par mail
+   pour l’importer ensuite dans rubitrack, mais ce n’est pas si
+   problématique, même si on n’a plus trop l’habitude de ces synchros
+   manuelles.
+   J’aime bien Runmeter: il fait son job maintenant et il permet de
+   configurer les affichages sur la montre et les annonces vocales très
+   librement. Il présentait un moment donné les mêmes problèmes décrits
+   par François, mais ils ont bien bossé ces derniers mois pour les
+   résoudre. D’après les échanges que j’ai eus avec eux, Apple a drôlement
+   verrouillé sa montre parce qu’il me semble que toutes les applis
+   voulant accéder à la fréquence cardiaque ont eu des problèmes de
+   transfert de données.
+
+   4)
+   iVince
+   , le 08.07.2016 à 09:12
+
+   Strava c’est bien aussi, j’y suis passé il y a quelques temps après que
+   Nike Running m’a écrasé trois mois de courses à pied sur un plantage.
+
+   Mais ça n’est pas parfait non plus. L’appli Watch plante également
+   régulièrement, elle peut mettre trois minutes à se lancer ou alors ne
+   jamais s’arrêter.
+
+   Beaucoup de ces défauts liés à des lenteurs me font penser que l’Apple
+   Watch est en partie responsable.
+
+   Au-delà de ces considérations, je suis d’accord pour dire que ces appli
+   de running ont été très importants pour me donner de la motivation au
+   début, mais qu’au fil du temps je trouve que leur intérêt s’étiole.
+   Quand on court régulièrement, on finit par se connaitre suffisamment
+   pour ne plus avoir besoin qu’une montre nous félicite ou nous dise
+   qu’on est en petite forme.
+
+   Je tire de moins en moins d’info réellement utiles de toutes ces
+   courbes qui s’affichent sur mon écran après ma course.
+
+   5)
+   ToTheEnd
+   , le 08.07.2016 à 09:25
+
+   Il y a/avait une certaine faiblesse sur la plan architectural au niveau
+   de l’OS de la watch… l’arrivée de la version 3 devrait nettement
+   amélioré la vitesse d’exécution des apps (qui seront de vraies apps
+   pour le coup) et donc également la fiabilité.
+
+   Encore du boulot pour ceux qui s’étaient lancés dans wOS 1 et 2… sans
+   parler que la watch 2 devrait également amener son lot de
+   nouveautés/contraintes.
+
+   T
+
+   6)
+   François Cuneo
+   , le 08.07.2016 à 13:36
+
+   Bon…
+
+   Ben je vais essayer de synchroniser Runkeeper et Strava.
+
+   On verra ce que ça donne…
+
+   7)
+   Modane
+   , le 08.07.2016 à 15:36
+
+   Courir? Mon Dieu!…
+
+   [b_1_q_0_p_0.jpg?u=http%3A%2F%2Fwww.amicourse.com%2Fwp-content%2Fupload
+   s%2F2013%2F05%2Fchatac.jpg&amp;q=0&amp;b=1&amp;p=0&amp;a=1]
+
+   8)
+   Denis
+   , le 08.07.2016 à 16:00
+
+   Bonjour à tous,
+
+   J’utilise mon Suunto Ambit 2 avec Rubitrack Pro. Tout se synchronise
+   automatiquement. En connectant la montre, les exercices vont
+   directement sur l’ordinateur, c’est pratique pour utiliser Rubitrack
+   lorsque on est 2 semaines à faire des globules rouges en camp
+   d’entrainement à 2500m sans internet ;-)
+
+   Si on a internet, Strava, Rubitrack, Movescount et la balance + les
+   accessoires Withings, tout se met à jour automatiquement en un click.
+   Si l’on veut garder son anonymat sur Strava, on peut utiliser un
+   pseudo, et la partie des parcours distant de 500m à 1km de sa maison
+   peut être masqué de la carte. Les segments de Strava, (en plus de chez
+   eux) peuvent également être automatiquement affichés et analysés dans
+   Rubitrack. Cela permet de comparer par exemple la FC moyenne, la durée,
+   la puissance et la vitesse très simplement sur une partie du parcoure à
+   différentes dates en un clin d’œil. Pour gérer et planififer 15 à 25h
+   d’entraînement multi-sports par semaine et les compétitions, c’est la
+   solution que je privilégie sur Mac actuellement.
+
+   Concernant la mesure de la fréquence cardiaque au poignet ou au bras,
+   les choses ne sont pas simples. La mesure optique n’est pas encore
+   assez fiable actuellement. Par exemple j’ai acheté un capteur Scosche
+   RHYTHM+ réputé pour sa qualité de mesure. En faisant des fractionnés,
+   les données ne sont pas assez réactives et précises. En l’utilisant
+   pour mesuré la FC de repos couché le matin, cela pourrais être très
+   pratique, on l’enfile au bras ou au poignet et on mesure. Pas besoin
+   d’aller à la salle de bain pour mouiller une ceinture de poitrine, se
+   remettre à l’horizontale pour revenir au calme puis enfin prendre le
+   pouls. Malheureusement les données optiques cardiaques sont fausses,
+   chez moi, elles ne s’affichent pas sous les 42 pulsations par minute
+   quant elles sont réellement à 35 ou 36 puls/min. Donc cette méthode est
+   inutilisable pour examiner sont état de surentraînement. La fréquence
+   cardiaque RR est également estimée au lieu d’être réel, ce qui fausse
+   le calcule du temps de récupération fait par la montre ou les logiciels
+   d’analyse. Maintenant pour une utilisation mise en forme et plaisir,
+   cette technologie est très pratique et peu contraignante si l’on peut
+   s’accommoder d’imprécision. Pour une utilisation dans le cadre
+   d’entraînements structurés sérieux et une orientation de compétition,
+   rien ne vaut actuellement une ceinture thoracique. Aujourd’hui ont
+   trouve des ceintures très confortables et fines, par exemple la Suunto
+   Smart Sensor, elle est Bluetooth et est entre autre également
+   compatible avec la Ambit 3, Traverse et la nouvelle Suunto Spartan
+   ultra ou sport.
+
+   Bon vent et bon entraînement à tous, profitez un max de la nature.
+
+   http://WWW.st-denis.ch
+
+   9)
+   Denis
+   , le 08.07.2016 à 16:10
+
+   lien intéressant chez DC Rainmacker en anglais
+
+   http://www.dcrainmaker.com/2016/07/suunto-spartan-optical-hr-valencell.
+   html
+
+   10)
+   RaphaelY
+   , le 08.07.2016 à 16:54
+
+   Pour moi : Montre Garmin, balance Withing et Ruby track reste le trio
+   gagnant et le plus fiable !
+
+   Tout se synchronise, ça reste en grande partie en local (sauf la
+   balance, si je ne me trompe pas) mais en aucun cas public.
+
+   11)
+   François Cuneo
+   , le 08.07.2016 à 17:49
+
+   Merci pour vos remarques que j’ai lues avec attention.
+
+   En ce qui concerne Runkeeper, je viens de le synchroniser avec Strava,
+   ce qui s’est assez bien passé. J’ai pu constater, grâce au journal de
+   Srava, que plusieurs erreurs d’enregistrement que je n’avais pas vues
+   pendant ces dernières semaines sont arrivées.
+
+   Vraiment, Runkeeper ne fonctionne plus correctement du tout, c’est une
+   catastrophe. À la limite, ils devraient couper l’accès à l’Apple Watch
+   parce qu’elle fait plus de mal que de bien au service. Mais je me vois
+   déjà gueuler dans ce cas…
+
+   J’ai fait quelques tests en marchant avec Strava et la montre:
+   impressionnant! Ça synchronise immédiatement, la fréquence cardiaque
+   (certes Denis, certainement un peu imprécise) est immédiatement
+   reportée sur l’iPhone et donc sur le site, une merveille!
+
+   J’ai fait un peu tous les tests possibles, ça a marché à chaque fois.
+
+   Cela dit, l’application Strava sur iPhone est un peu moins souple au
+   niveau affichage que celle de Runkeeper dont je me plaignais plus haut.
+
+   Cela dit, je vais courir sur Strava, et puis synchroniser sur Runkeeper
+   à l’aide de Tapiirik.
+
+   Quant à la balance Withings, elle passera par l’entremise de Santé sur
+   Strava si j’ai bien compris puisqu’il ne charge pas ces données en
+   natif.
+
+   Dommage d’ailleurs… Ah la la, sur certains points, je vais regretter
+   Runkeeper, mais là franchement, ce n’était plus possible.
+
+   12)
+   Kcd
+   , le 09.07.2016 à 08:30
+
+   Salut
+   Je suis passé par les mêmes interrogations, sauf qu’au moment ou j’ai
+   commencé la course a pied, l’AppleWatch n’existait pas.
+   Mais mon iPhone m’a toujours accompagné sur mes sorties running.
+   Puis j’ai voulu mesurer correctement mes pulses. Et je suis passé sur
+   une montre POLAR (+iPhone pour le GPS )
+   Puis tout le materiel commençais a faire lourd, surtout que j’écoutait
+   de moins en moins de musique en courant.
+   Et je suis passé sur une montre POLAR RC3 GPS. Mes données de courses
+   étaient enregistrée manuellement sur RunKeeper en plus de
+   polarpersonaltraner.com ( ou la montre enregistrait directement les
+   données.
+   Puis sur une Tomtom Runner. Et la aussi copie manuelle sur Runkeeper
+   pour garder tout mon historique.
+   Puis une Polar M400 ( par ce que les capteurs au poignet : beurk ). Et
+   rebellante pour une copie manuelle vers Runkeeper en plus de Polarflow
+   Et aujourd’hui une POLAR V800 ( un petit plaisir ). Et là j’en ai eut
+   assez. Fini Runkeeper, passage integral ( avec toute mon historique )
+   vers Strava. C’est plus polyvalent et plus ouvert que RK. Et sur
+   polarflow, la copie est automatique.
+   Francois, si je peux me permettre, l’AppleWatch c’est joli, mais ca ne
+   remplace vraiment pas une bonne montre cardio GPS. Elles sont moins
+   jolies, mais elles font leur job. Et bien !
+
+   13)
+   Caplan
+   , le 09.07.2016 à 09:41
+
+     Cela dit, je vais courir sur Strava, et puis synchroniser sur
+     Runkeeper à l’aide de Tapiirik. Quant à la balance Withings, elle
+     passera par l’entremise de Santé sur Strava
+
+   C’est génial, la course à pied! Tu rencontres plein de monde! ;-)
+
+   14)
+   François Cuneo
+   , le 09.07.2016 à 15:04
+
+   Je me rendais bien compte en écrivant la chose qu’il y avait un peu de
+   ridicule là dedans!:-)
+
+   15)
+   brownsugarDB16
+   , le 09.07.2016 à 16:57
+
+   Strava a une très belle interface sur le Mac … mais lorsque je
+   l’utilise pour courir par exemple à partir de l’apple watch, les
+   données de calories sont bien envoyées à l’application « activé » de
+   l’iPhone (le cercle rouge), mais la session n’apparait pas dans
+   l’application ‘activité » comme un « exercice »… (runkeeper le fait par
+   ex). Du coup c’est frustrant… A moins que j’ai happé un paramétrage …
+
+   16)
+   Yves from Geneve
+   , le 11.09.2016 à 19:29
+
+   Bonjour François,
+   En ce qui concerne Runkeeper, je viens de le synchroniser avec Strava,
+   ce qui s’est assez bien passé. J’ai pu constater, grâce au journal de
+   Srava, que plusieurs erreurs d’enregistrement que je n’avais pas vues
+   pendant ces dernières semaines sont arrivées.
+
+   Comment as-tu procédé ? Je cherche mais je sèche !
+
+   Merci !
+   Ajouter un commentaire  –  Alerte par e-mail
+   ici et nulle part ailleurs…
+   accueilcomptecommentairesproduits
+
+   © 2001-2017 Cuk.ch  -  Contact  -  RSS  -  Haut

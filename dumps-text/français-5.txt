@@ -1,0 +1,722 @@
+   #alternate Modifier Wiktionnaire (fr) Flux Atom de Wiktionnaire
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Recherche avancée, anagrammes et rimes
+     * Portails
+     * Page au hasard
+     * Page au hasard par langue
+     * Poser une question
+
+   Contribuer
+     * Communauté
+     * La Wikidémie
+     * Discuter sur Discord
+     * Journal des contributeurs
+     * Modifications récentes
+
+   Aide
+     * Conventions
+     * Aide
+     * Modèles
+     * Créer un article
+     * Télécharger
+
+   Wiktionnaire : dictionnaire libre et universel le dictionnaire libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Français
+       (BUTTON) Afficher / masquer la sous-section Français
+          + 1.1 Étymologie
+          + 1.2 Nom commun
+               o 1.2.1 Dérivés
+               o 1.2.2 Apparentés étymologiques
+               o 1.2.3 Traductions
+          + 1.3 Forme de verbe
+          + 1.4 Prononciation
+          + 1.5 Anagrammes
+          + 1.6 Voir aussi
+          + 1.7 Références
+     * 2 Anglais
+       (BUTTON) Afficher / masquer la sous-section Anglais
+          + 2.1 Étymologie
+          + 2.2 Nom commun
+               o 2.2.1 Dérivés
+          + 2.3 Verbe
+               o 2.3.1 Dérivés
+          + 2.4 Prononciation
+               o 2.4.1 Homophones
+          + 2.5 Voir aussi
+
+   [ ] Basculer la table des matières
+
+course
+
+   [ ] 51 langues
+     * العربية
+     * বাংলা
+     * Català
+     * Corsu
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * فارسی
+     * Suomi
+     * Galego
+     * हिन्दी
+     * Magyar
+     * Հայերեն
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * ქართული
+     * ಕನ್ನಡ
+     * 한국어
+     * Kurdî
+     * Кыргызча
+     * Limburgs
+     * ລາວ
+     * Malagasy
+     * മലയാളം
+     * မြန်မာဘာသာ
+     * Nederlands
+     * Oromoo
+     * Polski
+     * Português
+     * Русский
+     * Sicilianu
+     * Sängö
+     * Simple English
+     * Gagana Samoa
+     * Svenska
+     * தமிழ்
+     * తెలుగు
+     * ไทย
+     * Tagalog
+     * Türkçe
+     * اردو
+     * Tiếng Việt
+     * 中文
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier le wikicode
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier le wikicode
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l’URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Définition, traduction, prononciation, anagramme et synonyme sur le
+   dictionnaire libre Wiktionnaire.
+   Voir aussi : coursé
+
+Français
+
+   [modifier le wikicode]
+
+Étymologie
+
+   [modifier le wikicode]
+
+          Dérivé de cours, influencé par l’italien corsa.
+
+Nom commun
+
+   [modifier le wikicode]
+   Singulier Pluriel
+   course    courses
+   \kuʁs\
+   [200px-Cycling_Madison_Wisconsin_1096.jpg] Une course cycliste. (2)
+
+   course \kuʁs\ féminin
+    1. Action de courir, mouvement de celui qui court.
+          + "Et dès que je l’avais reconnue, je prenais ma course pour
+            aller l’embrasser." — (Pierre Loti, Le Roman d'un enfant,
+            1890)
+          + "[…], il n’est de bruit qu’un ver qui taraude incessamment les
+            boiseries et dans le plafond, la course d’un rongeur." — (Jean
+            Rogissart, Passantes d’Octobre, Librairie Arthème Fayard,
+            Paris, 1958)
+          + "Le rendu donnait un style wagnérien ([…]), spectacle fait de
+            quelques passes immédiatement verticales, de nuques longues et
+            de moustaches guerrières donnant aux courses époumonées une
+            indéniable esthétique télévisuelle." — (Thibaud Leplat,
+            Football à la française, Solar Éditions, 2016)
+    2. (Sport) Toute épreuve sportive où la vitesse est en jeu.
+          + "Nos pères étaient donc plus sages que nous lorsqu’ils
+            repoussaient l’idée des courses. En 1820 il se présentait
+            seulement sur nos hippodromes 120 concurrents se disputant 60
+            prix." — (Jean Déhès, Essai sur l’amélioration des races
+            chevalines de la France, École impériale vétérinaire de
+            Toulouse, Thèse de médecine vétérinaire, 1868)
+          + "Très sportivement les frères Darrel, qui avaient pris part
+            par deux fois à la course New-York-îles Bermudes à bord de
+            leur yawl Dainty, m'offrirent leur cale de halage pour mettre
+            à sec." — (Alain Gerbault, À la poursuite du soleil; tome 1 :
+            De New-York à Tahiti, 1929)
+          + "Ils se sentaient en sécurité comme les spectateurs d’une
+            course de taureaux : ils risquaient peut-être leur argent sur
+            le résultat, mais c’était tout." — (H. G. Wells, La Guerre
+            dans les airs, 1908, traduction d’Henry-D. Davray et
+            B. Kozakiewicz, Mercure de France, Paris, 1910, page 211 de
+            l’édition de 1921)
+          + "Le Musée Gilles-Villeneuve, c’est près de 3 millions de
+            dollars de voitures et 5 à 6 milliers d’objets de toutes
+            sortes ayant marqué la vie du pilote de Berthier toujours
+            considéré comme un des plus spectaculaires et rapides de
+            l’histoire de la course automobile." — (Michel Beaudry, Le
+            Musée Gilles-Villeneuve a besoin d’aide, Le Journal de Québec,
+            29 novembre 2020)
+          + (Sens figuré) — L’indépendance s'installa au pays, on rétribua
+            ceux qui le méritèrent et ceux qui ne le méritèrent pas, la
+            course aux récompenses pour conduite héroïque était engagée.
+            — (Rabea Bennouna, Tazmamart côté femme: témoignage,
+            Casablanca : Addar Al Alamia Lil Kitab, 2003, page 12)
+    3. (Poétique) (Soutenu) Cours, mouvement apparent des astres.
+          + "L’astre du jour va commencer sa course. — Le soleil est au
+            terme de sa course. — La lune poursuivait sa course paisible"
+    4. (Vieilli) Actes d’hostilité que l’on faisait en courant les mers ou
+       en entrant dans le pays ennemi. Note d’usage : On dit maintenant
+       incursion, reconnaissance, pointe, etc.
+          + "J'ai pris plusieurs femmes dans mes courses ; je n'en garde
+            aucune ; je les vends cher quand elles sont belles, sans
+            m'informer de ce qu'elles sont." — (Voltaire, Zadig ou la
+            Destinée, XIV. Le brigand, 1748)
+          + "Pendant les guerres de la révolution, Chausey, trop exposé
+            aux courses des corsaires de Jersey, resta inhabité." — (Jean
+            Louis Armand de Quatrefages de Bréau, L’Archipel de Chausey,
+            souvenirs d’un Naturaliste, Revue des Deux Mondes, tome 30,
+            1842)
+          + "J'aimais à relire la vie des flibustiers, […], maîtres de ces
+            parages au XVII^e et au XVIII^e siècle, avant que l’entente
+            franco-anglaise mît fin à cette guerre de pillage et de
+            course." — (Alain Gerbault, À la poursuite du soleil ; tome
+            1 : De New-York à Tahiti, 1929)
+    5. (Spécialement) (Marine) En parlant des corsaires, se disait des
+       bâtiments armés en guerre par des particuliers et autorisés par un
+       gouvernement à courir sur les navires marchands ennemis.
+          + "Armer un vaisseau en course."
+          + "C’est pour cette raison qu’on a confondu, très souvent, la
+            piraterie avec la course ; en droit pur, c’est chose
+            différente, en pratique, le fossé qui les sépare est beaucoup
+            moins profond." — (Étienne Dupont, Le Vieux Saint-Malo : Les
+            Corsaires chez eux, Édouard Champion, 1929, page 46)
+          + "Le corsaire français le plus célèbre fut Jean Fleury (m.1527)
+            de Normandie, qui pratiquait la course contre les Espagnols et
+            les Portugais." — (Gilles Bibeau, Une histoire d'amour-haine,
+            éditions Mémoire d'Encrier, 2023, note 102 page 197)
+    6. Allées et venues, sorties que l’on fait dans la journée.
+          + "Je commence mes courses dès le matin. — Je ne l’ai pas
+            trouvé, il est en course. — Faire une course à pied."
+          + "J’y passerai dans mes courses. — On demande un employé pour
+            faire les courses."
+    7. Objet de ces allées et venues d’où achats, emplettes. — Note : Il
+       est alors surtout au pluriel.
+          + "[…], un des voisins, qui avait justement des courses à faire
+            au marché, partit dès la première heure pour aller là-bas
+            quérir des renseignements." — (Louis Pergaud, La Disparition
+            mystérieuse, dans Les Rustiques, nouvelles villageoises, 1921)
+          + "J’ai une course à faire."
+    8. Trajet que fait une voiture, une automobile de place en
+       transportant une ou plusieurs personnes d’un lieu à un autre.
+          + "Au moment où la petite vieille règle sa course, il aperçoit
+            Dicky sur sa Harley dans une allée ensablée." — (Guillermo
+            Saccomanno, Basse saison, traduit de l'espagnol (Argentine)
+            par Michèle Guillemont, Asphalte Éditions, 2015)
+          + "Ce cocher n’a fait que deux courses dans toute la journée."
+          + "Le prix des courses est fixé par des règlements de police."
+    9. Trajet parcouru ou à parcourir soit à pied, soit en voiture.
+          + "Parfois les rênes s’échappent de nos doigts engourdis, et nos
+            montures aveuglées, tournant le dos à la tempête, refusent
+            d'avancer. Nous les laissons souffler un instant, puis
+            reprenons notre course muette et aveugle." — (Frédéric
+            Weisgerber, Trois mois de campagne au Maroc : Étude
+            géographique de la région parcourue, Paris : Ernest Leroux,
+            1904, page 36)
+          + "Le vieux, surtout, dissimulait mal son inquiétude : il
+            comptait trop d’amis, trop de parents en course à l’heure
+            présente, et les guides qui se lancent dans le Petit-Dru ne
+            sont pas légion." — (Roger Frison-Roche, Premier de cordée,
+            chapitre V)
+   10. (Sens figuré) Marche, progrès rapide d’une personne ou d’une chose.
+          + "Les magistrats ne se donnent même plus la peine d'examiner
+            les dossiers. Ils prononcent le divorce en masse. C'est la
+            course à l'union libre." — (Les Familles terriennes et l'impôt
+            progressif sur les successions, par Arnold Mascarel, Société
+            d’économie sociale, Paris, 1918)
+          + "il s'organise en France pour des raisons politiques qui ne
+            peuvent échapper à nos lecteurs, une véritable "course à
+            l'union"." — (Le Front : socialiste, républicain, français, 12
+            novembre 1936)
+          + "Rien ne peut arrêter ce conquérant, ce fléau dans sa course."
+          + "La course précipitée du temps."
+   11. (Art) Distance comprise entre les deux points extrêmes du trajet
+       parcouru par la tige d’un piston, par un tiroir de pompe, dans leur
+       mouvement.
+          + "Ce piston est à mi-course."
+          + course d’une navette, Trajet qu’elle parcourt dans son
+            mouvement de va-et-vient.
+   12. (Par ellipse) (Tauromachie) Course de taureaux.
+          + "Grâce à l’évaporation rapide produite par une chaleur de 38 à
+            40 degrés, à notre retour à Puerto, nous étions en état de
+            disserter sur les points de psychologie les plus délicats et
+            d’apprécier les coups à la course. Cette course, où la plupart
+            des taureaux étaient embolados, c’est-à-dire portaient des
+            boules au bout des cornes, et où deux seulement furent tués,
+            nous réjouit fort par une foule d’incidents burlesques."
+            — (Théophile Gautier, Voyage en Espagne, 1840, édition
+            Charpentier, 1859)
+          + "Des six courses qu’il m’a été donné jusqu’à présent de voir,
+            la première aux arènes romaines de Fréjus, était purement
+            ignominieuse : des toreros ou trop jeunes ou trop vieux ; de
+            grands veaux massacrés pire qu’à la boucherie, parfois urinant
+            de frayeur ou beuglant ; […]" — (Michel Leiris, L’âge d’homme,
+            1939, collection Folio, page 73)
+
+Dérivés
+
+   [modifier le wikicode]
+     * à bout de course
+     * à fond de course
+     * à mi-course
+     * anneau de course
+     * au pas de course
+     * cheval de course
+     * cheval de la course
+     * contre-course
+     * course à cheval
+     * course à conditions
+     * course à étapes
+     * course à handicap
+     * course à l’échalote
+     * course à la cocarde
+     * course à pied
+     * course à pied en altitude
+     * course au clocher
+     * course au droit d’asile
+     * course au visa
+     * course aux œufs
+     * course camarguaise
+     * course contre la montre
+     * course d’école
+     * course d’élan
+     * course d’obstacle, course d’obstacles
+     * course d’orientation
+     * course de chars
+     * course de cheval
+     * course de chevaux
+     * course de côte
+     * course de dénivelés
+     * course de fond
+     * course de haies
+     * course de plat
+     * course de pleine nature
+     * course de taureaux
+     * course de trot
+     * course de trot attelé
+     * course de trot monté
+     * course des bois
+     * course du flambeau
+     * course en altitude
+     * course en sac
+     * course hippique
+     * course landaise
+     * course par étapes
+     * course-poursuite
+     * courser
+     * coursier
+     * demi-course
+     * en bout de course
+     * faire des courses
+     * faire la course
+     * faire les courses
+     * faire sa course
+     * faire ses courses
+     * fin de course
+     * garçon de courses 
+     * interrupteur de fin de course
+     * jouer aux courses
+     * pas de course
+     * semi-course
+     * tapis de course
+     * vélo de course
+
+Apparentés étymologiques
+
+   [modifier le wikicode]
+     * corsaire
+     * coureur
+     * courir
+     * cours
+
+Traductions
+
+   [modifier le wikicode]
+   Action de courir, mouvement de celui qui court. (Sens général). (1)
+     * Allemand : Lauf (de) masculin, Laufen (de) neutre
+     * Anglais : run (en), rush (en) (10)
+     * Basque : lasterka (eu), lasterketa (eu)
+     * Catalan : carrera (ca), cursa (ca)
+     * Chleuh : ⵜⵉⵣⵣⵍⴰ (*)
+     * Espagnol : carrera (es), trayecto (es) (8,9)
+     * Espéranto : kuro (eo)
+     * Ido : kuro (io)
+     * Indonésien : balap (id), balapan (id)
+     * Italien : corsa (it) féminin
+     * Kotava : vultera (*)
+     * Masa : ríŋŋà (*)
+     * Métchif : koors (*)
+     * Occitan : corsa (oc)
+     * Polonais : bieg (pl)
+     * Portugais : correr (pt)
+     * Roumain : cursă (ro) féminin
+     * Russe : бег (ru) masculin
+     * Same du Nord : viehkan (*)
+     * Solrésol : s'olsido (*)
+     * Songhaï koyraboro senni : garbasu (*) (7:course de vitesse),
+       zurandi (*), zuray (*)
+     * Tchèque : běh (cs)
+
+   (Sport) Toute épreuve sportive où la vitesse est en jeu. (2)
+     * Allemand : Rennen (de) neutre (Autorennen; Pferderennen,
+       Radrennen,...)
+     * Anglais : race (en)
+     * Breton : redadeg (br) féminin, redadenn (br) féminin
+     * Catalan : carrera (ca), cursa (ca)
+     * Créole guadeloupéen : kous (*)
+     * Danois : løb (da)
+     * Espagnol : carrera (es)
+     * Espéranto : kuro (eo)
+     * Kotava : wesko (*)
+     * Métchif : koors (*)
+     * Occitan : corsa (oc)
+     * Portugais : corrida (pt)
+     * Russe : гонка (ru) féminin
+     * Shingazidja : mɓio (*) (à pied), mashinɗano (*)
+     * Solrésol : s'olsido (*)
+
+   Allées et venues, sorties que l’on fait dans la journée. (6)
+     * Occitan : escorreguda (oc)
+     * Solrésol : s'olsido (*)
+
+   (Surtout au pluriel) Objet de ces allées et venues d’où achats,
+   emplettes. (7)
+     * Allemand : Einkauf (de) (Einkäufe tätigen), Besorgung (de)
+       (Besorgungen machen)
+     * Anglais : shopping (en) (faire les courses = to go shopping) ;
+       errand (en) (I have to do an errand.), groceries (en)
+     * Catalan : compra (ca) (faire les courses = anar de compres)
+     * Espagnol : compra (es) (faire les courses = ir de compras)
+     * Gallo : ajetis (*)
+     * Néerlandais : boodschap (nl) féminin
+     * Polonais : zakup (pl), zakupy (pl)
+     * Portugais : passear (pt)
+     * Same du Nord : earán (*)
+
+   Trajet que fait une voiture, une automobile de place en transportant
+   une ou plusieurs personnes d’un lieu à un autre. (8)
+     * Anglais : trip (en)
+     * Espagnol : curso (es)
+     * Géorgien : მგზავრობა (ka) mgzavroba
+     * Portugais : percurso (pt) masculin, viagem (pt) féminin
+     * Solrésol : s'olsido (*)
+
+   (Art) Distance entre les extrêmes du trajet d’une pièce mécanique. (11)
+     * Anglais : stroke (en)
+     * Espagnol : carrera (es) féminin
+     * Ido : stroko (io)
+     * Italien : corsa (it) féminin
+     * Néerlandais : slag (nl), slaglengte (nl)
+     * Portugais : dimensão (pt) féminin
+     * Same du Nord : johtu (*)
+
+Forme de verbe
+
+   [modifier le wikicode]
+   Voir la conjugaison du verbe courser
+   Indicatif Présent je course
+   il/elle/on course
+   Imparfait
+   Passé simple
+   Futur simple
+   Subjonctif Présent que je course
+   qu’il/elle/on course
+   Imparfait
+   Impératif Présent (2^e personne du singulier)
+   course
+
+   course \kuʁs\
+    1. Première personne du singulier de l’indicatif présent de courser.
+    2. Troisième personne du singulier de l’indicatif présent de courser.
+    3. Première personne du singulier du subjonctif présent de courser.
+    4. Troisième personne du singulier du subjonctif présent de courser.
+    5. Deuxième personne du singulier de l’impératif de courser.
+
+Prononciation
+
+   [modifier le wikicode]
+     * France : écouter « course [Prononciation ?] »
+     * France (Toulouse) : écouter « course [Prononciation ?] »
+     * France (Vosges) : écouter « course [Prononciation ?] »
+     * France (Lyon) : écouter « course [Prononciation ?] »
+     * Canada (Shawinigan) : écouter « course [Prononciation ?] »
+     * Mulhouse (France) : écouter « course [Prononciation ?] »
+     * Vosges (France) : écouter « course [Prononciation ?] »
+     * Canet-en-Roussillon (France) : écouter « course [kuʁs] »
+
+Anagrammes
+
+   [modifier le wikicode]
+
+   → Modifier la liste d’anagrammes
+     * coeurs, cœurs
+     * Coures, coures
+     * croues
+     * Crusoé
+     * Écours, écours
+     * écrous
+     * ources
+     * recous
+     * source, sourcé
+
+Voir aussi
+
+   [modifier le wikicode]
+     * course sur l’encyclopédie Wikipédia
+       [20px-Wikipedia-logo-v2.svg.png]
+     * L’annexe Sports en français Supplément annexe
+     * fond
+
+Références
+
+   [modifier le wikicode]
+     * Tout ou partie de cet article a été extrait du Dictionnaire de
+       l’Académie française, huitième édition, 1932-1935 (course), mais
+       l’article a pu être modifié depuis.
+
+Anglais
+
+   [modifier le wikicode]
+
+Étymologie
+
+   [modifier le wikicode]
+
+          De l'ancien français cours.
+
+Nom commun
+
+   [modifier le wikicode]
+             Singulier Pluriel
+   course
+   \kɔːs\
+   ou \kɔɹs\ courses
+   \ˈkɔː.sɪz\
+   ou \ˈkɔɹ.sɪz\
+
+   course \kɔːs\ (Royaume-Uni), \kɔːɹs\, \kɔɹs\ (États-Unis)
+    1. Stage, cours, série de leçons.
+    2. Service à table.
+          + "The main course."
+
+                      Le plat principal.
+
+    3. Cours
+          + What courses are you taking at the university? (Au
+            Royaume-Uni, on dirait at university)
+
+                      Quels cours suis-tu à l’université ?
+
+Dérivés
+
+   [modifier le wikicode]
+     * in the course of (au fil de, au cours de)
+     * course of time (fil du temps)
+     * main course (plat principal)
+
+Verbe
+
+   [modifier le wikicode]
+
+   course \kɔːs\ (Royaume-Uni), \kɔːɹs\, \kɔɹs\ (États-Unis)
+    1. Courser, poursuivre.
+    2. Parcourir.
+
+Dérivés
+
+   [modifier le wikicode]
+     * of course
+
+Prononciation
+
+   [modifier le wikicode]
+     * \kɔːs\ (Royaume-Uni)
+          + Royaume-Uni (Londres) : écouter « course [kɔːs] »
+     * \kɔːɹs\, \kɔɹs\ (États-Unis)
+          + États-Unis : écouter « course [kɔɹs] »
+     * Suisse (Genève) : écouter « course [kɔːs] »
+     * Texas (États-Unis) : écouter « course [Prononciation ?] »
+     * Connecticut (États-Unis) : écouter « course [Prononciation ?] »
+
+Homophones
+
+   [modifier le wikicode]
+     * coarse
+
+Voir aussi
+
+   [modifier le wikicode]
+     * course sur l’encyclopédie Wikipédia (en anglais)
+       [20px-Wikipedia-logo-v2.svg.png]
+
+   Récupérée de
+   « https://fr.wiktionary.org/w/index.php?title=course&oldid=36266972 »
+   Catégories :
+     * français
+     * Mots en français issus d’un mot en italien
+     * Lemmes en français
+     * Noms communs en français
+     * Exemples en français
+     * Termes poétiques en français
+     * Termes soutenus en français
+     * Termes vieillis en français
+     * Lexique en français de la marine
+     * Métaphores en français
+     * Lexique en français de l’art
+     * Ellipses en français
+     * Lexique en français de la tauromachie
+     * Formes de verbes en français
+     * Lexique en français de la navigation
+     * Lexique en français de l’équitation
+     * Lexique en français de la mécanique
+     * Lexique en français des loisirs
+     * Lexique en français du sport
+     * Lexique en français de l’astronomie
+     * Sports en français
+     * anglais
+     * Mots en anglais issus d’un mot en ancien français
+     * Lemmes en anglais
+     * Noms communs en anglais
+     * Exemples en anglais
+     * Verbes en anglais
+     * Mots ayant des homophones en anglais
+
+   Catégories cachées :
+     * Traductions en allemand
+     * Traductions en anglais
+     * Traductions en basque
+     * Traductions en catalan
+     * Traductions en chleuh
+     * Traductions en espagnol
+     * Traductions en espéranto
+     * Traductions en ido
+     * Traductions en indonésien
+     * Traductions en italien
+     * Traductions en kotava
+     * Traductions en masa
+     * Traductions en métchif
+     * Traductions en occitan
+     * Traductions en polonais
+     * Traductions en portugais
+     * Traductions en roumain
+     * Traductions en russe
+     * Traductions en same du Nord
+     * Traductions en solrésol
+     * Traductions en songhaï koyraboro senni
+     * Traductions en tchèque
+     * Traductions en breton
+     * Traductions en créole guadeloupéen
+     * Traductions en danois
+     * Traductions en shingazidja
+     * Traductions en gallo
+     * Traductions en néerlandais
+     * Traductions en géorgien
+     * Prononciations audio en français
+     * Wiktionnaire:Prononciations phonétiques manquantes en français
+     * Pages liées à Wikipédia en français
+     * Prononciations audio en anglais
+     * Wiktionnaire:Prononciations phonétiques manquantes en anglais
+     * Pages liées à Wikipédia en anglais
+
+     * La dernière modification de cette page a été faite le 21 octobre
+       2024 à 17:15.
+     * Les définitions et autres textes sont disponibles sous licence
+       Creative Commons attribution partage à l’identique ; d’autres
+       termes peuvent s’appliquer. Voyez les termes d’utilisation pour
+       plus de détails.
+       Pour les illustrations, cliquez sur chaque image ou consultez les
+       crédits graphiques.
+
+     * Politique de confidentialité
+     * À propos du Wiktionnaire
+     * Licence
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
