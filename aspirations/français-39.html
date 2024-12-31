@@ -1,0 +1,731 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=Edge,chrome=1"/>
+
+	<title>Foire aux questions - Grand Prix Racing Online</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="keywords" content="jeu F1 manager, F1 manager, F1-manager, manager de course, jeu F1, jeu gratuit de F1, Formule 1, jeu de gestion, F1, manager Formule 1, gestion F1 gratuite, jeu multijoueur, manager de Grand Prix, jeu de gestion en ligne, gestion F1"><meta name="description" content="Vous aimez la Formule 1 ? Alors Grand Prix Racing Online est le jeu pour vous ! Menez votre &#233;quipe de F1 jusqu'au succ&#232;s en construisant de bonnes voitures, en &#233;laborant de bonnes strat&#233;gies de course, en embauchant les pilotes et du personnel efficaces et en vous pr&#233;parant pour l'avenir."><meta name="author" content="Vladimir Alexandrov, Stefan Voggenreither, Cristian Iorga, Chris Williams" />
+<link href="https://didlsjm328074.cloudfront.net/styles/global24.min.css" media="screen" rel="stylesheet" type="text/css" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#34547f">
+<meta name="msapplication-TileColor" content="#7ac6ff">
+<meta name="theme-color" content="#ffffff">
+<script type="text/javascript" async=true>
+    (function() {
+        //ChrisW fix for NordVPN idiotic 404 DDOS web protection
+        // Save a reference to the original fetch function
+        const originalFetch = fetch;
+
+        // Override the global fetch function
+        window.fetch = async function(url, options = {}) {
+        // Check if the request has a body
+    if (options.body) {
+        // Parse the body to check if it contains 'rulesType'
+        try {
+            const body = typeof options.body === 'string' ? JSON.parse(options.body) : options.body;
+
+            // If body is a FormData, you might need to use body.has('rulesType') instead
+            if (body.rulesType) {
+                //console.log('Fetch request intercepted: rulesType parameter found.');
+                // Return a fake promise with the specified JSON data
+                return Promise.resolve({
+                    json: () => Promise.resolve({
+                        "style_selectors": null,
+                        "selectors": null,
+                        "hide_selectors": null
+                    }),
+                    ok: true
+                });
+            }
+        } catch (e) {
+            console.error('Error parsing request body:', e);
+        }
+    }
+
+        // Proceed with the original fetch function if rulesType is not found
+        return originalFetch(url, options);
+    };
+    })();
+
+    
+</script>
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+
+
+<link href="https://didlsjm328074.cloudfront.net/styles/perfect-scrollbar.css" rel="stylesheet">
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-1062486564');
+</script>
+<link href="https://didlsjm328074.cloudfront.net/styles/introjs.min.css" rel="stylesheet">
+<script src="https://didlsjm328074.cloudfront.net/jscripts/perfect-scrollbar.min.js"></script>
+
+<script src="https://didlsjm328074.cloudfront.net/jscripts/notifications2.min.js"></script>
+
+<script type="text/javascript" src="https://didlsjm328074.cloudfront.net/jscripts/advertisement2.js"></script>
+
+	<script src="https://didlsjm328074.cloudfront.net/jscripts/anchorific.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://didlsjm328074.cloudfront.net/styles/print.css" media="print" />
+	<script language='JavaScript' type="text/javascript">
+	<!--
+	function printContent() 
+	{
+		if (window.print) 
+		{
+           window.print();
+		}
+		else
+		{
+			alert("Your browser doesn't support this function!");
+		}
+	}
+	
+	// MOVE ANCHORIFIC MENU ON WINDOW SCROLL
+	$(window).on('scroll', function(e) {
+		var y = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+		y = y < 250 ?  250 - y : 10;
+		$('.anchorific').css('top', y + 'px')
+	})
+	
+	// SELECT FIRST MENU ITEM ON LOAD IF A HASH/ANCHOR HASN'T BEEN CLICKED
+	$(document).ready(function() {
+		var hash = window.location.hash;
+		if(hash.length == 0) {
+			var href = '#q-i-want-to-renew-my-drivers-contract-how-do-i-do-it';
+			window.location.href = href;
+			setTimeout(function() {
+				$(window).scrollTop(0);
+			},1)
+		}
+	})
+	-->
+	</script>
+	<style>
+	.anchorific {position:fixed; width:250px; background:#1b2d47; border-radius:8px; text-align:left;}
+	.anchorific > ul {margin:10px;}
+	.anchorific ul li a {line-height:1.6em; font-size:11px;}
+	.anchorific li ul {padding-left:10px;display:none;}
+	.anchorific li.active > a {color:yellow}
+	.anchorific li.active > ul {color:yellow;display:block;}
+	.anchor {display:none}
+	
+	#contentinner h1.block {z-index:8;}
+	.maincontent {font-family:arial; font-size:12px;}
+	.maincontent .content {position:relative; width:650px; left:265px;}
+	.maincontent .content h1, .maincontent .content h2 {font-weight:bold; text-decoration:underline; margin:0 0 15px; font-size:16px; color:#fff;}
+	.maincontent .content h2 {font-size:14px;color:#E1E1E1;text-decoration: none;}
+	.maincontent .content p {font-size:12px;}
+	.maincontent .content table {margin-bottom:15px !important;}
+	.printcontent, .translatelink {position:absolute; right:8px; top:50%; margin-top:-9px; z-index:9999;}
+	.translatelink {right:32px;}
+	
+	/* OFFSET FIX */
+	.maincontent .content h1, .maincontent .content h2, .maincontent .content h3 {padding-top:50px; margin-top:-50px;}
+	
+	/* PRINT RULES */
+	@media print {
+		#header, #nav, #onlineinfo, #footer,  .anchorific , .boxy {display:none;}
+		.content { width:100% !Important; left:0 !important;}
+	}
+	</style>
+</head>
+
+<script type="text/javascript">
+var notificationsCount = 0;
+var nonotif="Aucune nouvelle notification";
+var newAchievement="Nouveau challenge";
+var viewAllNotif="Voir toutes les notifications";
+var loadtime = new Date(2024,11,31,15,55,20)
+//var monthtext = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+var monthtext = new Array("Janvier","F&#233;vrier","Mars","Avril","Mai","Juin","Juillet","Ao&#251;t","Septembre","Octobre","Novembre","D&#233;cembre")
+var livetime = new Date(loadtime)
+function pad2(text)
+{
+	return (text.toString().length==1)? "0" + text : text
+}
+function dayterm(val)
+{
+	
+	text = val.toString()
+	
+		
+	return text
+}
+function updatetime()
+{
+	livetime.setSeconds(livetime.getSeconds()+1)
+	document.getElementById("livetime").innerHTML = "[D] [M] [Y], [hh]:[mm]:[ss] HCE".replace('[Y]',livetime.getFullYear()).replace('[M]',monthtext[livetime.getMonth()]).replace('[D]',dayterm(livetime.getDate())).replace('[hh]',pad2(livetime.getHours())).replace('[mm]',pad2(livetime.getMinutes())).replace('[ss]',pad2(livetime.getSeconds()))
+}
+window.onload = function()
+{
+	setInterval("updatetime()", 1000)
+}
+</script>
+<script>
+
+var quickTut = "";
+
+var tutorialAvail = 0;
+
+var complQuickTut = 0;
+var accActive = 0;
+
+</script>
+<body class="lang_fr">
+    <!-- Google Tag Manager (noscript) -->
+    
+    <!-- End Google Tag Manager (noscript) -->
+	
+	<div id="outer">    
+    	<div id="inner-shell">    
+		
+        <div id="inner-shell-left" style="width: 980px; top: 0px;margin: 0 auto;">        
+		<div id="header">
+			<a href="/fr/gpro.asp">
+				
+				<div id="headersnow"></div>
+				<div id="zaichenceto_bqlo" style="position: absolute;width: 24px;height: 15px;top: 12px;left: 102px;background: url(/images/gpro_santa_hat.png) no-repeat;"></div>
+				
+			</a>
+			<h1><a href="/fr/gpro.asp">GPRO - Grand Prix Racing Online</a></h1>
+		</div>
+		
+		<ul id="nav">
+			<li class="first"><a href="/fr/gpro.asp" accesskey="1">Accueil</a></li>
+			<li><a href="/fr/forum/index.asp" accesskey="5">Forum</a></li>
+			<li><a href="/fr/chat/chat.asp" accesskey="7">Chat</a></li>
+            <li><a href="/fr/Downloads.asp">T&#233;l&#233;chargements</a></li>
+			<li><a href="/fr/Help.asp">Aide</a></li>
+			<li><a href="/fr/Prizes.asp">R&#233;compenses</a></li>
+			
+			<li><a href="/fr/Screenshots.asp">Captures d'&#233;cran</a></li>
+			
+			<li><a href="/fr/AboutGPRO.asp" accesskey="8">&#192; propos</a></li>
+			
+			<li><a href="/fr/Login.asp?Redirect=gpro.asp">Se connecter</a></li>
+			<li><a href="/fr/Register.asp">S'inscrire</a></li>
+				
+		</ul>
+		
+		<div id="content">
+			<div id="infobar">
+
+				<ul id="managersonline">
+					<li><a href="/fr/OnlineManagers.asp" class="onlinemanagers">8957&nbsp;managers en ligne</a></li>
+					
+				</ul>
+				
+				
+				
+				<div class="overlay-info-exit">
+					<p style="width:350px;">Si vous souhaitez voir le tutoriel &#224; partir de n'importe quelle page, cliquez simplement sur cette ic&#244;ne.</p>
+					<i></i>
+				</div>				
+				
+				<div id="info_right">
+				
+				
+					
+					<a href="#nogo" id="info_languageselector" class="noti" title="French"><img src="https://didlsjm328074.cloudfront.net/images/country/fr.gif"></a>
+
+					<ul id="languages" style="display:none">
+	
+		<li class="left third">
+			<a href="/gb/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/gb.gif" alt="English">English
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/de/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/de.gif" alt="Deutsch">Deutsch
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/es/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/es.gif" alt="Espa&#241;ol">Espa&#241;ol
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/ro/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/ro.gif" alt="Rom&#226;n&#259;">Rom&#226;n&#259;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/it/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/it.gif" alt="Italiano">Italiano
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/pt/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/pt.gif" alt="Portugu&#234;s">Portugu&#234;s
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/br/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/br.gif" alt="Portugu&#234;s">Portugu&#234;s
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/pl/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/pl.gif" alt="Polski">Polski
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/ru/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/ru.gif" alt="&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/bg/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/bg.gif" alt="&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;">&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/mk/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/mk.gif" alt="&#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;">&#1052;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/rs/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/rs.gif" alt="&#1057;&#1088;&#1087;&#1089;&#1082;&#1080;">&#1057;&#1088;&#1087;&#1089;&#1082;&#1080;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/nl/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/nl.gif" alt="Nederlands">Nederlands
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/be/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/be.gif" alt="Vlaams">Vlaams
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/se/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/se.gif" alt="Svenska">Svenska
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/fi/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/fi.gif" alt="Suomi">Suomi
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/lt/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/lt.gif" alt="Lietuvi&#371;">Lietuvi&#371;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/cz/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/cz.gif" alt="&#268;e&#353;tina">&#268;e&#353;tina
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/hu/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/hu.gif" alt="Magyar">Magyar
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/ee/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/ee.gif" alt="Eesti keel">Eesti keel
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/sk/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/sk.gif" alt="Sloven&#269;ina">Sloven&#269;ina
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/tr/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/tr.gif" alt="T&#252;rk&#231;e">T&#252;rk&#231;e
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/al/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/al.gif" alt="Shqip">Shqip
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/cn/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/cn.gif" alt="&#20013;&#25991;&#65288;&#31616;&#20307;&#65289;">&#20013;&#25991;&#65288;&#31616;&#20307;&#65289;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/gr/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/gr.gif" alt="&#917;&#955;&#955;&#951;&#957;&#953;&#954;&#940;">&#917;&#955;&#955;&#951;&#957;&#953;&#954;&#940;
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/hr/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/hr.gif" alt="Hrvatski">Hrvatski
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/my/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/my.gif" alt="Bahasa Melayu">Bahasa Melayu
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/dk/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/dk.gif" alt="Dansk">Dansk
+			</a>
+		</li>
+		
+		<li class="left third">
+			<a href="/pi/GPROFAQ.asp">
+			<img src="https://didlsjm328074.cloudfront.net/images/country/pi.png" alt="Pirate">Pirate
+			</a>
+		</li>
+		
+</ul>
+
+					<p id="livetime">31 D&#233;cembre 2024, 15:55:20 HCE
+				</p>
+
+				</div>
+				
+			</div>
+				
+			<div id="contentinner"><span class="tl cc"></span> <span class="tr cc"></span><span class="bl cc"></span> <span class="br cc"></span>
+				<div class="inner">
+				
+<h1 class="block" style="z-index:0;">
+	<b>Foire aux questions</b><br>
+	<span class="normal11">Derni&#232;re mise &#224; jour: 4 D&#233;cembre 2022, 01:35:54</span>
+	<span class="tl bc"></span>
+	<span class="tr bc"></span>
+	<span class="bl bc"></span>
+	<span class="br bc"></span>
+	
+	<a href="javascript: ;" onclick="printContent()" title="Imprimer" class="printcontent"><img src="https://didlsjm328074.cloudfront.net/images/print.gif"></a>
+</h1>
+<br>
+<table class="maincontent" style="width:98% !Important; margin-left:1%;"><tr><td class="normal">
+
+	<div class="anchorific"></div>
+
+
+
+<div align="justify" class="content">
+	<h1>Pilote</h1>	
+	
+	<h2><b>Q.</b>:&nbsp;Je veux renouveler le contrat de mon pilote, comment dois-je faire ?</h2>
+	<p><b>R.</b>:&nbsp;Vous pouvez renouveler un contrat &#224; tout moment si le niveau global du pilote est dans les limites de son groupe. Vous paierez la prime de signature imm&#233;diatement, vous ne paierez pas le nouveau salaire jusqu'&#224; la fin du contrat actuel. Pour pouvoir le renouveler, s&#233;lectionnez le lien &quot;contrat du pilote&quot; sur la page principale de GPRO.</p>
+	
+	<h2><b>Q.</b>:&nbsp;J'ai renouvel&#233; le contrat de mon pilote mais le nombre de courses restantes n'a pas chang&#233;, pourquoi ?</h2>
+	<p><b>R.</b>:&nbsp;Votre pilote terminera son contrat existant avec vous puis d&#233;marrera le nouveau avec vous, le nombre de courses restantes ne changera qu'&#224; ce moment. Ne vous inqui&#233;tez pas, s'il a accept&#233; votre prolongation vous ne pourrez pas le perdre, &#224; moins d'&#234;tre rel&#233;gu&#233; au niveau inf&#233;rieur et que le niveau global du pilote ne soit sup&#233;rieur &#224; celui permis par le niveau o&#249; vous &#234;tes rel&#233;gu&#233;. La prolongation de contrat appara&#238;tra sur la page principale comme ceci : courses restantes : 8(+17). Cependant, cela n'appara&#238;tra sur aucune autre page except&#233; la page de contrat du pilote.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Le niveau global de mon pilote est au dessus de la limite du groupe mais je souhaite le renouveler, comment faire ?</h2>
+	<p><b>R.</b>:&nbsp;Vous ne pouvez pas, si vous planifiez &#224; l'avance, il est possible de renouveler le contrat du pilote pour 17 autres courses d&#232;s que vous le signez, alors vous pourrez le garder pour au moins 34 courses.</p>
+	
+	<h2><b>Q.</b>:&nbsp;O&#249; est-ce que mon pilote est parti ?</h2>
+	<p><b>R.</b>:&nbsp;Soit son contrat a expir&#233; - vous aurez &#224; en signer un nouveau ! Soit vous avez &#233;t&#233; rel&#233;gu&#233; et le niveau global de votre pilote &#233;tait trop &#233;lev&#233; pour votre nouveau groupe.</p>
+
+<h1>Mise &#224; jour de la voiture</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Est-il possible de mettre &#224; jour la voiture apr&#232;s les essais libres ou les qualifications ?</h2>
+	<p><b>R.</b>:&nbsp;Oui, la mise &#224; niveau de la voiture sera possible, mais vous devez consid&#233;rer que si vous changez des pi&#232;ces apr&#232;s les essais libres / qualifications, cela est susceptible d'affecter les r&#233;glages  que vous avez pour la course.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Pourquoi ne puis-je pas mettre &#224; niveau ma voiture?</h2>
+	<p><b>R.</b>:&nbsp;Les raisons possibles : <br>&#8226; Si vous avez des dettes, vous n'&#234;tes pas autoris&#233; &#224; mettre &#224; jour votre voiture, vous ne pouvez que seulement baisser le niveau des pi&#232;ces. <br>&#8226; Vous avez d&#233;j&#224; mis &#224; jour votre voiture, ce qui ne peut &#234;tre effectu&#233; qu'une fois par course. <br>&#8226; Vous avez manqu&#233; la limite pour la prochaine course, qui est de 1 heure et demi avant le d&#233;part.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Toutes mes pi&#232;ces sont us&#233;es, je suis endett&#233; et ne peux donc pas acheter de nouvelles pi&#232;ces, que dois-je faire?</h2>
+	<p><b>R.</b>:&nbsp;Pas de panique ! Vous avez besoin de ralentir et d'apprendre &#224; ma&#238;triser l'usure de vos pi&#232;ces de voiture, essayez de regarder les risques pris par le pilote. Essayez de finir les courses pour vous permettre de gagner plus d'argent pour mettre &#224; jour la voiture. Vous pouvez toujours aussi d&#233;classer les pi&#232;ces. Pensez soigneusement &#224; ce sur quoi vous d&#233;pensez votre argent. Un petit indice : en Rookie, m&#234;me des risques de 40 sont consid&#233;r&#233;s comme tr&#232;s &#233;lev&#233;s.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Que signifient P,H et A ?</h2>
+	<p><b>R.</b>:&nbsp;Il s'agit de la puissance, la maniabilit&#233; et l'acc&#233;l&#233;ration qui sont les caract&#233;ristiques de la voiture selon les niveaux des pi&#232;ces que vous avez acquises et les points que vous avez obtenus en essais priv&#233;s.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Qu'est-ce que signifie les lettres P, M, A et E en dessous du type de voiture dans la page Argent et niveau voiture ?</h2>
+	<p><b>R.</b>:&nbsp;C'est une caract&#233;ristique globale de la voiture. P est pour Puissance, M pour Maniabilit&#233;, A pour Acc&#233;l&#233;ration et E pour &#201;quilibr&#233;.</p>
+	
+	<h2><b>Q.</b>:&nbsp;En quoi influent P, M et A ?</h2>
+	<p><b>R.</b>:&nbsp;Regardez les statistiques de la piste, par exemple, une voiture avec des caract&#233;ristiques globales orient&#233;es Puissance ira plus vite sur une piste qui favorise la Puissance.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Combien co&#251;te une pi&#232;ce de voiture de chaque niveau ?</h2>
+	<p><b>R.</b>:&nbsp;Vous devrez trouver ceci par vous-m&#234;me, les pi&#232;ces qui ont plus d'effet sur les performances de la voiture co&#251;tent plus. Ainsi, un moteur de niveau 2 sera plus cher qu'un aileron avant niveau 2.</p>
+	
+<h1>Essais libres</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Comment puis-je commencer ?</h2>
+	<p><b>R.</b>:&nbsp;L'&#233;cran des essais libres vous permet de trouver en 8 tours une configuration pour votre combinaison pilote/voiture pour le circuit en question. Entrez des param&#232;tres, soit 500 dans chaque case et voyez comment votre pilote r&#233;pond et ajustez les r&#233;glages en fonction de ce que dit le pilote.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Qu'est-ce que les r&#233;glages signifient quand on fait ses essais libres ?</h2>
+	<p><b>R.</b>:&nbsp;Sur l'&#233;cran des essais libres, vous pouvez passer votre souris sur le [b]?[/b] bleu pour obtenir des informations sur les param&#232;tres de cette partie sp&#233;cifique, voici un r&#233;sum&#233; : <br>&#8226; Ailerons - une valeur plus &#233;lev&#233;e donne une plus grande force d'appui &#224; la voiture. <br>&#8226; Moteur - une valeur plus &#233;lev&#233;e favorise vitesse de pointe plut&#244;t que l'acc&#233;l&#233;ration. <br>&#8226; Freins - une valeur plus &#233;lev&#233;e d&#233;place l'&#233;quilibre de freinage vers l'avant. <br>&#8226; Bo&#238;te de vitesse - une valeur plus &#233;lev&#233;e augmente la vitesse maximale mais r&#233;duit l'acc&#233;l&#233;ration. <br>&#8226; Suspension - une valeur plus &#233;lev&#233;e augmente la rigidit&#233; de la suspension.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Mon pilote est satisfait des r&#233;glages, mais je suis encore tr&#232;s lent. Quel est le probl&#232;me ?</h2>
+	<p><b>R.</b>:&nbsp;Il y a plusieurs raisons pour lesquelles vous &#234;tes lent, la voiture, le pilote, m&#234;me les conditions atmosph&#233;riques influent sur le r&#233;glage et puis m&#234;me si le conducteur est satisfait de celui-ci, il peut ne pas &#234;tre n&#233;cessairement le plus rapide possible. Essayez de peaufiner votre configuration pour voir si vous pouvez la rendre plus rapide.</p>
+	
+	<h2><b>Q.</b>:&nbsp;La configuration choisie par le pilote est plus lente qu'une autre dont il est m&#233;content, pourquoi?</h2>
+	<p><b>R.</b>:&nbsp;Il est possible que votre pilote ne poss&#232;de aucune comp&#233;tence dans la pr&#233;paration/configuration de la voiture, vous pouvez entrainer ses connaissances techniques pour am&#233;liorer cela.<br>Il y a bien s&#251;r d'autres raisons qui peuvent provoquer ce probl&#232;me.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Quels pneus puis-je utiliser en essais libres ?</h2>
+	<p><b>R.</b>:&nbsp;Vous pouvez utiliser n'importe quel type de pneus en essais libres.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Mes temps d'essais libres sont beaucoup plus lent que les temps de mes adversaires en qualifications, que dois-je faire ?</h2>
+	<p><b>R.</b>:&nbsp;De nombreux param&#232;tres affectent votre rythme, cela peut &#234;tre le niveau de la voitures ou quelque chose d'autre, comme par exemple vos adversaires qui ont eu de la chance en qualifications avec des risques &#233;lev&#233;s.</p>
+	
+<h1>Qualification 1</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Quel type de pneus dois-je utiliser en qualifications ?</h2>
+	<p><b>R.</b>:&nbsp;Les pneus que vous choisissez d'utiliser en qualifications sont les pneus que vous allez utiliser dans la course. Vous devez s&#233;lectionner les pneus qui vous donneront la meilleure strat&#233;gie : ils s'usent pendant la course. Quand ils sont us&#233;s, ils vous ralentiront. S&#233;lectionnez vos pneus &#224; bon escient.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Si je choisis des pneus pluie, dois-je les garder ?</h2>
+	<p><b>R.</b>:&nbsp;Non, si vous s&#233;lectionnez pneus pluie, il vous sera &#233;galement demand&#233; de s&#233;lectionner un compos&#233; pneus pour piste s&#232;che pour la course, au cas o&#249; il y ait des p&#233;riodes s&#232;ches.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Combien de temps les pneus vont durer ?</h2>
+	<p><b>R.</b>:&nbsp;Vous pouvez vous faire une id&#233;e juste de la fa&#231;on dont les pneus s'usent pendant les essais priv&#233;s. L'usure des pneus est d&#233;pendante de la piste et de la temp&#233;rature, d'autres choses peuvent aussi influer sur l'usure des pneus, mais vous devrez le d&#233;couvrir par vous-m&#234;me. Il est important de noter quelle est l'usure des pneus afin que vous puissiez utiliser ces donn&#233;es &#224; l'avenir.</p>
+	
+<h1>Qualifications 2</h1>
+	
+	<h2><b>Q.</b>:&nbsp;De combien de carburant ai-je besoin ?</h2>
+	<p><b>R.</b>:&nbsp;Le carburant que vous entrez pour la Qualif. 2 est la charge de carburant lors du d&#233;part de la course pour le premier relais, selon la strat&#233;gie que vous avez choisie. C'est un domaine du jeu que vous avez besoin d'exp&#233;rimenter, vous ne serez jamais retir&#233; de la course par manque de carburant, le pilote rentrera toujours aux stands si le carburant est trop bas pour effectuer un nouveau tour. Ainsi, mettez beaucoup de carburant et regardez par la suite ce que vous avez r&#233;ellement consomm&#233;, sur l'&#233;cran &#171; Analyse de la course &#187;. Vous aurez par la suite une meilleure id&#233;e de la quantit&#233; de carburant n&#233;cessaire. De mani&#232;re g&#233;n&#233;rale, il est peu probable qu'une course standard d'une longueur d'environ 300 km n&#233;cessite plus de 280 litres de carburant.</p>
+
+<h1>R&#233;glages pour la course et strat&#233;gie</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Je ne peux pas apporter de modifications &#224; mes r&#233;glages, mais la course n'est pas dans une heure. Pourquoi ?</h2>
+	<p><b>R.</b>:&nbsp;La page des r&#233;glages de course est toujours verrouill&#233;e 1 heure et 30 minutes avant le d&#233;but de la course, de sorte que le script du jeu puisse effectuer quelques calculs pour la course.</p>
+
+<h1>D&#233;tails du circuit</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Le temps d'entr&#233;e/sortie des stands de la piste est de 16,5 secondes, est ce qu'il s'agit d'un ensemble, ou 16,5 secondes d'entr&#233;e et 16,5 secondes de sortie?</h2>
+	<p><b>R.</b>:&nbsp;C'est le temps total pour entrer et sortir de la voie des stands.</p>
+	
+<h1>M&#233;t&#233;o</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Sur les pr&#233;visions m&#233;t&#233;o qu'est-ce que le 0h-0h30m repr&#233;sente ?</h2>
+	<p><b>R.</b>:&nbsp;Ces p&#233;riodes sont bas&#233;es sur le temps d'un tour de course, pas le temps d'un tour en course en direct. Par exemple, avec un temps moyen au tour de 1:30.000, le pilote couvrira 20 tours en cette p&#233;riode de 30 minutes.</p>
+	
+<h1>Course en direct</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Quand est ce que je peux regarder la course ?</h2>
+	<p><b>R.</b>:&nbsp;La course peut &#234;tre vue en direct le mardi et le vendredi de 20:00 HCE. 15 minutes avant que commence la course, un bouton vous menant &#224; l'&#233;cran de course en Direct appara&#238;tra sur la page principale du bureau dans le coin en haut &#224; droite (au lieu du compteur avant la prochaine course).</p>
+	
+	<h2><b>Q.</b>:&nbsp;Dans l'&#233;cran de course Direct/Replay il y a un num&#233;ro &#224; c&#244;t&#233; de la barre jaune - carburant restant - qui indique quelque chose comme ~22%. Qu'est ce que cela repr&#233;sente?</h2>
+	<p><b>R.</b>:&nbsp;Il s'agit d'une valeur approximative de ce qu'il reste comme carburant dans la voiture, cette valeur descend par tranches de 3%. Par cons&#233;quent, votre carburant restant se situerait entre 21% et 24%.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Quand je regarde la course en direct, la page ne se met pas automatiquement &#224; jour. Est ce un bug ?</h2>
+	<p><b>R.</b>:&nbsp;Non, ce n'est pas un bug. Cela peut se produire si votre navigateur ne supporte pas le JavaScript/AJAX ou si vous l'avez d&#233;sactiv&#233;.</p>
+
+<h1>Analyse de la course</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Dans l'Analyse de course, il est dit carburant restant &#224; la fin du relais = 20%, 20% de quoi exactement?</h2>
+	<p><b>R.</b>:&nbsp;La valeur du carburant restant est le % de la capacit&#233; totale du r&#233;servoir, celle-ci &#233;tant de 180L. Par exemple, 20% restant : 180/100 = 1,8 et 1,8x20 = 36 Litres.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Dans ma course je me suis arr&#234;t&#233; au bout de 4 tours, j'avais plus de carburant dans le r&#233;servoir que ce que j'avais demand&#233; &#224; l'&#233;quipe de ravitaillement d'ajouter, comment l'&#233;quipe peut elle retirer du carburant de la voiture? Est-ce un bug?</h2>
+	<p><b>R.</b>:&nbsp;Non, votre &#233;quipe gardera le niveau d'essence restant dans la voiture, l'&#233;quipe de ravitaillement ne retirera pas d'essence de la voiture.</p>	
+
+<h1>Essais priv&#233;s</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Pourquoi devrai-je faire des essais priv&#233;s ?</h2>
+	<p><b>R.</b>:&nbsp;Vous n'&#234;tes pas obliger d'en faire mais c'est une bonne fa&#231;on d'apprendre sur le jeu et les essais priv&#233;s apportent des am&#233;liorations &#224; votre voiture.</p>
+	
+	<h2><b>Q.</b>:&nbsp;La piste d'essais priv&#233;s peut-elle changer ?</h2>
+	<p><b>R.</b>:&nbsp;Habituellement, une nouvelle piste d'essais priv&#233;s est s&#233;lectionn&#233;e au d&#233;but de la saison, et est utilis&#233;e pour toute la saison.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Comment les essais priv&#233;s am&#233;liorent-ils la voiture ?</h2>
+	<p><b>R.</b>:&nbsp;Vous remarquerez qu'il existe diff&#233;rents types d'essais priv&#233;s, chacun intervenant sur certaines caract&#233;ristiques de la voiture - Puissance, Maniabilit&#233; ou Acc&#233;l&#233;ration, d'autres travaillent sur toutes les caract&#233;ristiques. Les tours d'essais priv&#233;s que vous effectuez g&#233;n&#232;rent des points de tests. Apr&#232;s la course, ces derniers sont convertis &#224; l'&#233;tape suivante (R&amp;D), puis apr&#232;s en points d'ing&#233;nierie et, enfin, en points de caract&#233;ristiques de la voiture qui sont ajout&#233;s aux points P/M/A de la voiture. <br>Notez que les essais usent les pi&#232;ces de la voiture.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Je ne peux pas lancer d'essais priv&#233;s, est-ce un bug ?</h2>
+	<p><b>R.</b>:&nbsp;Si vous &#234;tes endett&#233;, vous ne pouvez pas lancer d'essai priv&#233;. De plus, si une pi&#232;ce de la voiture a plus de 90% d'usure, vous ne serez pas autoris&#233; &#224; faire des essais en raison des r&#232;glements de s&#233;curit&#233;.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Comment puis-je savoir combien de carburant j'ai utilis&#233; dans une session d'essais priv&#233;s ?</h2>
+	<p><b>R.</b>:&nbsp;Avant que vous ne lanciez le relais, vous avez sp&#233;cifi&#233; la quantit&#233; de carburant que vous vouliez dans la voiture. Apr&#232;s le passage aux stands, la quantit&#233; de carburant restante est montr&#233;e avec l'usure des pneus et les temps au tour.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Pourquoi mon pilote ne me donne t-il pas de commentaires techniques en essais priv&#233;s ?</h2>
+	<p><b>R.</b>:&nbsp;La seule fois o&#249; le pilote vous donnera un retour technique en essais priv&#233;s est quand vous s&#233;lectionnez en priorit&#233; la recherche de r&#233;glages.</p>
+
+<h1>Les sponsors</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Je n&#233;gocie avec 5 sponsors et cela prend une &#233;ternit&#233;, y-a-t'il quelque chose qui ne va pas avec les sponsors?</h2>
+	<p><b>R.</b>:&nbsp;Votre &#233;quipe commerciale passe trop de temps avec trop de sponsors, essayez de vous concentrer sur 1 ou 2 sponsors et voir ce qui se passe.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Pourquoi ai-je perdu mon sponsor?</h2>
+	<p><b>R.</b>:&nbsp;Peut-&#234;tre que vous les avez tromp&#233;s lors de la n&#233;gociation avec eux. Peut-&#234;tre leur avez vous dit que vous pourriez gagner le championnat? Pour gagner le championnat vous avez besoin de gagner dans le groupe &#201;lite.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Mon sponsor m'a pos&#233; une question, comment dois-je y r&#233;pondre ?</h2>
+	<p><b>R.</b>:&nbsp;C'est &#224; vous de d&#233;cider, mais rappelez-vous que si vous induisez en erreur vos sponsors, ils peuvent devenir m&#233;contents et ne pas ex&#233;cuter le contrat.</p>
+
+<h1>Personnel et installations</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Je ne suis pas endett&#233;, mais je ne peux pas entrainer mon personnel, pourquoi ?</h2>
+	<p><b>R.</b>:&nbsp;Cela se produit lorsque le niveau de comp&#233;tences de votre personnel est plus &#233;lev&#233; que le niveau de comp&#233;tence requis pour pouvoir l'entrainer. Pour entrainer votre personnel, vous devrez d'abord faire progresser  les installations.</p>
+
+<h1>Directeur technique</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Je ne peux pas renouveler le contrat de mon directeur technique, pourquoi ?</h2>
+	<p><b>R.</b>:&nbsp;Il n'est pas possible de renouveler le contrat d'un directeur technique dans GPRO. Cela permet un march&#233; plus concurrentiel.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Mon directeur technique a disparu alors qu'il lui restait des courses sous contrat, pourquoi ?</h2>
+	<p><b>R.</b>:&nbsp;Les r&#232;gles du jeu stipulent qu'un directeur technique vous quitte si votre solde financier est inf&#233;rieur &#224; -15.000.000 $ donc vous ne pouvez pas le payer et il ne travaillera pas gratuitement. Ou alors vous avez &#233;t&#233; rel&#233;gu&#233; &#224; un groupe qui ne permet pas de directeur technique.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Je ne peux pas proposer de contrat &#224; un Directeur technique, pourquoi?</h2>
+	<p><b>R.</b>:&nbsp;Les seules raisons pour cela sont : &#8226; Vous n'&#234;tes pas dans le bon groupe, les directeurs technique sont disponibles pour l'&#201;lite, les Master et les groupes Pro uniquement. &#8226; Vous ne pouvez pas payer un directeur technique pour cause de balance financi&#232;re n&#233;gative. &#8226; Le niveau global du directeur technique est trop &#233;lev&#233; pour la classe.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Si je descend en dessous de -15.000.000$,  est-ce que mon directeur technique part imm&#233;diatement ou est ce qu'il attend de voir si je suis toujours en dessous de -15.000.000$ apr&#232;s la course?</h2>
+	<p><b>R.</b>:&nbsp;Il partira avant la course.</p>
+
+<h1>Classements des managers</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Que signifie le &#8220;N&#8221; apr&#232;s le nom du manager dans le classement de la saison ?</h2>
+	<p><b>R.</b>:&nbsp;Le &quot;N&quot; repr&#233;sente un solde financier n&#233;gatif pour le manager.</p>
+
+<h1>Les &#233;quipes</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Est ce que l'argent venant des points d'&#233;quipe est partag&#233; entre tous les membres de l'&#233;quipe &#224; la fin de la saison ou est-ce le montant que chaque membre de l'&#233;quipe va recevoir ?</h2>
+	<p><b>R.</b>:&nbsp;L'argent provenant des points de l'&#233;quipe sera partag&#233; &#233;galement entre tous les membres de l'&#233;quipe.</p>
+
+<h1>Promotion / Rel&#233;gation et fin de saison</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Quand est-ce que les promotions / rel&#233;gations sont calcul&#233;es ? Est ce avant ou apr&#232;s que les primes sont d&#233;cern&#233;es ?</h2>
+	<p><b>R.</b>:&nbsp;La promotion ou rel&#233;gation est calcul&#233;e apr&#232;s que la prime pour le Top 10 soit pay&#233;e apr&#232;s la derni&#232;re course de la saison et AVANT que l'argent obtenu par les points marqu&#233;s, par l'&#233;quipe et par le bonus de participation &#224; toutes les courses de la saison soit vers&#233;. Il est pr&#233;f&#233;rable de pr&#233;voir la promotion et de s'assurer que vous avez un peu d'argent pour encore am&#233;liorer votre voiture, il ne serait pas une bonne id&#233;e de promouvoir avec tr&#232;s peu d'argent.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Qu'est-ce qui est r&#233;initialis&#233; &#224; la fin de la saison en Rookie ?</h2>
+	<p><b>R.</b>:&nbsp;En Rookie &#224; la fin de chaque saison une partie de vos attributs sera remise &#224; z&#233;ro, ceci se passe apr&#232;s le script promotion/rel&#233;gation: <br>&#8226; Niveau de votre voiture : remis au niveau 1 <br>&#8226; Installations : toutes remises au niveau 0 <br>&#8226; Pilote : si le niveau global de votre pilote est au dessus de celui de Rookie (85) avant la r&#233;initialisation pour la saison &#224; venir, vous le perdrez<br>&#8226; Argent : sera fix&#233; &#224; 30.000.000 $ <br>&#8226; Sponsor : un sponsor par d&#233;faut est donn&#233;, les autres sponsors sont enlev&#233;s et toutes les n&#233;gociations en cours sont remises &#224; z&#233;ro <br>&#8226; Points de tests : tous les points des caract&#233;ristiques de la voiture sont r&#233;tablis <br>&#8226; Personnel - r&#233;initialis&#233;</p>
+	
+	<h2><b>Q.</b>:&nbsp;Qu'est-ce qui n'est pas r&#233;initialis&#233; &#224; la fin de la saison en Rookie ?</h2>
+	<p><b>R.</b>:&nbsp;La r&#233;initialisation Rookie n'a aucun effet sur les points suivants : &#8226; Pilote - si son niveau global est en-dessous de (85) &#8226; &#201;quipe - si vous &#234;tes d&#233;j&#224; dans une &#233;quipe, votre participation continuera &#8226; Stats personnelles - toutes vos stats resteront</p>
+	
+	<h2><b>Q.</b>:&nbsp;Que se passe t-il exactement &#224; la fin de la saison ?</h2>
+	<p><b>R.</b>:&nbsp;Voici la liste de ce qui arrive :<br><br>&#8226; Apr&#232;s la derni&#232;re course les 10 premiers de chaque championnat touchent une prime en rapport &#224; leurs places et &#224; leurs niveaux<br>&#8226; Script de Promotion/Rel&#233;gation <br>&#8226; Vente de pi&#232;ces/installations pour repasser en positif<br>&#8226; Bonus de fin de saison pour les points marqu&#233;s en championnat<br>&#8226; Argent pour les points d'&#233;quipe<br>&#8226; Les comptes de tous les managers en Rookie sont remis &#224; z&#233;ro<br>&#8226; Bonus pour avoir pris part &#224; toutes les courses</p>
+	
+	<h2><b>Q.</b>:&nbsp;Quand le calendrier de la nouvelle saison est-il annonc&#233; ?</h2>
+	<p><b>R.</b>:&nbsp;Habituellement, la liste des pistes avec les dates de course provisoires est publi&#233; 3-4 courses avant la fin de la saison en cours. La date pr&#233;vue pour le reset de fin de saison est publi&#233;e apr&#232;s la derni&#232;re course de la saison.</p>
+
+<h1>Profil</h1>
+	
+	<h2><b>Q.</b>:&nbsp;J'ai un ami qui jouer &#224; GPRO et je tiens &#224; &#234;tre mis dans le m&#234;me groupe rookie pour la saison prochaine. Est-il possible de demander cela ?</h2>
+	<p><b>R.</b>:&nbsp;Oui, tous les managers peuvent s&#233;lectionner un groupe rookie pr&#233;f&#233;r&#233;. La pr&#233;f&#233;rence peut &#234;tre r&#233;gl&#233;e dans les param&#232;tres du compte -&gt; Remise &#224; z&#233;ro / suppression du compte -&gt; Groupe rookie pr&#233;f&#233;r&#233;. Assurez-vous que vous et votre/vos ami(s) choisissez le m&#234;me groupe. La pr&#233;f&#233;rence n'aura d'effet que dans le cas o&#249; le manager joue en Rookie la saison suivante et n'aura pas d'effet pour les managers qui jouent dans les divisions sup&#233;rieures. Les managers de divisions sup&#233;rieures qui veulent repartir en division Rookie doivent faire la demande dans les param&#232;tres du compte -&gt; Remise &#224; z&#233;ro / suppression du compte -&gt; R&#233;initialiser votre compte.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Mon nom est erron&#233; mais il ne se change pas quand je modifie mon profil, pourquoi ?</h2>
+	<p><b>R.</b>:&nbsp;Une fois votre compte approuv&#233;, vous ne pouvez pas changer votre nom dans le jeu par vous-m&#234;me. Si votre nom est incorrect, contactez un des Administrateurs et ils vont le changer pour vous.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Je ne peux pas charger ma photo, est-ce un bug ?</h2>
+	<p><b>R.</b>:&nbsp;Si vous essayez de t&#233;l&#233;charger une image plus grande que 30 Ko, vous pourriez obtenir une erreur. Dans ce cas, vous aurez &#224; redimensionner votre image avant de la t&#233;l&#233;charger. Si vous ne savez pas comment redimensionner votre image, n'h&#233;sitez pas &#224; contacter un des Administrateurs.</p>
+
+<h1>Les forums</h1>
+	
+	<h2><b>Q.</b>:&nbsp;Comment puis-je chercher dans les forums ?</h2>
+	<p><b>R.</b>:&nbsp;Acc&#233;dez aux forums en utilisant le bouton Forum en haut de la page, puis cliquez sur <a href="forum/Search.asp">Recherche</a>. Vous pourrez voir des options de recherche dans le forum : vous pouvez lancer une recherche par auteur ou par mot(s) sp&#233;cifi&#233;(s). REMARQUE : l'option par d&#233;faut est la recherche par titres de sujets seulement. Pour rechercher dans l'ensemble du forum, s&#233;lectionnez l'option &quot;totalit&#233; des posts&quot;.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Je voudrais utiliser l'italique, gras et soulign&#233; dans les forums, est-ce possible ?</h2>
+	<p><b>R.</b>:&nbsp;Oui, certaines balises sp&#233;ciales sont disponibles &#224; cette fin. Les balises sont repr&#233;sent&#233;es par des crochets ([tag]du texte[/tag]) comme suit:<br><br>&#8226; <i>italique</i> - la balise est &quot;i&quot;<br>&#8226; <b>gras</b> - le tag est &quot;b&quot;<br>&#8226; <u>soulign&#233;</u> - la balise est &quot;u&quot;<br>&#8226; <del>ray&#233;</del> - la balise est &quot;s&quot;</p>
+	
+	<h2><b>Q.</b>:&nbsp;Comment puis-je citer un autre post dans le forum ?</h2>
+	<p><b>R.</b>:&nbsp;Il suffit de s&#233;lectionner le texte que vous souhaitez citer avec la souris et cliquez sur &quot;Citer&quot; &#224; c&#244;t&#233; du message que vous citez. Le texte cit&#233; appara&#238;t dans la zone &quot;R&#233;pondre &#224; ce sujet&quot;. Vous remarquerez qu'il est enferm&#233; dans une balise de ([quote]citation de texte[/quote]).</p>
+	
+	<h2><b>Q.</b>:&nbsp;Quels sont ces globes oculaires effrayants au bas de la page dans une discussion du forum ?</h2>
+	<p><b>R.</b>:&nbsp;Si vous cliquez sur les globes oculaires, le sujet que vous lisez actuellement sera ajout&#233; &#224; <a href="forum/WatchList.asp">la liste d'alerte</a> et le sujet appara&#238;t alors dans les &quot;Derni&#232;res discussions&quot; sur la page principale.</p>
+	
+	<h2><b>Q.</b>:&nbsp;Quel est le symbole rouge &#224; c&#244;t&#233; des yeux effrayants au bas de la page dans une discussion du forum ?</h2>
+	<p><b>R.</b>:&nbsp;Si vous cliquez sur le symbole, vous choisissez d'ajouter le sujet en cours &#224; votre <a href="forum/IgnoreList.asp">liste d'ignor&#233;s</a>. Une fois ignor&#233;, le sujet ne sera plus affich&#233; dans la section &quot;Derni&#232;res discussions&quot; qui figure dans votre bureau principal.</p>
+</div>
+
+<div class="boxy" style="height:100px;margin-top:0px;margin-bottom:5px;">
+
+</div>
+
+</td></tr></table>
+<h1 class="block">
+	<b>Foire aux questions</b><br>
+	<span class="normal11">Derni&#232;re mise &#224; jour: 4 D&#233;cembre 2022, 01:35:54</span>
+	<span class="tl bc"></span>
+	<span class="tr bc"></span>
+	<span class="bl bc"></span>
+	<span class="br bc"></span>
+	
+	<a href="javascript:;" onclick="printContent()" title="Imprimer" class="printcontent"><img src="https://didlsjm328074.cloudfront.net/images/print.gif"></a>
+</h1>
+<script>$('.content').anchorific();
+$( 'html, body' ).animate({
+//scrollTop: ashara.offset().top
+}, 3);
+
+$('.content').anchorific({
+navigation: '.anchorific', // position of navigation
+speed: 200, // speed of sliding back to top
+anchorClass: 'anchor', // class of anchor links
+anchorText: '#', // prepended or appended to anchor headings
+top: 'false', // back to top button or link class
+spy: true, // scroll spy
+position: 'append' // position of anchor text
+});
+</script>
+		<div class="clear"></div>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+    <div id="footer" style="clear:both;"><span class="bl fc"></span>
+		
+			<span class="br blank fc"></span>
+			<a href="/fr/gpro.asp" class="backtooffice">Retour au Bureau<span></span></a>
+		
+		<p><a href="/fr/GPROSupporter.asp" id="supportbutton">Soutenir GPRO<b></b></a></p>
+		
+		<p>&copy; Grand Prix Racing Online 2005-2024. Tous droits r&#233;serv&#233;s<br><a href="/fr/TermsOfService.asp">Acc&#232;s au Service</a>|<a href="/fr/PrivacyPolicy.asp">Politique de Confidentialit&#233;</a>|<a href="/fr/partner/">Programme de partenariat</a></p>
+		
+		<ul id="accesskeys" style="display:none;">
+			<li><a href="/fr/accesskeys.asp" accesskey="0">Access Keys Help</a></li>
+			<li><a href="#skiptocontent" accesskey="2">Skip To Content</a></li>
+			<li><a href="/fr/mailbox.asp" accesskey="6">Mailbox</a></li>
+			<li><a href="/fr/race.asp" accesskey="9">Race Screen</a></li>
+		</ul>
+		
+		<br>
+         </div>
+	    </div>        
+    </div>
+</div>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1062486564');
+</script>
+
+<script type="text/javascript" src="https://didlsjm328074.cloudfront.net/jscripts/intro.min.js"></script>
+</body>
+</html>
