@@ -4,3 +4,5 @@
 06/01 = Keren => j'ai fait toute la structure du site, les diferentes pages ( que j'ai mis dans le dossier “annexes”), et j'ai fait le github pages pour qu etout le monde puisse visualaliser le site
 
 10/01 = Keren => j'ai amelioré les scripts pour le site et rédigé la partie présentation.
+
+11/01 = Keren => j'ai ajouté le code que j'ai utilisé pour faire mon nuage de mot, 
