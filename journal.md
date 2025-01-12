@@ -24,4 +24,4 @@ Simeng : URLs chinois (ch_urls.txt)
 12/01 = Keren => j'ai fait la partie Itrameur et redigé la conclusion.
 
 
-`12/01 == Nous n'avons aucune nouvelle de Mercutio depuis 3 semaines, nous avons donc décidé de supprimer les parties que je lui avais crée sur le site. Malheureusement ce projet ne contient plus que l'ananlyse de deux langues. N'ayant aucune nouvelle, malgrès de nombreuses relance nous avons été obligé de continué l'analyse pour le mot "course" sachant que cette analyse aurait été beaucoup plus pertinanate avec l'analyse en italien.`
+**12/01 = Keren ===> Nous n'avons aucune nouvelle de Mercutio depuis 3 semaines, nous avons donc décidé de supprimer les parties que je lui avais créées sur le site. Malheureusement, ce projet ne contient plus que l'analyse de deux langues. N'ayant aucune nouvelle, malgré de nombreuses relances, nous avons été obligés de continuer l'analyse pour le mot "course", sachant que cette analyse aurait été beaucoup plus pertinente avec l'analyse en italien.**
