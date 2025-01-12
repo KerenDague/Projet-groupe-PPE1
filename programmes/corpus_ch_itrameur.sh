@@ -11,7 +11,7 @@ fi
 folder=$1       # dumps-text ou contextes
 basename=$2     # chinois, français
 
-output_dir="../itrameur"
+output_dir="./itrameur"
 mkdir -p $output_dir
 
 output_file="$output_dir/$folder-$basename.txt"
