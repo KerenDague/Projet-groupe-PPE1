@@ -8,7 +8,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 
-with open("./dumps-text/français-tout.txt", 'r', encoding='utf-8') as file:
+with open("./itrameur/dumps-text-fr.txt", 'r', encoding='utf-8') as file:
     text = file.read()
 
 def clean_text(text):
