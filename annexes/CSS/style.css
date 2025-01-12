@@ -39,6 +39,22 @@ body {
   margin: 0 auto;
 }
 
+.box2 {
+  width: 90%;
+  max-width: 1500px;
+  height: auto;
+  padding: 35px;
+  background-color: #a9ba9d;
+  gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-size: 17px;
+  margin: 0 auto;
+  border-radius: 10px;
+
+}
+
 .box-item {
   flex: 1;
   min-width: 280px;

@@ -27,7 +27,7 @@
         <h1 class="title has-text-centered" style="color: #333; font-size: 40px; letter-spacing: -0.02em; font-variant-caps: small-caps;">Nuages De Mots</h1>
             <div class="box">
                 <h2 class="title" id="PresentationProjet" style="color: #333; font-size: 30px; letter-spacing: -0.02em; font-variant-caps: small-caps;margin-bottom: 10px;"><b>Français</b></h2>
-                <p>Pour générer le nuage de mots, j'ai regroupé les données textuelles issues des 62 urls sélectionnées. Ensuite, j'ai appliqué une segmentation lexicale à l’aide de la bibliothèque <b>NLTK</b> et j’ai nettoyé les données grâce à une liste de mots vides pour inclure des termes non pertinents comme "comme", "tout" ou "après". Ces étapes permettent d’éliminer les bruits linguistiques et de conserver des termes pertinents pour une analyse approfondie. Le texte nettoyé a été enregistré sous forme de chaîne pour alimenter la génération du nuage de mots;Pour représenter visuellement les résultats, j’ai choisi une présentation claire et sobre.
+                <p style="margin-top: 50px; margin-left: 100px; margin-right: 50px;">Pour générer le nuage de mots, j'ai regroupé les données textuelles issues des 62 urls sélectionnées. Ensuite, j'ai appliqué une segmentation lexicale à l’aide de la bibliothèque <b>NLTK</b> et j’ai nettoyé les données grâce à une liste de mots vides pour inclure des termes non pertinents comme "comme", "tout" ou "après". Ces étapes permettent d’éliminer les bruits linguistiques et de conserver des termes pertinents pour une analyse approfondie. Le texte nettoyé a été enregistré sous forme de chaîne pour alimenter la génération du nuage de mots;Pour représenter visuellement les résultats, j’ai choisi une présentation claire et sobre.
                 </p>
              <div style="overflow: hidden;">
                 <img src="../annexes/images/nuageFR.png" style="float: left; margin-right: 20px; width: 50%;" alt="Nuage de mots en français">
@@ -51,11 +51,46 @@
             </div>
             </div>
           <h1 class="title has-text-centered" style="color: #333; font-size: 37px; letter-spacing: -0.02em; font-variant-caps: small-caps;">Textometrie</h1>
-          <div class="box">
+          <div class="box2">
             <h2 class="title" id="PresentationProjet" style="color: #333; font-size: 30px; letter-spacing: -0.02em; font-variant-caps: small-caps;"><b>Français</b></h2>
-            <p>???</p>
+            <p style="margin-left: 10px; margin-right: 20px;"> J’ai commencé par charger mon fichier nettoyé  dans le site iTrameur pour effectuer une première analyse lexicale. Après avoir analysé le dictionnaire des formes, j’ai observé les différentes occurences du mot, en fonction de son écriture. En effet ce mot peut s'écrire de différentes manières: </p>
+            <li>course</li>
+            <li>courses</li>
+            <li>Course</li>
+            <li>Courses</li>
+            </p>
+            <div style="overflow: hidden;">
+                <img src="./images/itrameur_fr1.png" style="float: left; margin-left: 10px; margin-right: 50px; width: 50%;" alt="Resultat iTrameur">
+                <p style="margin-top: 50px; margin-left: 100px; margin-right: 50px;">Les résultats affichés montrent les différentes formes du mot "course" dans le corpus. La forme en minuscule "course" apparaît <b>988 fois</b>, ce qui en fait la variante la plus fréquente, suivie du pluriel "courses" avec <b>636 occurrences</b>. Les formes capitalisées "Course" et "Courses" apparaissent respectivement <b>156</b> et <b>55 fois</b>, tandis que la version entièrement en majuscules "COURSE" est beaucoup plus rare, avec seulement <b>31 occurrences</b>. Ces variations reflètent une diversité d’utilisation du mot dans le corpus, selon le contexte grammatical ou typographique.
+                </p>
+            </div>
+            <div style="overflow: hidden;">
+                <p style="margin-left: 10px; margin-right: 20px; font-size: 20px">
+                <u>Afin d'analyser ces differentes utilisations du même mot, j'ai décidé de mon concentrer sur les cooccurrences du mot en fonction de son ecriture:</u>
+                </p>
+            </div>
+                <div style="overflow: hidden;">
+                    <img src="./images/itrameur_fr2.png"  style="float: left; margin-left: 10px; margin-right: 50px; width: 50%;" alt="Resultat iTrameur">
+                    <p style="margin-top: 50px; margin-left: 100px; margin-right: 50px;">Ce graphe représente les cooccurrences du mot <b>course</b>. Celui-ci est relié à divers termes, ceux représentés ici apparaissent fréquemment dans son contexte. On retrouve des termes liés à des <b>types spécifiques de courses</b>, comme "pied", "obstacles", "cheval", "chars" ou "taureaux", ainsi que des références à des <b>événements sportifs ou compétitifs</b> avec des mots comme "défis" et "chute". D'autres mots suggèrent des <b>aspects pratiques ou techniques</b>, tels que "organisation", "analyse", "effets" ou encore "hydratation".
+                    </p>
+                </div>
+            <div style="overflow: hidden;">
+                <img src="./images/itrameur_fr3.png" style="float: left; margin-left: 10px; margin-right: 50px; width: 50%;" alt="Resultat iTrameur">
+                 <p style="margin-top: 50px; margin-left: 100px; margin-right: 50px;">Cette image illustre le graphe des cooccurrences autour du mot <b>courses</b>. Plusieurs thèmes se dégagent, notamment des <b>références temporelles</b> avec des mots comme "jeudi", "dimanche", "février", "avril", "septembre", ou encore des horaires comme "13h35", "12h25", "16h10". On trouve également des <b>mentions géographiques</b>, telles que "Seine", "Ain", "Gironde" et "Manche". Le domaine des <b>courses hippiques</b> semble prédominant avec des mots comme "PMU", "Quinté", "PRIX", "entraîneurs" et "calendrier".
+                </p>
+            </div>
+            <div style="overflow: hidden;">
+                <img src="./images/itrameur_fr4.png" style="float: left; margin-left: 10px; margin-right: 50px; width: 50%;" alt="Resultat iTrameur">
+                <p style="margin-top: 50px; margin-left: 100px; margin-right: 50px;"> Nous pouvons observer ce graphe des cooccurrences autour du mot <b>Course</b> mettant en lumière les mots fréquemment associés à celui-ci dans le corpus. On remarque des <b>références temporelles</b>, telles que "2024", "2016", "2017".Le graphe inclut des termes relatifs à des catégories ou sous-catégories, tels que "Équipes", "Articles", "Juniors", et "Subcategories", qui peuvent indiquer une structuration ou une organisation thématique dans le corpus.Des termes liés à <b>la médiatisation </b> sont également présents, comme "public", "Photos", "Ambassadeur", "Actualité", et "Résultat". Enfin, des mentions comme "pied", "visiteurs", "enfants", "détente", et "entraînement" suggèrent des contextes d’activité physique ou d’implication communautaire.
+                </p>
+            </div>
+            <div style="overflow: hidden;">
+                <img src="./images/itrameur_fr5.png" style="float: left; margin-left: 10px; margin-right: 50px; width: 50%;" alt="Resultat iTrameur">
+                <p style="margin-top: 50px; margin-left: 100px; margin-right: 50px;">Ce graphe met en évidence les associations lexicales pour <b>Courses</b>, qui est utilisé dans divers contextes. On remarque une forte présence du <b>domaine sportif</b>, avec des termes liés à la course à pied et aux compétitions comme "Triathlon", "Marathon", "10km", "TROT". Les <b>courses nautiques</b> sont également bien représentées, avec des mots tels que "Bateaux", "Skippers", "VENDEE" et "Globe", suggérant des événements comme le Vendée Globe. Des <b>références géographiques</b> comme "Saint", "Denis", "Goustranville", et "Territoires" soulignent l'importance de lieux spécifiques dans ce contexte.
+                </p>
+            </div>
         </div>
-        <div class="box">
+        <div class="box2">
             <h2 class="title" id="PresentationProjet" style="color: #333; font-size: 30px; letter-spacing: -0.02em; font-variant-caps: small-caps; margin-bottom: 20px;"><b>Chinois</b></h2>
             <p style="margin-left: 10px; margin-right: 20px;">J’ai commencé par charger mon fichier nettoyé (<i>dumps-text-ch_seg.txt</i>) dans le site iTrameur pour effectuer une première analyse lexicale. Après avoir observé le dictionnaire des formes, j’ai remarqué que <b>“课程”</b> (cours) est le mot le plus fréquent avec une occurence de <b>1637 fois</b>. La fréquence élevée confirme son rôle central dans le corpus chinois dans le corpus chinois et son lien avec les sujets éducatifs.            
             </p>
