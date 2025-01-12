@@ -21,3 +21,7 @@ Simeng : URLs chinois (ch_urls.txt)
 11/01 = Simeng => J'ai intégré et présenter des résultats chinois sur le site web et j'ai ajusté les scripts afin de mettre en commun les formats de toutes les sections du site.   
   
 12/01 = Simeng => J'ai amélioré les scripts pour les tableaux et l'analyse et rédigé la partie conclusion.
+12/01 = Keren => j'ai fait la partie Itrameur et redigé la conclusion.
+
+
+** 12/01 == Nous n'avons aucune nouvelle de Mercutio depuis 3 semaines, nous avons donc décidé de supprimer les parties que je lui avais crée sur le site. Malheureusement ce projet ne contient plus que l'ananlyse de deux langues. N'ayant aucune nouvelle, malgrès de nombreuses relance nous avons été obligé de continué l'analyse pour le mot "course" sachant que cette analyse aurait été beaucoup plus pertinanate avec l'analyse en italien. **
