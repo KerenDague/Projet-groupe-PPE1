@@ -1,0 +1,617 @@
+
+     * Événements
+     * Courses
+     * Restauration
+     * Offres
+--
+   (BUTTON)
+
+Calendrier des courses
+
+Prochaines réunions de courses
+
+   Dimanche 12 janvier 2025
+   12 janv. 2025
+   13h00
+   9 courses
+   Quinté+
+   Mardi 14 janvier 2025
+   14 janv. 2025
+   13h35
+   8 courses
+   Quinté+
+   Mercredi 15 janvier 2025
+   15 janv. 2025
+   16h10
+   8 courses
+   Jeudi 16 janvier 2025
+   16 janv. 2025
+   13h35
+   8 courses
+   Quinté+
+   Samedi 18 janvier 2025
+   18 janv. 2025
+   13h00
+   9 courses
+   Quinté+
+   Dimanche 19 janvier 2025
+   19 janv. 2025
+   13h00
+   9 courses
+   Quinté+
+     * PRIX DE CORNULIER
+--
+   20 janv. 2025
+   13h50
+   8 courses
+   Mardi 21 janvier 2025
+   21 janv. 2025
+   16h10
+   8 courses
+
+Temps Forts
+--
+     * Prix d'Amérique - Amérique Races dim. 26 janvier 2025
+
+       Courses qualificatives
+     * Amérique Races QUALIF #1 - Prix de Bretagne dim. 17 novembre 2024
+     * Amérique Races QUALIF #2 - Prix du Bourbonnais dim. 08 décembre
+--
+     * Critérium des 3 ans sam. 13 septembre 2025
+
+Réunions de courses
+
+   Temps forts Autres réunions Calendrier complet 2025
+--
+   Dimanche 12 janvier 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 14 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mercredi 15 janvier 2025
+   16h10
+   8 courses
+   Plus d'infos
+   15
+   Jeudi 16 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 18 janvier 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 19 janvier 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE CORNULIER
+--
+   Lundi 20 janvier 2025
+   13h50
+   8 courses
+   Plus d'infos
+   20
+   Mardi 21 janvier 2025
+   16h10
+   8 courses
+   Plus d'infos
+   21
+--
+   Jeudi 23 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 25 janvier 2025
+   13h00
+   10 courses
+   Quinté+
+   PRIX OURASIPRIX BOLD EAGLE
+--
+   Dimanche 26 janvier 2025
+   11h30
+   10 courses
+   Quinté+
+   PRIX D'AMERIQUE - AMERIQUE RACES
+--
+   Mardi 28 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Jeudi 30 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 31 janvier 2025
+   15h05
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 01 février 2025
+   15h45
+   8 courses
+   Plus d'infos
+   1
+   Dimanche 02 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE L'ILE-DE-FRANCE-CORNULIER RACES
+--
+   Mardi 04 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Jeudi 06 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 07 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 08 février 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 09 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE FRANCE - AMERIQUE RACES
+--
+   Mardi 11 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mercredi 12 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 14 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 16 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX COMTE PIERRE DE MONTESSON
+--
+   Lundi 17 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 18 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Jeudi 20 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 21 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 23 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE PARIS - AMERIQUE RACES
+--
+   Mercredi 26 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 28 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 01 mars 2025
+   13h00
+   10 courses
+   Quinté+
+   PRIX DE SELECTION - PX FACE TIME BOURBONPRIX DES CENTAURESPRIX HENRI
+--
+   Vendredi 21 mars 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 22 mars 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 28 mars 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 01 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   1
+--
+   Vendredi 04 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 05 avril 2025
+   13h35
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 08 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   8
+--
+   Vendredi 11 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 12 avril 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 15 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   15
+--
+   Vendredi 18 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 22 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   22
+--
+   Vendredi 25 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 29 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   29
+--
+   Dimanche 12 janvier 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 14 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mercredi 15 janvier 2025
+   16h10
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Jeudi 16 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 18 janvier 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 19 janvier 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE CORNULIER
+--
+   Lundi 20 janvier 2025
+   13h50
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Mardi 21 janvier 2025
+   16h10
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Jeudi 23 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 25 janvier 2025
+   13h00
+   10 courses
+   Quinté+
+   PRIX OURASIPRIX BOLD EAGLE
+--
+   Dimanche 26 janvier 2025
+   11h30
+   10 courses
+   Quinté+
+   PRIX D'AMERIQUE - AMERIQUE RACES
+--
+   Mardi 28 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Jeudi 30 janvier 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 31 janvier 2025
+   15h05
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 01 février 2025
+   15h45
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Dimanche 02 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE L'ILE-DE-FRANCE-CORNULIER RACES
+--
+   Mardi 04 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Jeudi 06 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 07 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 08 février 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 09 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE FRANCE - AMERIQUE RACES
+--
+   Mardi 11 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mercredi 12 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 14 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 16 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX COMTE PIERRE DE MONTESSON
+--
+   Lundi 17 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 18 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Jeudi 20 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 21 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Dimanche 23 février 2025
+   13h00
+   9 courses
+   Quinté+
+   PRIX DE PARIS - AMERIQUE RACES
+--
+   Mercredi 26 février 2025
+   13h35
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 28 février 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 01 mars 2025
+   13h00
+   10 courses
+   Quinté+
+   PRIX DE SELECTION - PX FACE TIME BOURBONPRIX DES CENTAURESPRIX HENRI
+--
+   Vendredi 21 mars 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 22 mars 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Vendredi 28 mars 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 01 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Vendredi 04 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 05 avril 2025
+   13h35
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 08 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Vendredi 11 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Samedi 12 avril 2025
+   13h00
+   9 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 15 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Vendredi 18 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 22 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   (BUTTON)
+   Vendredi 25 avril 2025
+   15h40
+   8 courses
+   Quinté+
+   Plus d'infos
+--
+   Mardi 29 avril 2025
+   16h10
+   8 courses
+   Plus d'infos
+   Temps forts Autres réunions

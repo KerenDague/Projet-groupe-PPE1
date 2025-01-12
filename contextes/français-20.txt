@@ -1,0 +1,42 @@
+   Le 4 Février 2022
+
+Ansys propulse le premier vol de l'avion de course électrique Air Race E
+grâce à la simulation numérique
+
+--
+
+
+   Ansys propulse le premier vol de l'avion de course électrique Air Race
+   E grâce à la simulation numérique
+   (Cliquez sur l'image pour l'agrandir)
+
+   La Nordic Air Racing Team, membre officielle de l’Air Race E (coupe du
+   monde de Formule E de course aérienne), vient de réussir le premier vol
+   mondial d'un avion de course entièrement électrique - conçu et
+   développé à l'aide des solutions de simulation d'Ansys (NASDAQ : ANSS).
+   En tant que partenaire officiel de l'Air Race E pour les logiciels de
+   simulation, Ansys permet aux équipes de relever des principaux défis
+   techniques liés au vol d’un avion de course 100 % électrique.
+
+   L'Air Race E, qui est le premier et unique championnat mondial de
+   courses d'avions électriques, constitue un levier clé dans
+   l’accélération du développement des propulsions hybrides et électriques
+   pour les applications aérospatiales. À l’heure où les entreprises du
+--
+   ainsi qu’une étroite collaboration avec les experts techniques d’Ansys,
+   l’équipe Nordic Air Racing est parvenue à réduire de 40 % le délai
+   global du projet« Ce premier vol d'un avion de course électrique Air
+   Race E piloté est un moment historique pour l’industrie aéronautique et
+   une étape majeure dans l’électrification des aéronefs », déclare Jeff
+--
+
+   Les ingénieurs de l’équipe Nordic Air Racing ont utilisé les solutions
+   de simulation multiphysique d'Ansys pour transformer un avion de course
+   thermique en remplaçant le moteur à piston par un groupe motopropulseur
+   électrique. La simulation a également été utilisée pour concevoir le
+--
+   La Nordic Air Racing Team fait partie des dix-sept équipes officielles
+   actuellement en lice pour participer à l'Air Race E en 2023. Les
+   courses pourront impliquer jusqu'à huit petits avions à hélices,
+   décollant simultanément et volant à plus de 9 000 m à des vitesses
+   supérieures à 400 km/h.

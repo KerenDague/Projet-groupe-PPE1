@@ -1,0 +1,166 @@
+   lien "contrat du pilote" sur la page principale de GPRO.
+
+Q.: J'ai renouvelé le contrat de mon pilote mais le nombre de courses
+restantes n'a pas changé, pourquoi ?
+
+   R.: Votre pilote terminera son contrat existant avec vous puis
+   démarrera le nouveau avec vous, le nombre de courses restantes ne
+   changera qu'à ce moment. Ne vous inquiétez pas, s'il a accepté votre
+   prolongation vous ne pourrez pas le perdre, à moins d'être relégué au
+   niveau inférieur et que le niveau global du pilote ne soit supérieur à
+   celui permis par le niveau où vous êtes relégué. La prolongation de
+   contrat apparaîtra sur la page principale comme ceci : courses
+   restantes : 8(+17). Cependant, cela n'apparaîtra sur aucune autre page
+   excepté la page de contrat du pilote.
+--
+
+   R.: Vous ne pouvez pas, si vous planifiez à l'avance, il est possible
+   de renouveler le contrat du pilote pour 17 autres courses dès que vous
+   le signez, alors vous pourrez le garder pour au moins 34 courses.
+
+Q.: Où est-ce que mon pilote est parti ?
+--
+   considérer que si vous changez des pièces après les essais libres /
+   qualifications, cela est susceptible d'affecter les réglages que vous
+   avez pour la course.
+
+Q.: Pourquoi ne puis-je pas mettre à niveau ma voiture?
+--
+   pièces.
+   • Vous avez déjà mis à jour votre voiture, ce qui ne peut être effectué
+   qu'une fois par course.
+   • Vous avez manqué la limite pour la prochaine course, qui est de 1
+   heure et demi avant le départ.
+
+--
+   R.: Pas de panique ! Vous avez besoin de ralentir et d'apprendre à
+   maîtriser l'usure de vos pièces de voiture, essayez de regarder les
+   risques pris par le pilote. Essayez de finir les courses pour vous
+   permettre de gagner plus d'argent pour mettre à jour la voiture. Vous
+   pouvez toujours aussi déclasser les pièces. Pensez soigneusement à ce
+--
+
+   R.: Les pneus que vous choisissez d'utiliser en qualifications sont les
+   pneus que vous allez utiliser dans la course. Vous devez sélectionner
+   les pneus qui vous donneront la meilleure stratégie : ils s'usent
+   pendant la course. Quand ils sont usés, ils vous ralentiront.
+   Sélectionnez vos pneus à bon escient.
+
+--
+   R.: Non, si vous sélectionnez pneus pluie, il vous sera également
+   demandé de sélectionner un composé pneus pour piste sèche pour la
+   course, au cas où il y ait des périodes sèches.
+
+Q.: Combien de temps les pneus vont durer ?
+--
+
+   R.: Le carburant que vous entrez pour la Qualif. 2 est la charge de
+   carburant lors du départ de la course pour le premier relais, selon la
+   stratégie que vous avez choisie. C'est un domaine du jeu que vous avez
+   besoin d'expérimenter, vous ne serez jamais retiré de la course par
+   manque de carburant, le pilote rentrera toujours aux stands si le
+   carburant est trop bas pour effectuer un nouveau tour. Ainsi, mettez
+   beaucoup de carburant et regardez par la suite ce que vous avez
+   réellement consommé, sur l'écran « Analyse de la course ». Vous aurez
+   par la suite une meilleure idée de la quantité de carburant nécessaire.
+   De manière générale, il est peu probable qu'une course standard d'une
+   longueur d'environ 300 km nécessite plus de 280 litres de carburant.
+
+Réglages pour la course et stratégie
+
+Q.: Je ne peux pas apporter de modifications à mes réglages, mais la course
+n'est pas dans une heure. Pourquoi ?
+
+   R.: La page des réglages de course est toujours verrouillée 1 heure et
+   30 minutes avant le début de la course, de sorte que le script du jeu
+   puisse effectuer quelques calculs pour la course.
+
+Détails du circuit
+--
+Q.: Sur les prévisions météo qu'est-ce que le 0h-0h30m représente ?
+
+   R.: Ces périodes sont basées sur le temps d'un tour de course, pas le
+   temps d'un tour en course en direct. Par exemple, avec un temps moyen
+   au tour de 1:30.000, le pilote couvrira 20 tours en cette période de 30
+   minutes.
+
+Course en direct
+
+Q.: Quand est ce que je peux regarder la course ?
+
+   R.: La course peut être vue en direct le mardi et le vendredi de 20:00
+   HCE. 15 minutes avant que commence la course, un bouton vous menant à
+   l'écran de course en Direct apparaîtra sur la page principale du bureau
+   dans le coin en haut à droite (au lieu du compteur avant la prochaine
+   course).
+
+Q.: Dans l'écran de course Direct/Replay il y a un numéro à côté de la barre
+jaune - carburant restant - qui indique quelque chose comme ~22%. Qu'est ce
+que cela représente?
+--
+   conséquent, votre carburant restant se situerait entre 21% et 24%.
+
+Q.: Quand je regarde la course en direct, la page ne se met pas
+automatiquement à jour. Est ce un bug ?
+
+--
+   ne supporte pas le JavaScript/AJAX ou si vous l'avez désactivé.
+
+Analyse de la course
+
+Q.: Dans l'Analyse de course, il est dit carburant restant à la fin du relais
+= 20%, 20% de quoi exactement?
+
+--
+   1,8 et 1,8x20 = 36 Litres.
+
+Q.: Dans ma course je me suis arrêté au bout de 4 tours, j'avais plus de
+carburant dans le réservoir que ce que j'avais demandé à l'équipe de
+ravitaillement d'ajouter, comment l'équipe peut elle retirer du carburant de
+--
+   Puissance, Maniabilité ou Accélération, d'autres travaillent sur toutes
+   les caractéristiques. Les tours d'essais privés que vous effectuez
+   génèrent des points de tests. Après la course, ces derniers sont
+   convertis à l'étape suivante (R&D), puis après en points d'ingénierie
+   et, enfin, en points de caractéristiques de la voiture qui sont ajoutés
+--
+   technique dans GPRO. Cela permet un marché plus concurrentiel.
+
+Q.: Mon directeur technique a disparu alors qu'il lui restait des courses
+sous contrat, pourquoi ?
+
+--
+Q.: Si je descend en dessous de -15.000.000$, est-ce que mon directeur
+technique part immédiatement ou est ce qu'il attend de voir si je suis
+toujours en dessous de -15.000.000$ après la course?
+
+   R.: Il partira avant la course.
+
+Classements des managers
+--
+
+   R.: La promotion ou relégation est calculée après que la prime pour le
+   Top 10 soit payée après la dernière course de la saison et AVANT que
+   l'argent obtenu par les points marqués, par l'équipe et par le bonus de
+   participation à toutes les courses de la saison soit versé. Il est
+   préférable de prévoir la promotion et de s'assurer que vous avez un peu
+   d'argent pour encore améliorer votre voiture, il ne serait pas une
+--
+
+   R.: Voici la liste de ce qui arrive :
+   • Après la dernière course les 10 premiers de chaque championnat
+   touchent une prime en rapport à leurs places et à leurs niveaux
+   • Script de Promotion/Relégation
+--
+   • Argent pour les points d'équipe
+   • Les comptes de tous les managers en Rookie sont remis à zéro
+   • Bonus pour avoir pris part à toutes les courses
+
+Q.: Quand le calendrier de la nouvelle saison est-il annoncé ?
+
+   R.: Habituellement, la liste des pistes avec les dates de course
+   provisoires est publié 3-4 courses avant la fin de la saison en cours.
+   La date prévue pour le reset de fin de saison est publiée après la
+   dernière course de la saison.
+
+Profil

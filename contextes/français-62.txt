@@ -1,0 +1,57 @@
+   III/ Comment augmenter son taux de synchronisation?
+   IV/ Les Bonus de Cavalerie
+   V/ Les courses
+   I/ Qu'est ce qu'un cheval ?
+   Le cheval, ou equus caballus, est le plus noble des équidés. Animal à
+--
+   La vitesse : Elle détermine l'allure du cheval.
+   La résistance: Détermine combien de temps l'équidé peut tenir une
+   course sans épuiser ses réserves.
+   Lendurance: Comme pour les Pjs, elle détermine la défense du cheval.
+   Elle peut être augmentée par des armures spéciales.
+--
+   Dès que le joueur atteint la classe tertiaire, il gagne +1/+1 par
+   rapport à son bonus/malus de sa classe secondaire.
+   V/ Les courses :
+   Les Kendran adorent les courses de chevaux. Ils en organisent souvent.
+   Il y en a 3 différentes:
+   - la classique
+   - la course de chars
+   - la course d'obstacles
+   La classique
+   La course se passe sur lhippodrome de Kendra-Kâr qui se trouve dans la
+   ville, cest un stade oval avec une piste de 450 m par tour. Chaque
+   course doit faire 5 tours de piste. Il y a 6 chevaux par course, le
+   départ est arrêté et donné par un son de trompette de ce quon appelle
+   le poste du juge, qui domine le stade, contrôlant toute la course. La
+   probabilité de blessure dun cheval est de 1/12.
+   Comment est déterminé le classement en fin de course?
+   Simplifions cela au maximum. Le résultat est celui qui a le plus de
+   points en additionant:vitesse + résistance + synchronisation
+--
+   parcourir et le char est standard pour tout le monde. La probabilite de
+   blessure dun cheval est de 1/8.
+   Comment est déterminé le classement en fin de course?
+   Quelque peu plus complexe:
+   Il faut additionner: vitesse + resistance + synchronisation pour chacun
+--
+   Cette fois-ci, la piste se transforme. Plusieurs obstacles bloquent la
+   progression des chevaux et ils doivent les sauter pour continuer la
+   course. Toujours 5 tours à parcourir.
+   La probabilite de blessure dun cheval est de 1/5 du fait de la
+   difficulté de lépreuve.
+   Comment est déterminé le classement en fin de course?
+   Cette fois-ci, pas trop compliqué:
+   Vitesse + résistance + synchronisation + tir de 1 (chance) + tir de 2
+   (difficulté du parcours)
+   Les paris
+   Mais au fait, pourquoi les courses?? Ben pour parier, bien entendu.
+   Et comment parier?? Très simple! Le Pj demande un ticket et mise (il
+   doit donner un chiffre qui sera le prix fixe) sur 2 chevaux (sachant
+--
+
+   Mais plus fou que ça: si vous êtes propriétaire dun cheval, vous pouvez
+   lengager dans une course. Ceci est payant (40 yus/course). Cependant,
+   si vous gagnez la course, vous empocherez 900 yus!!! )
+   Haut
+

@@ -1,0 +1,77 @@
+     * Les dossiers
+          + Le guide Garmin
+          + Puissance en course à pied
+     * Les bons plans et promos
+     * Les guides pour choisir sa montre
+--
+
+   Dans les deux premiers épisodes de cette série sur la puissance en
+   course à pied, nous avons vu les solutions qui existent sur le marché,
+   puis l’intérêt mais aussi les limites de la mesure de puissance dans
+   cette discipline. Après ces deux premiers épisodes, il est temps de
+--
+   notion de VMA n’est étrangère à aucun coureur à pied.
+
+   Pour utiliser la puissance efficacement en course à pied, il convient
+   également d’avoir une valeur de référence. Cette valeur est nommée
+   rFTPw. Pour les habitués de la puissance à vélo, elle est équivalente
+   au fameux FTP. D’ailleurs, certains ouvrages ou articles utilisent
+   simplement FTP comme désignation pour cette valeur en course à pied. Il
+   reste préférable d’utiliser rFTPw (avec le premier « r » pour running
+   et le Pw pour power, afin d’éviter la confusion avec « pace » en
+   anglais) qui semble finalement adopté par la majorité des acteurs du
+   milieu de la course à pied.
+
+   Tout comme le FTP en cyclisme, rFTPw correspond à la puissance moyenne
+   maximale qu’un athlète peut développer en course à pied durant un
+   effort d’une heure. C’est ensuite en ciblant des intensités basées sur
+   un pourcentage de cette valeur qu’il sera possible de planifier des
+--
+Déterminer rFTPw
+
+   Puisque cette valeur correspond à une heure de course à intensité
+   maximale, on pourrait penser que le meilleur moyen de l’estimer serait
+   de partir s’échauffer puis de partir courir une heure à fond et de
+--
+       cette période.
+     * Durant la phase suivante, on récupère de la manière suivante: 5
+       minutes de marche, puis 10 minutes de course à intensité faible,
+       puis 5 minutes de marche, puis 5 minute de course à intensité
+       faible, puis 5 minutes de marche. Cette période intermédiaire dure
+       au total 30 minutes.
+--
+   planifier et de suivre un programme d’entrainement spécifique, aspect
+   qui sera abordé dans cette série sur l’utilisation de la puissance en
+   course pied dans de futurs articles.
+
+   Notez enfin que la plupart des applications qui permettent un suivi de
+--
+   rFTPw.
+
+   Retrouvez tous les articles traitant de la puissance en course à pied
+   sur cette page!
+     * Facebook
+--
+Navigation de l’article
+
+   Previous Post:Pourquoi utiliser un capteur de puissance en course à
+   pied?
+   Next Post:La montre multisport Coros Apex testée de fond en comble
+--
+            20 décembre 2018 à 21 h 18 min
+            Superbe article, bravo !
+            Steve Palladino (une grande référence sur le sujet en course à
+            pied avec la puissance !) propose pour les coureurs à pied
+            qu’il suit le même protocole à un détail près, le second test
+--
+       Bonjour Greg,
+       Comme tu l’indiques chaque constructeur à son propre algorithme de
+       puissance en course à pied, je me demandais si tu pouvais faire un
+       « comparatif » sur un sujet témoin et volontaire des différences de
+       valeur obtenue suivant les capteurs et constructeur.
+       Je me doute que c’est une travaille conséquent.
+       Je commence à m’intéresser à la puissance à la course à pied suite
+       à la lecture de tes articles, mais si j’ai bien compris que chaque
+       coureur à sa propre puissance de course à pied, il serait bon de
+       savoir si les résultats obtenu sont cohérents.
+       Pour ma part, j’utilise le capteur cardiaque Garmin HRM-Run et

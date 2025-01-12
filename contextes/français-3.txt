@@ -1,0 +1,515 @@
+     * Début
+     * 1 Histoire
+     * 2 La course à pied au sens de l'athlétisme
+       (BUTTON) Afficher / masquer la sous-section La course à pied au
+       sens de l'athlétisme
+          + 2.1 Différentes catégories de courses à pied
+               o 2.1.1 Courses de sprint
+               o 2.1.2 Courses de demi-fond
+               o 2.1.3 Courses de fond
+               o 2.1.4 Courses d'ultrafond
+               o 2.1.5 Techniques de fond, demi fond et ultra fond
+          + 2.2 Compétition et technique
+--
+               o 2.2.4 Vitesse, chronométrage et test
+               o 2.2.5 Distance, genre et catégories
+          + 2.3 Médecine, biomécanique et effets de la course à pied
+               o 2.3.1 Le cycle de course
+               o 2.3.2 La respiration du coureur
+               o 2.3.3 Effets positifs et négatifs
+--
+               o 2.4.4 Vitesse verticale et vitesse horizontale
+               o 2.4.5 Dénivelé
+               o 2.4.6 Modélisation de la course
+               o 2.4.7 Fiabilité des données des sources
+     * 3 La course à pied au sens du mode de déplacement
+     * 4 Usage en milieu militaire
+     * 5 La course (mythe et fiction)
+     * 6 Notes et références
+     * 7 Voir aussi
+--
+   [ ] Basculer la table des matières
+
+Course à pied
+
+   [ ] 77 langues
+--
+   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   sources ?
+   [220px-Ossiloopstart.JPG] Course à Leer en Allemagne.
+
+   La course à pied est, avec la marche, l'un des deux modes de locomotion
+   bipèdes de l'être humain. Caractérisée par une phase de suspension
+   durant laquelle aucun des deux pieds ne touche le sol, elle permet un
+--
+   [modifier | modifier le code]
+
+   La course aurait pour origine la capacité acquise depuis au moins
+   quatre millions et demi d'années par les Australopithèques à marcher
+   debout sur leurs deux jambes dans les arbres, Australopithèques issus
+--
+   d'années^[1]. Cette bipédie a été utilisée occasionnellement pour se
+   déplacer dans les arbres mais de manière permanente pour la marche et
+   la course.
+
+   Contrairement à la marche, et au trot et galop des quadrupèdes, elle
+   présente une efficacité énergétique peu dépendante de la vitesse
+   (environ 200 mL d'oxygène par kilogramme et par kilomètre), ce qui
+   permet un grand éventail de vitesses de locomotion. La course fait de
+   l'être humain un piètre sprinter en comparaison des mammifères
+   quadrupèdes mais lui confère une grande endurance, absente chez les
+   autres primates et rare chez les mammifères^[2]. Ces capacités seraient
+   liées à une évolution anatomique apparue dans le genre Homo, la
+   question de savoir si l'apparition de l'endurance à la course est un
+   trait de l'évolution ou un effet collatéral de celle-ci reste
+   ouverte^[3].
+
+   La théorie proposée considère que le genre Homo s'est spécialisé dans
+   la course de fond et que la course en est issue : le passage de la
+   quadrupédie à la bipédie ayant fait perdre la possibilité de courir sur
+   une faible distance à la vitesse la plus rapide possible, le genre Homo
+   a développé la course d'endurance, il y a environ deux millions
+   d'années, pour pratiquer le charognage puis la chasse à l'épuisement.
+   La chasse à l'épuisement est très coûteuse en énergie, le charognage
+--
+   genou, disques vertébraux, long pied avec une grande voûte plantaire
+   mais des orteils plus courts pour résister aux forces de tension
+   générées par la course), etc^[3].
+
+   Les compétitions de course à pied sont nées lors des fêtes religieuses
+   antiques de diverses régions telles que la Grèce, l'Égypte, l'Asie et
+   dans la vallée du Rift en Afrique. Les Tailteann Games, festival
+   sportif d'Irlande fondé d'après la légende au XIX^e siècle av. J.-C.,
+   sont l'un des premiers témoignages de course de compétition^[4].
+
+   La sédentarité de l'homme et l'établissement des civilisations antiques
+   a fait de la course à pied un entraînement d'abord militaire, pour
+   préparer les armées au combat. La Grèce antique a lié l'épreuve de la
+   course à pied aux cérémonies religieuses dans le cadre des premiers
+   jeux olympiques^[5]. Les athlètes se mesuraient en temps de paix pour
+   démontrer leurs performances physiques aux dieux. Notre époque moderne
+   consacrée à la performance physique et au loisir a codifié certaines
+   courses dans les disciplines d'athlétisme. La course à pied est devenue
+   pour nombre de personnes un loisir ne suivant pas nécessairement les
+   épreuves standards mais permettant un entretien de la santé ou un
+   challenge personnel. L'avènement des techniques embarquées, comme les
+   smartphones, permet récemment l'apparition de nouveaux athlètes
+   spécialisés dans des courses non conventionnelles et suivant des
+   entraînements de haut niveau. Ces athlètes visent des courses
+   d'ultrafond, des trails sur des distances de plusieurs dizaines de
+   kilomètres, voire au-delà de 100 kilomètres. De ces défis personnels,
+   sont apparues de nombreuses courses sur route ou sur chemin, organisées
+   par des associations ou des communes, s'adressant également à des
+   coureurs suivant un entraînement plus léger. Cela conduit au
+   XXI^e siècle à une démocratisation de la course à pied^[6].
+
+La course à pied au sens de l'athlétisme
+
+   [modifier | modifier le code]
+   [228px-%D0%91%D0%95%D0%93.jpg]
+
+                               Course à pied
+
+   La course à pied est un sport consistant à courir sur des distances
+   plus ou moins longues. Les compétitions peuvent se pratiquer sur une
+   piste d'athlétisme, sur route ou sur divers terrains naturels. En
+--
+   Selon les distances parcourues et la vitesse, le type d'effort fourni
+   est différent, il y a :
+     * les courses en aérobie, l'oxygène (par l'ATP) nécessaire aux
+       muscles est fourni majoritairement par la respiration cellulaire
+       (par exemple une course lente sur 10 km) ;
+     * les courses en anaérobie, l'oxygène (par l'ATP) nécessaire aux
+       muscles n'arrive pas en quantité suffisante, la VO[2]max (débit
+       maximum d'oxygène qu'un individu peut inspirer) est donc atteinte.
+--
+       fermentation, mais qui empêche à un moment donné de continuer
+       l'activité anaérobie, le taux de calcium dans les muscles devenant
+       trop élevé (par exemple une course rapide sur 200 m).
+
+   Les athlètes de course à pied évaluent régulièrement leur consommation
+   maximale d'oxygène (VO2max) et leur vitesse maximale aérobie (VMA), qui
+   sont deux indicateurs de performance leur permettant d'ajuster leur
+--
+   vVO2max^[8].
+
+   Les courses sur piste vont du 50 m au 10 000 m, les courses de
+   cross-country, de 4 à 12 km. Les courses sur route peuvent être de
+   n'importe quelle distance, mais les distances courantes sont le 5 km,
+   le 10 km, le semi-marathon (21,097 km) et le marathon (42,195 km).
+   L'épreuve de 100 km est une épreuve de course à pied appartenant à la
+   famille du grand-fond. Le plus mythique des 100 km français, discipline
+   assez confidentielle (moins de 2 000 coureurs), est celui de Millau.
+
+   Les compétitions de course à pied, sur piste ou sur route, sont
+   soumises, pour la France, aux règles de la Fédération française
+   d'athlétisme (FFA) et à l'international par l'Association
+--
+   au handisport. D'autres fédérations sont concernées par les épreuves
+   multi-disciplines, comme le triathlon, le pentathlon moderne, le raid
+   nature et la course d'orientation (course et lecture de carte).
+
+Différentes catégories de courses à pied
+
+   [modifier | modifier le code]
+
+Courses de sprint
+
+   [modifier | modifier le code]
+   Article détaillé : Sprint (athlétisme).
+
+   Le sprint regroupe les courses à pied au cours desquelles le sprinteur
+   doit courir sur une faible distance à la vitesse la plus rapide
+   possible. Le sprinter, outre des aptitudes physiques particulières,
+--
+       sortes de postures ;
+     * dans les premières foulées, la stabilisation de sa vitesse ;
+     * tout au long de la course, à produire de la vitesse
+       (verticalité-horizontalité), à basculer et à créer de la vitesse
+       (économie).
+
+   Toutes ces phases sont travaillées dans le but d'obtenir la course
+   parfaite. Le travail peut aussi se réaliser en binôme pour obtenir la
+   meilleure position et toujours viser le meilleur gain de temps global.
+
+Courses de demi-fond
+
+   [modifier | modifier le code]
+   Article détaillé : demi-fond.
+
+   Le demi-fond regroupe l'ensemble des courses d'athlétisme comprises
+   entre le sprint et le fond (de 800 m à 3 000 m) et qui se déroulent
+   dans une enceinte sportive ou extérieure. Seuls le 800 m, le 1 500 m,
+--
+   réactivité durant l'épreuve où ses muscles sont sollicités tout au long
+   du parcours, d'une maîtrise de sa respiration et enfin ait mis en place
+   une tactique de course.
+
+Courses de fond
+
+   [modifier | modifier le code]
+   Articles détaillés : Course de fond, Semi-marathon, Marathon (sport) et
+   Course nature.
+
+   La course de fond est une activité d'endurance qui requiert un bon
+   équilibre énergétique et une forte volonté mentale. Les courses de fond
+   s'effectuent sur des distances supérieures à 3 000 m comme le 5 km, le
+   10 km, le cross-country, le semi-marathon et le marathon. Le
+   cross-country a lieu en campagne. En raison de la diversité des
+   conditions et des lieux, il n'y a pas de record mondial dans cette
+   discipline. Les courses de cross-country dépassent rarement 15 km.
+
+Courses d'ultrafond
+
+   [modifier | modifier le code]
+   Article détaillé : Ultrafond.
+
+   Pour toutes les courses supérieures au marathon, l'appellation est le
+   grand fond et même l'ultrafond. Les courses de fond peuvent se
+   dérouler, non sur une distance imposée, mais sur un temps imposé. Il
+   s'agit alors d'une épreuve de durée, comme les courses de 24 heures ou
+   de 6 jours. Concernant les épreuves de distance, les plus populaires
+   sont les courses de 100 km, avec plus de 300 manifestations à travers
+   le monde chaque année (416 en 2016^[9]).
+
+--
+
+   Le coureur de fond vise à potentialiser l'énergie qu'il dégage pour
+   chaque foulée. La course doit être la plus efficace possible. Les
+   efforts de la course sont orientés sur la foulée et l'économie maximale
+   d'énergie. Une foulée pas assez efficace ou une position trop en avant
+   ou en arrière, ou encore par des gestes inutiles des bras, sont autant
+--
+       15 minutes pour ne pas se déshydrater.
+     * Le coureur se présente au départ muni de son dossard. Ce dernier
+       est fixé par des épingles de sûreté, sur le dos pour les courses
+       jusqu'au 400 m, sur la poitrine pour les courses supérieures au
+       400 m, ceci pour favoriser la lecture des juges. En effet, les
+       coureurs de sprint une fois passés la ligne d'arrivée se présentent
+       de dos aux juges (course en couloirs). Par contre, les coureurs de
+       fond et de demi-fond sur piste passent la ligne d'arrivée plusieurs
+       fois de face et sont ainsi vus de loin par les juges chargés du
+       classement (course en peloton).
+     * Après la compétition, il est recommandé de se réhydrater.
+
+--
+
+   [modifier | modifier le code]
+     * La course exige très peu d'équipement : un short (préférer des
+       équipements assez près du corps afin d'éviter tout risque
+       d'irritation dû à la transpiration), un tee-shirt, et une paire de
+       chaussures de sport, et pour la course sur piste des chaussures à
+       pointes de longueur variable selon les terrains, sans oublier les
+       chaussettes qui sont également très importantes au niveau de
+--
+       les bas de contention afin de faciliter la récupération). L'époque
+       des coureurs en pantalon, un mouchoir sur la tête (voir Michel
+       Théato en 1900) est révolue. Ce sont les chaussures de course sur
+       route qui ont fortement progressé techniquement depuis les années
+       1970 (boom du jogging). Les chaussures sont devenues spécifiques du
+--
+       l’utilisation (compétition donc plus légères mais fragiles,
+       tous-terrains donc crantées et plus lourdes, montantes pour la
+       course d’orientation). Récemment, les chaussures minimalistes ont
+       fait leur apparition. Ces chaussures à semelle moins épaisse
+       permettent au coureur de mieux sentir le sol et ainsi, d'optimiser
+--
+     * Le tapis roulant est une pratique d’intérieur, même si
+       l’oxygénation est souvent insuffisante dans les salles.
+     * La chaussure de course à pied est utilisée pour protéger le pied.
+       Selon la qualité, elle est étudiée pour prévenir les blessures en
+       diminuant les chocs sur le squelette du coureur. Certains coureurs
+--
+       capacités physiologiques acquises à l'entraînement (efficacité
+       neuro-musculaire) et de la motivation (dépassement de soi,
+       reconnaissance, encouragement des supporters). La course étant
+       principalement un déplacement en translation, le geste actif est
+       recherché le plus possible dans l'axe du déplacement. Les flexions,
+--
+            voire un électrocardiogramme est utile pour le dépistage de
+            malformations.
+          + Pour les candidats à des concours, la course est souvent
+            utilisée pour tester l'aptitude physique générale : voir test
+            de Cooper.
+--
+       été supprimé. Le 25 km a disparu dans les années 1990, lui, au
+       profit du semi-marathon, et le 10 km s'est développé. Il y a un âge
+       plancher pour participer aux courses sur route. Les enfants de
+       moins de 14 ans ne doivent pas participer à celles de plus de 5 km
+       pour des raisons de croissance osseuse.
+--
+       par les distances proches en mètres ou kilomètres, maintenant la
+       norme internationale.
+     * La course sur route est une des rares disciplines sportives qui
+       pratiquent la mixité des genres (féminin et masculin). Le
+       classement s'établit en trois catégories: le scratch (classement
+--
+       féminins que pour les masculins.
+
+Médecine, biomécanique et effets de la course à pied
+
+   [modifier | modifier le code]
+
+Le cycle de course
+
+   [modifier | modifier le code]
+   [330px-Run_cycle.jpg] Le cycle de course comporte une phase d'appui
+   (décomposée en trois moments : l'amortissement^[14], le soutien ou
+   demi-appui, et la poussée appelée aussi propulsion) et une phase de
+   suspension (ou phase aérienne).
+
+   La course à allure régulière peut être caractérisée par un cycle de
+   jambes qui se répète à l'identique. Ce cycle de course fait ainsi
+   référence à l'intervalle de temps et de distance entre deux positions
+   identiques des membres inférieurs. Il est « caractérisé par sa longueur
+--
+   la filière anaérobie lactique dure au maximum trois minutes, le coureur
+   doit caler sa respiration adéquate (inspiration, expiration) dès le
+   début de la course. Les plus grandes capacités pulmonaires sont de
+   7 litres, mais le rendement en course dépend plus encore de la VO2Max.
+
+Effets positifs et négatifs
+
+   [modifier | modifier le code]
+   [250px-World_athletics_final_Stuttgart_2007_1500m.jpg] Course de
+   1 500 m sur piste en 2007
+     * À dose raisonnable, la course à pied est bénéfique au plan
+       physiologique et psychique. Une pratique régulière améliore la
+       condition physique, l'état cardiovasculaire, la vitalité, dynamise
+--
+       scientifiques prouvent que l'affirmation « courir est bon pour la
+       santé » est réelle^[18].
+     * Effort légèrement souffrant, la course à pied provoque la
+       libération dans le cerveau d'un cocktail moléculaire (endorphines,
+       endocannabinoïdes…) qui ont un effet anti-douleur et provoquent une
+       sensation d'euphorie. Le premier effet d’une bonne séance de course
+       à pied, c’est une sensation agréable de bien-être. Celle-ci
+       survient pendant l’activité et se prolonge même après la séance.
+--
+       endorphines^[19], on peut donc continuer à courir et à fournir un
+       effort tout en ressentant du plaisir, voire de l’euphorie. Lors de
+       la course, le corps sécrète des endorphines au bout de quelques
+       minutes seulement.
+     * La pratique régulière de la course à pied n'engendre que peu de
+       croissance musculaire en soi. Les muscles fessiers sont plus
+       sollicités que lors d'une simple marche ainsi que le chef médial du
+--
+       c'est l'amélioration de la performance cardiovasculaire. Le rythme
+       cardiaque s'habitue à être plus sollicité. Le principal bénéfice
+       sportif de la course à pied est en enfilade : il améliore les
+       performances cardiaques de moyenne et de longue durée (l'endurance)
+       permettant ainsi de pouvoir exercer d'autres types de sports, et
+--
+       femmes, outre ces phénomènes, une trop grande pratique augmente le
+       risque d'aménorrhée et d'anorexie. ^[réf. souhaitée]
+     * Sur le plan psychique, dans la plupart des cas la course de fond
+       fait appel à une autosuggestion, mais la grande répétition de ce
+       geste pendulaire débouche dans des cas extrêmes vers une anesthésie
+--
+       plaçaient généralement dans un état particulier : l'association ou
+       la dissociation. En dissociation, un athlète laisse son esprit
+       vagabonder et la course a tendance à passer très vite. Courir avec
+       un baladeur est un bon exemple de dissociation. L'association,
+       elle, privilégie la tâche à accomplir. L'athlète est « présent »
+       mentalement et se concentre sur ses performances, comme lors d'un
+       sprint. ».
+     * Il a autrefois été admis que la course à pied augmentait l’arthrose
+       du genou. L’impact au sol, important et répété, créerait des
+       lésions sur le cartilage qui deviendrait à la longue irréversibles.
+--
+   c’est-à-dire à la conservation de l’énergie cinétique, qui est
+   légèrement diminuée à chaque posé de pied. La puissance maximale
+   mesurée (en course cycliste) semble être vers 430-450 W^[23].
+
+Longueur de foulée et hauteur d’élévation
+--
+   coureur cycliste dont la vitesse peut augmenter considérablement).
+
+   Pour une longueur de course de 1 km avec un dénivelé positif de 100 m
+   soit 10%, l'énergie potentielle à fournir par un coureur de 70 kg est
+   de 68 670 J. À 4 km/h, soit 900 s pour parcourir la distance de 1 km,
+--
+   calculée pour la foulée sur terrain horizontal.
+
+Modélisation de la course
+
+   [modifier | modifier le code]
+--
+   [modifier | modifier le code]
+
+   Les données, concernant la course à pied, sont à prendre avec
+   précaution, en tenant bien compte des conditions expérimentales et des
+   hypothèses des articles. Les calculs et les mesures pour la course à
+   pied sont beaucoup plus difficiles que pour la course cycliste où la
+   puissance peut être mesurée directement sur le pédalier, qui est le
+   seul transmetteur de puissance. Antoine Vayer et Frédéric Portereau ont
+--
+   cyclistes^[31].
+
+La course à pied au sens du mode de déplacement
+
+   [modifier | modifier le code]
+   Article détaillé : Marche à pied.
+     * La course à pied est globalement une forme accélérée de la marche.
+       Le terme marche à pied est un pléonasme même s'il est largement
+       répandu et accepté, alors que le terme course à pied différencie la
+       course humaine de toutes les autres formes :
+          + Courses en véhicule : courses cyclistes, courses automobiles,
+            etc.
+          + Jeux de course : la course pour les enfants est d'abord un jeu
+            (jeu du loup). Les adultes continuent de jouer à la course :
+            voir les courses de garçon de café, course déguisée qui tient
+            plus du défilé ludique et artistique, ou des marathons en
+            marche arrière. Souvent de vrais talents sportifs sont
+            nécessaires pour les réaliser (voir marathon de Londres, Médoc
+            ou Joggling).
+     * Mécaniquement, la course est le mode de locomotion naturel de
+       l'être humain après la marche. Ce déplacement consiste en appuis
+       alternatifs sur les jambes, en position debout et en ayant au plus
+--
+   [220px-thumbnail.jpg] Soldat à l'entraînement.
+
+   La course à pied est, avec la marche, un des exercices de base
+   pratiqués par les militaires dans la plupart des armées du monde,
+   depuis de longues années. Elle permet d'augmenter la capacité offensive
+   par une attaque rapide dans un environnement tactique, générant un
+   effet de surprise, mais également d'accroître la capacité de repli. La
+   course à pied est donc un exercice fondamental pour la survie du
+   soldat. Praticable sur pratiquement n'importe quel terrain, cet
+   exercice a également une vocation à développer la musculation et
+   l'endurance, de la même manière que le font les pompes.
+
+La course (mythe et fiction)
+
+   [modifier | modifier le code]
+--
+     * Au même titre que la marche par son mode répétitif peut avoir une
+       dimension psychologique en créant un état de conscience
+       particulier, la course a aussi ses adeptes (voir le peuple des
+       tarahumaras).
+     * Des hommes se sont mis à courir pour une cause en recueillant de
+--
+       aux trousses, Marathon man, Le Fugitif, 58 minutes pour vivre, ou
+       Forrest Gump. La notion de poursuite au cinéma s'est ensuite
+       étendue aux scènes de course-poursuite avec des moyens de
+       locomotion les plus variés. Le film La Cité de la peur contient
+       même une parodie de course-poursuite à pied puisque le bruitage des
+       chaussures est remplacé par des bruits de pneus et un joggeur
+       "dérouté" explose comme une voiture.
+--
+       Jeux Olympiques de l’Antiquité », sur Comité international
+       olympique, 20 décembre 2018 (consulté le 11 octobre 2019).
+    6. ↑ « Aude : la course à pied, un loisir en pleine croissance », sur
+       lindependant.fr (consulté le 11 octobre 2019).
+    7. ↑ « Qu'est-ce que la VO2 max ? », sur www.sport-passion.fr
+--
+   12. ↑ « Calcul d'itinéraires », sur Calcul d'itinéraires (consulté le
+       24 mai 2011)
+   13. ↑ « Vos chaussures de course sont-elles minimalistes? », sur La
+       Clinique du Coureur (consulté le 13 janvier 2016)
+   14. ↑ En fonction de la vitesse et de la distance du sprint, le choc de
+--
+       David Pellier, Développer la vitesse, Edit.4Trainer, 2021, p. 13.
+   15. ↑ Fabien Leboeuf, Achard F Leluardière, Patrick Lacouture, Jacques
+       Duboy, « Etude biomécanique de la course à pied », Podologie,
+       vol. 27,‎ 2006, p. 3 (DOI 10.1016/S0292-062X(06)44220-3).
+   16. ↑ L'attaque de pied fait l'objet de nombreuses études qui font le
+--
+       runners? », Phys Ther Sport, vol. 16, n^o 1,‎ 2015, p. 29-33
+       (DOI 10.1016/j.ptsp.2014.02.005).
+   18. ↑ « Pourquoi courir ? Les bienfaits de la course à pied sont
+       énormes ! - Running Addict », Running Addict,‎ 6 septembre 2017
+       (lire en ligne, consulté le 25 octobre 2018)
+   19. ↑ « Quels sont les bienfaits de la course à pied ? », sur Appareil
+       Sport, 10 mars 2022 (consulté le 18 mai 2022)
+   20. ↑ 2008-Chakravarty, 2008-Krampla, 2008-Stahi, 2007-Hanna,
+--
+       p. 516-554
+   22. ↑ ^a et b Lacouture P, Colloud F, Decatoire A, Monnet T., « Etude
+       biomécanique de la course à pied », EMC Podologie, vol. 9, n^o 2,‎
+       2013, p. 1-20
+   23. ↑ Antoine Vayer, « Tour de France : la montagne, révélateur du
+--
+       « Effect of running velocity on external mechanical power output »,
+       Ergonomics, vol. 23, n^o 2,‎ 1980, p. 123-136
+   26. ↑ Sylvain Dinety, Étude de l’influence de la course en canicross
+       sur la foulée du coureur à pied, Diplôme d’Université, Université
+       de Poitiers, 2023
+--
+
+   Sur les autres projets Wikimedia :
+     * Course à pied, sur Wikimedia Commons
+     * course à pied, sur le Wiktionnaire (thésaurus)
+
+Bibliographie
+--
+     * Petite encyclopédie des jeux olympiques, Gaston Meyer (éd. Encre)
+     * L'athlétisme, Fabrice Laigret (éd. Milan)
+     * La course à pied, Roger Bambuck et Jean Marcellin (éd. Magnard)
+     * Courir ! Jogging et course à pied, Frank Shorter, collection
+       Hachette pratique, 2005 (ISBN 2-01-234995-1), traduit par Olivier
+       Cechman, titre original : Running, chez DK Publishing, Inc.
+--
+     * Without Limits, film américain de Robert Towne (1998)
+     * Ralph, film canadien de Michael McGowan (2004)
+     * Le Braqueur - la dernière course, film allemand de Benjamin
+       Heisenberg (2010)
+     * Invincible, film américain d'Angelina Jolie (2014)
+--
+     * Alimentation du sportif
+     * ChiRunning
+     * Course à pied de 6 jours, Course à pied de plusieurs jours
+     * Course d'escaliers
+     * Course transaméricaine
+     * Dead Runners Society
+     * Plogging
+     * Proprioception
+     * Trail (course à pied), ultra-trail
+     * Ultrafond, Ultra-marathon
+     * Wings for Life World Run
+--
+   721 ».
+   Catégorie :
+     * Course à pied
+
+   Catégories cachées :
