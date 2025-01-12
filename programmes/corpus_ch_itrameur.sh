@@ -19,9 +19,9 @@ echo "<lang=\"$basename\">" > "$output_file"
 
 echo "Traitement des fichiers dans $folder pour $basename..."
 
-for filepath in $(ls $folder/$basename/$basename-*.txt)
+for filepath in $(ls $folder/$basename-*.txt)
 do
-	# filepath == dumps-texts/chinois/chinois-1.txt
+	# filepath == dumps-texts/chinois-1.txt
 	# pagename = chinois-1
 	pagename=$(basename -s .txt $filepath)
 
