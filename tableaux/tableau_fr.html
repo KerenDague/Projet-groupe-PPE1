@@ -1,673 +1,883 @@
 <html>
-	<head>
-		<meta charset="UTF-8" />
-		<title>Course-</title>
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"/>
-		<link rel="stylesheet" href="./CSS/style.css" />
-		<style>
-			body {
-				background-color: #f5f5dc;
-				color: #333;
-			}
-		</style>
-	</head>
+<head>
+    <meta name=viewport content=width=device-width, initial-scale=1.0>
+    <meta charset=UTF-8>
+    <title>Tableau chinois</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"/>
+    <link rel="stylesheet" href="../annexes/CSS/style.css" />
+    <style>
+        body {
+            background-color: #f5f5dc;
+        }
+
+        table {
+            width: 90%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            background-color: #f5f5dc;
+        }
+
+        td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ccc;
+        }
+
+        tr:hover {
+            background-color: #a9ba9d;
+        }
+    </style>
+</head>
+
 <body>
-	<header>
-			<p style="text-align: center; color: #a9ba9d">
-				<nav class="navbar" role="navigation" aria-label="main navigation">
-					<div class="navbar-brand" >
-						<a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../index.html">Accueil</a>
-						<a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../annexes/presentations.html">Présentations</a>
-						<div class="navbar-item has-dropdown is-hoverable">
-                            <a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;">Tableaux</a>
-                            <div class="navbar-dropdown">
-                                <a class="navbar-item" href="../tableaux/tableau_fr.html">
-                                Français
-                                </a>
-                                <a class="navbar-item" href="../tableaux/tableau_ch.html">
-                                Chinois
-                                </a>
-                                </div>
-                        </div>
-						<a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../annexes/analyse.html">Analyse</a>
-						<a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../annexes/conclusions.html">Conclusions</a>
-					</div>
-				</nav>
-		</header>
-	<table align="center">>
-		<thead>
-			<tr style="background-color: #a9ba9d">
-			<th>ID</th>
-			<th>URLS </th>
-			<th>Encodage</th>
-			<th>Nombre de mots</th>
-			<th>Occurences</th>
-			<th>Aspirations</th>
-			<th>Dumps</th>
-			</tr>
-		</thead>
-<tbody>
+    <header>
+        <p style="text-align: center; color: #a9ba9d">
+            <nav class="navbar" role="navigation" aria-label="main navigation">
+                <div class="navbar-brand">
+                    <a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../index.html">Accueil</a>
+                    <a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../annexes/presentations.html">Notre Mot</a>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="../tableaux/tableau_fr.html">
+                            Français
+                            </a>
+                            <a class="navbar-item" href="../tableaux/tableau_ch.html">
+                            Chinois
+                            </a>
+                            </div>
+                    </div>
+                    <a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../annexes/analyse.html">Analyse</a>
+                    <a class="navbar-item" style="color: #a9ba9d; font-size: 22px; letter-spacing: -0.02em; font-variant-caps: small-caps;" href="../annexes/conclusions.html">Conclusions</a>
+                </div>
+            </nav>
+    </header>
+
+    <h1 style="text-align: center; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Tableau du mot Course en français</h1>
+    <table>
+        <thead>
+            <tr style="background-color: #a9ba9d;">
+            <th>ID</th>
+            <th>URLS</th>
+            <th>HTTP Code</th>
+            <th>Encodage</th>
+            <th>Nombre de mots</th>
+            <th>Occurences</th>
+            <th>Dumps</th>
+            <th>Aspirations</th>
+            <th>Contexte</th>
+            <th>Concordance</th>
+            </tr>
+        </thead>
+    <tbody>
 
 		<tr>
 		<td>1</td>
-		<td><a class="has-text-primary" href="https://www.finishers.com/disciplines/course-sur-route">https://www.finishers.com/disciplines/course-sur-route</a></td>
+		<td><a href="https://www.finishers.com/disciplines/course-sur-route">https://www.finishers.com/disciplines/course-sur-route</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1772</td>
-		<td>146</td>
-		<td><a href='../aspirations/français-1.html'>aspiration</a></td>
+		<td>1669</td>
+		<td>145</td>
 		<td><a href='../dumps-text/français-1.txt'>dump</a></td>
+		<td><a href='../aspirations/français-1.html'>aspiration</a></td>
+		<td><a href='../contextes/français-1.txt'>contexte</a></td>
+        <td><a href='../concordances/français-1.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>2</td>
-		<td><a class="has-text-primary" href="https://www.finishers.com/">https://www.finishers.com/</a></td>
+		<td><a href="https://www.finishers.com/">https://www.finishers.com/</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1025</td>
-		<td>51</td>
-		<td><a href='../aspirations/français-2.html'>aspiration</a></td>
+		<td>993</td>
+		<td>50</td>
 		<td><a href='../dumps-text/français-2.txt'>dump</a></td>
+		<td><a href='../aspirations/français-2.html'>aspiration</a></td>
+		<td><a href='../contextes/français-2.txt'>contexte</a></td>
+        <td><a href='../concordances/français-2.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>3</td>
-		<td><a class="has-text-primary" href="https://fr.wikipedia.org/wiki/Course_%C3%A0_pied">https://fr.wikipedia.org/wiki/Course_%C3%A0_pied</a></td>
+		<td><a href="https://fr.wikipedia.org/wiki/Course_%C3%A0_pied">https://fr.wikipedia.org/wiki/Course_%C3%A0_pied</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>8743</td>
 		<td>142</td>
-		<td><a href='../aspirations/français-3.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-3.txt'>dump</a></td>
+		<td><a href='../aspirations/français-3.html'>aspiration</a></td>
+		<td><a href='../contextes/français-3.txt'>contexte</a></td>
+        <td><a href='../concordances/français-3.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>4</td>
-		<td><a class="has-text-primary" href="https://lagrandecourse.fr/">https://lagrandecourse.fr/</a></td>
+		<td><a href="https://lagrandecourse.fr/">https://lagrandecourse.fr/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>1466</td>
-		<td>0</td>
-		<td><a href='../aspirations/français-4.html'>aspiration</a></td>
+		<td>1454</td>
+		<td>38</td>
 		<td><a href='../dumps-text/français-4.txt'>dump</a></td>
+		<td><a href='../aspirations/français-4.html'>aspiration</a></td>
+		<td><a href='../contextes/français-4.txt'>contexte</a></td>
+        <td><a href='../concordances/français-4.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>5</td>
-		<td><a class="has-text-primary" href="https://fr.wiktionary.org/wiki/course">https://fr.wiktionary.org/wiki/course</a></td>
+		<td><a href="https://fr.wiktionary.org/wiki/course">https://fr.wiktionary.org/wiki/course</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>3382</td>
-		<td>41</td>
-		<td><a href='../aspirations/français-5.html'>aspiration</a></td>
+		<td>144</td>
 		<td><a href='../dumps-text/français-5.txt'>dump</a></td>
+		<td><a href='../aspirations/français-5.html'>aspiration</a></td>
+		<td><a href='../contextes/français-5.txt'>contexte</a></td>
+        <td><a href='../concordances/français-5.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>6</td>
-		<td><a class="has-text-primary" href="https://www.vincennes-hippodrome.com/fr/courses/">https://www.vincennes-hippodrome.com/fr/courses/</a></td>
+		<td><a href="https://www.vincennes-hippodrome.com/fr/courses/">https://www.vincennes-hippodrome.com/fr/courses/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>2052</td>
-		<td>144</td>
-		<td><a href='../aspirations/français-6.html'>aspiration</a></td>
+		<td>1860</td>
+		<td>107</td>
 		<td><a href='../dumps-text/français-6.txt'>dump</a></td>
+		<td><a href='../aspirations/français-6.html'>aspiration</a></td>
+		<td><a href='../contextes/français-6.txt'>contexte</a></td>
+        <td><a href='../concordances/français-6.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>7</td>
-		<td><a class="has-text-primary" href="https://www.service-public.fr/particuliers/vosdroits/F34326">https://www.service-public.fr/particuliers/vosdroits/F34326</a></td>
+		<td><a href="https://www.service-public.fr/particuliers/vosdroits/F34326">https://www.service-public.fr/particuliers/vosdroits/F34326</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>3108</td>
-		<td>125</td>
-		<td><a href='../aspirations/français-7.html'>aspiration</a></td>
+		<td>3267</td>
+		<td>22</td>
 		<td><a href='../dumps-text/français-7.txt'>dump</a></td>
+		<td><a href='../aspirations/français-7.html'>aspiration</a></td>
+		<td><a href='../contextes/français-7.txt'>contexte</a></td>
+        <td><a href='../concordances/français-7.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>8</td>
-		<td><a class="has-text-primary" href="https://www.lacourseducoeur.com/">https://www.lacourseducoeur.com/</a></td>
+		<td><a href="https://www.lacourseducoeur.com/">https://www.lacourseducoeur.com/</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>1033</td>
-		<td>22</td>
-		<td><a href='../aspirations/français-8.html'>aspiration</a></td>
+		<td>29</td>
 		<td><a href='../dumps-text/français-8.txt'>dump</a></td>
+		<td><a href='../aspirations/français-8.html'>aspiration</a></td>
+		<td><a href='../contextes/français-8.txt'>contexte</a></td>
+        <td><a href='../concordances/français-8.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>9</td>
-		<td><a class="has-text-primary" href="https://www.coursedeslumieres.com/villes/paris">https://www.coursedeslumieres.com/villes/paris</a></td>
+		<td><a href="https://www.coursedeslumieres.com/villes/paris">https://www.coursedeslumieres.com/villes/paris</a></td>
+		<td>200</td>
 		<td>N/A</td>
 		<td>2227</td>
-		<td>29</td>
-		<td><a href='../aspirations/français-9.html'>aspiration</a></td>
+		<td>12</td>
 		<td><a href='../dumps-text/français-9.txt'>dump</a></td>
+		<td><a href='../aspirations/français-9.html'>aspiration</a></td>
+		<td><a href='../contextes/français-9.txt'>contexte</a></td>
+        <td><a href='../concordances/français-9.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>10</td>
-		<td><a class="has-text-primary" href="https://www.education.gouv.fr/course-en-cours-grand-prix-des-colleges-et-lycees-5507">https://www.education.gouv.fr/course-en-cours-grand-prix-des-colleges-et-lycees-5507</a></td>
+		<td><a href="https://www.education.gouv.fr/course-en-cours-grand-prix-des-colleges-et-lycees-5507">https://www.education.gouv.fr/course-en-cours-grand-prix-des-colleges-et-lycees-5507</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>1648</td>
-		<td>0</td>
-		<td><a href='../aspirations/français-10.html'>aspiration</a></td>
+		<td>1656</td>
+		<td>13</td>
 		<td><a href='../dumps-text/français-10.txt'>dump</a></td>
+		<td><a href='../aspirations/français-10.html'>aspiration</a></td>
+		<td><a href='../contextes/français-10.txt'>contexte</a></td>
+        <td><a href='../concordances/français-10.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>11</td>
-		<td><a class="has-text-primary" href="https://frontrunnersparis.org/coursestvalentin/">https://frontrunnersparis.org/coursestvalentin/</a></td>
+		<td><a href="https://frontrunnersparis.org/coursestvalentin/">https://frontrunnersparis.org/coursestvalentin/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>639</td>
-		<td>0</td>
-		<td><a href='../aspirations/français-11.html'>aspiration</a></td>
+		<td>31</td>
 		<td><a href='../dumps-text/français-11.txt'>dump</a></td>
+		<td><a href='../aspirations/français-11.html'>aspiration</a></td>
+		<td><a href='../contextes/français-11.txt'>contexte</a></td>
+        <td><a href='../concordances/français-11.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>12</td>
-		<td><a class="has-text-primary" href="https://ge.ch/grandconseil/memorial/seances/010207/45/7">https://ge.ch/grandconseil/memorial/seances/010207/45/7</a></td>
+		<td><a href="https://ge.ch/grandconseil/memorial/seances/010207/45/7">https://ge.ch/grandconseil/memorial/seances/010207/45/7</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>57</td>
-		<td>12</td>
-		<td><a href='../aspirations/français-12.html'>aspiration</a></td>
+		<td>6</td>
 		<td><a href='../dumps-text/français-12.txt'>dump</a></td>
+		<td><a href='../aspirations/français-12.html'>aspiration</a></td>
+		<td><a href='../contextes/français-12.txt'>contexte</a></td>
+        <td><a href='../concordances/français-12.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>13</td>
-		<td><a class="has-text-primary" href="https://www.wts.fr/temoignage-de-fabien-rolland-sur-sa-saison-2013/">https://www.wts.fr/temoignage-de-fabien-rolland-sur-sa-saison-2013/</a></td>
+		<td><a href="https://www.wts.fr/temoignage-de-fabien-rolland-sur-sa-saison-2013/">https://www.wts.fr/temoignage-de-fabien-rolland-sur-sa-saison-2013/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>740</td>
-		<td>13</td>
-		<td><a href='../aspirations/français-13.html'>aspiration</a></td>
+		<td>8</td>
 		<td><a href='../dumps-text/français-13.txt'>dump</a></td>
+		<td><a href='../aspirations/français-13.html'>aspiration</a></td>
+		<td><a href='../contextes/français-13.txt'>contexte</a></td>
+        <td><a href='../concordances/français-13.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>14</td>
-		<td><a class="has-text-primary" href="https://www.rds.ca/esports/tour-de-france-2018-pour-amateurs-avertis-1.6430505">https://www.rds.ca/esports/tour-de-france-2018-pour-amateurs-avertis-1.6430505</a></td>
+		<td><a href="https://www.rds.ca/esports/tour-de-france-2018-pour-amateurs-avertis-1.6430505">https://www.rds.ca/esports/tour-de-france-2018-pour-amateurs-avertis-1.6430505</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1183</td>
-		<td>31</td>
-		<td><a href='../aspirations/français-14.html'>aspiration</a></td>
+		<td>1175</td>
+		<td>7</td>
 		<td><a href='../dumps-text/français-14.txt'>dump</a></td>
+		<td><a href='../aspirations/français-14.html'>aspiration</a></td>
+		<td><a href='../contextes/français-14.txt'>contexte</a></td>
+        <td><a href='../concordances/français-14.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>15</td>
-		<td><a class="has-text-primary" href="https://www.vo2.fr/non-classe/transe-gaule-2014-stephane-pelissier-raconte-sa-victoire">https://www.vo2.fr/non-classe/transe-gaule-2014-stephane-pelissier-raconte-sa-victoire</a></td>
+		<td><a href="https://www.vo2.fr/non-classe/transe-gaule-2014-stephane-pelissier-raconte-sa-victoire">https://www.vo2.fr/non-classe/transe-gaule-2014-stephane-pelissier-raconte-sa-victoire</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>1828</td>
-		<td>6</td>
-		<td><a href='../aspirations/français-15.html'>aspiration</a></td>
+		<td>14</td>
 		<td><a href='../dumps-text/français-15.txt'>dump</a></td>
+		<td><a href='../aspirations/français-15.html'>aspiration</a></td>
+		<td><a href='../contextes/français-15.txt'>contexte</a></td>
+        <td><a href='../concordances/français-15.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>16</td>
-		<td><a class="has-text-primary" href="https://www.rds.ca/dossiers/50-ans-de-formule-1-au-canada-partie-3">https://www.rds.ca/dossiers/50-ans-de-formule-1-au-canada-partie-3</a></td>
+		<td><a href="https://www.rds.ca/dossiers/50-ans-de-formule-1-au-canada-partie-3">https://www.rds.ca/dossiers/50-ans-de-formule-1-au-canada-partie-3</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>1826</td>
 		<td>8</td>
-		<td><a href='../aspirations/français-16.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-16.txt'>dump</a></td>
+		<td><a href='../aspirations/français-16.html'>aspiration</a></td>
+		<td><a href='../contextes/français-16.txt'>contexte</a></td>
+        <td><a href='../concordances/français-16.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>17</td>
-		<td><a class="has-text-primary" href="https://www.rds.ca/ski/ski-de-fond-alex-harvey-s-offre-une-2e-place-au-15-km-classique-sur-les-plaines-d-abraham-1.6702826?localLinksEnabled=false">https://www.rds.ca/ski/ski-de-fond-alex-harvey-s-offre-une-2e-place-au-15-km-classique-sur-les-plaines-d-abraham-1.6702826?localLinksEnabled=false</a></td>
+		<td><a href="https://www.rds.ca/ski/ski-de-fond-alex-harvey-s-offre-une-2e-place-au-15-km-classique-sur-les-plaines-d-abraham-1.6702826?localLinksEnabled=false">https://www.rds.ca/ski/ski-de-fond-alex-harvey-s-offre-une-2e-place-au-15-km-classique-sur-les-plaines-d-abraham-1.6702826?localLinksEnabled=false</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1671</td>
-		<td>7</td>
-		<td><a href='../aspirations/français-17.html'>aspiration</a></td>
+		<td>1686</td>
+		<td>6</td>
 		<td><a href='../dumps-text/français-17.txt'>dump</a></td>
+		<td><a href='../aspirations/français-17.html'>aspiration</a></td>
+		<td><a href='../contextes/français-17.txt'>contexte</a></td>
+        <td><a href='../concordances/français-17.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>18</td>
-		<td><a class="has-text-primary" href="https://c-f.fr/forum/courses-trot/5989-prix-d-amerique-2022-g1-attele-vincennes-davidson-du-pont?start=390">https://c-f.fr/forum/courses-trot/5989-prix-d-amerique-2022-g1-attele-vincennes-davidson-du-pont?start=390</a></td>
+		<td><a href="https://c-f.fr/forum/courses-trot/5989-prix-d-amerique-2022-g1-attele-vincennes-davidson-du-pont?start=390">https://c-f.fr/forum/courses-trot/5989-prix-d-amerique-2022-g1-attele-vincennes-davidson-du-pont?start=390</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1788</td>
-		<td>14</td>
-		<td><a href='../aspirations/français-18.html'>aspiration</a></td>
+		<td>1785</td>
+		<td>15</td>
 		<td><a href='../dumps-text/français-18.txt'>dump</a></td>
+		<td><a href='../aspirations/français-18.html'>aspiration</a></td>
+		<td><a href='../contextes/français-18.txt'>contexte</a></td>
+        <td><a href='../concordances/français-18.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>19</td>
-		<td><a class="has-text-primary" href="http://www.cuk.ch/articles/24808/">http://www.cuk.ch/articles/24808/</a></td>
+		<td><a href="http://www.cuk.ch/articles/24808/">http://www.cuk.ch/articles/24808/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>3119</td>
-		<td>8</td>
-		<td><a href='../aspirations/français-19.html'>aspiration</a></td>
+		<td>10</td>
 		<td><a href='../dumps-text/français-19.txt'>dump</a></td>
+		<td><a href='../aspirations/français-19.html'>aspiration</a></td>
+		<td><a href='../contextes/français-19.txt'>contexte</a></td>
+        <td><a href='../concordances/français-19.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>20</td>
-		<td><a class="has-text-primary" href="https://www.cao.fr/rubrique-toutes/actu/9715/Ansys-propulse-le-premier-vol-de-l-avion-de-course-electrique-Air-Race-E-grace-a-la-simulation-numerique.html">https://www.cao.fr/rubrique-toutes/actu/9715/Ansys-propulse-le-premier-vol-de-l-avion-de-course-electrique-Air-Race-E-grace-a-la-simulation-numerique.html</a></td>
+		<td><a href="https://www.cao.fr/rubrique-toutes/actu/9715/Ansys-propulse-le-premier-vol-de-l-avion-de-course-electrique-Air-Race-E-grace-a-la-simulation-numerique.html">https://www.cao.fr/rubrique-toutes/actu/9715/Ansys-propulse-le-premier-vol-de-l-avion-de-course-electrique-Air-Race-E-grace-a-la-simulation-numerique.html</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>1324</td>
-		<td>6</td>
-		<td><a href='../aspirations/français-20.html'>aspiration</a></td>
+		<td>9</td>
 		<td><a href='../dumps-text/français-20.txt'>dump</a></td>
+		<td><a href='../aspirations/français-20.html'>aspiration</a></td>
+		<td><a href='../contextes/français-20.txt'>contexte</a></td>
+        <td><a href='../concordances/français-20.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>21</td>
-		<td><a class="has-text-primary" href="https://www.dna.fr/sport/2020/09/01/les-premieres-explications-entre-leaders-suivez-la-quatrieme-etape-en-direct">https://www.dna.fr/sport/2020/09/01/les-premieres-explications-entre-leaders-suivez-la-quatrieme-etape-en-direct</a></td>
+		<td><a href="https://www.dna.fr/sport/2020/09/01/les-premieres-explications-entre-leaders-suivez-la-quatrieme-etape-en-direct">https://www.dna.fr/sport/2020/09/01/les-premieres-explications-entre-leaders-suivez-la-quatrieme-etape-en-direct</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>5666</td>
-		<td>15</td>
-		<td><a href='../aspirations/français-21.html'>aspiration</a></td>
+		<td>10</td>
 		<td><a href='../dumps-text/français-21.txt'>dump</a></td>
+		<td><a href='../aspirations/français-21.html'>aspiration</a></td>
+		<td><a href='../contextes/français-21.txt'>contexte</a></td>
+        <td><a href='../concordances/français-21.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>22</td>
-		<td><a class="has-text-primary" href="https://www.sojh.ch/index.php?page=a7dd12b1dab17d2&type=marque&id=925">https://www.sojh.ch/index.php?page=a7dd12b1dab17d2&type=marque&id=925</a></td>
+		<td><a href="https://www.sojh.ch/index.php?page=a7dd12b1dab17d2&type=marque&id=925">https://www.sojh.ch/index.php?page=a7dd12b1dab17d2&type=marque&id=925</a></td>
+		<td>200</td>
 		<td>N/A</td>
 		<td>678</td>
 		<td>10</td>
-		<td><a href='../aspirations/français-22.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-22.txt'>dump</a></td>
+		<td><a href='../aspirations/français-22.html'>aspiration</a></td>
+		<td><a href='../contextes/français-22.txt'>contexte</a></td>
+        <td><a href='../concordances/français-22.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>23</td>
-		<td><a class="has-text-primary" href="https://www.fnch.fr/national/devenir-benevole">https://www.fnch.fr/national/devenir-benevole</a></td>
+		<td><a href="https://www.fnch.fr/national/devenir-benevole">https://www.fnch.fr/national/devenir-benevole</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>1531</td>
-		<td>9</td>
-		<td><a href='../aspirations/français-23.html'>aspiration</a></td>
+		<td>35</td>
 		<td><a href='../dumps-text/français-23.txt'>dump</a></td>
+		<td><a href='../aspirations/français-23.html'>aspiration</a></td>
+		<td><a href='../contextes/français-23.txt'>contexte</a></td>
+        <td><a href='../concordances/français-23.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>24</td>
-		<td><a class="has-text-primary" href="https://www.bbc.com/afrique/monde-56445836">https://www.bbc.com/afrique/monde-56445836</a></td>
+		<td><a href="https://www.bbc.com/afrique/monde-56445836">https://www.bbc.com/afrique/monde-56445836</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1741</td>
-		<td>10</td>
-		<td><a href='../aspirations/français-24.html'>aspiration</a></td>
+		<td>1699</td>
+		<td>7</td>
 		<td><a href='../dumps-text/français-24.txt'>dump</a></td>
+		<td><a href='../aspirations/français-24.html'>aspiration</a></td>
+		<td><a href='../contextes/français-24.txt'>contexte</a></td>
+        <td><a href='../concordances/français-24.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>25</td>
-		<td><a class="has-text-primary" href="http://atme.fr/georgia-public-pnxhncq/kepsz.php?397329=francfort-allemagne-de-l%27est">http://atme.fr/georgia-public-pnxhncq/kepsz.php?397329=francfort-allemagne-de-l%27est</a></td>
+		<td><a href="http://atme.fr/georgia-public-pnxhncq/kepsz.php?397329=francfort-allemagne-de-l%27est">http://atme.fr/georgia-public-pnxhncq/kepsz.php?397329=francfort-allemagne-de-l%27est</a></td>
+		<td>200</td>
 		<td>N/A</td>
 		<td>2375</td>
-		<td>10</td>
-		<td><a href='../aspirations/français-25.html'>aspiration</a></td>
+		<td>6</td>
 		<td><a href='../dumps-text/français-25.txt'>dump</a></td>
+		<td><a href='../aspirations/français-25.html'>aspiration</a></td>
+		<td><a href='../contextes/français-25.txt'>contexte</a></td>
+        <td><a href='../concordances/français-25.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>26</td>
-		<td><a class="has-text-primary" href="https://www.rtbf.be/article/motogp-marc-marquez-dompte-la-pluie-et-signe-la-pole-quartararo-9e-bagnaia-12e-11070753">https://www.rtbf.be/article/motogp-marc-marquez-dompte-la-pluie-et-signe-la-pole-quartararo-9e-bagnaia-12e-11070753</a></td>
+		<td><a href="https://www.rtbf.be/article/motogp-marc-marquez-dompte-la-pluie-et-signe-la-pole-quartararo-9e-bagnaia-12e-11070753">https://www.rtbf.be/article/motogp-marc-marquez-dompte-la-pluie-et-signe-la-pole-quartararo-9e-bagnaia-12e-11070753</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1728</td>
-		<td>35</td>
-		<td><a href='../aspirations/français-26.html'>aspiration</a></td>
+		<td>1735</td>
+		<td>4</td>
 		<td><a href='../dumps-text/français-26.txt'>dump</a></td>
+		<td><a href='../aspirations/français-26.html'>aspiration</a></td>
+		<td><a href='../contextes/français-26.txt'>contexte</a></td>
+        <td><a href='../concordances/français-26.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>27</td>
-		<td><a class="has-text-primary" href="https://www.lmoc.fr/actualites/resume-de-la-1ere-journee-du-fsbk-a-nogaro-2/">https://www.lmoc.fr/actualites/resume-de-la-1ere-journee-du-fsbk-a-nogaro-2/</a></td>
+		<td><a href="https://www.lmoc.fr/actualites/resume-de-la-1ere-journee-du-fsbk-a-nogaro-2/">https://www.lmoc.fr/actualites/resume-de-la-1ere-journee-du-fsbk-a-nogaro-2/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>2920</td>
-		<td>7</td>
-		<td><a href='../aspirations/français-27.html'>aspiration</a></td>
+		<td>29</td>
 		<td><a href='../dumps-text/français-27.txt'>dump</a></td>
+		<td><a href='../aspirations/français-27.html'>aspiration</a></td>
+		<td><a href='../contextes/français-27.txt'>contexte</a></td>
+        <td><a href='../concordances/français-27.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>28</td>
-		<td><a class="has-text-primary" href="https://www.lmoc.fr/actualites/retour-sur-le-supermot-a-loheac/">https://www.lmoc.fr/actualites/retour-sur-le-supermot-a-loheac/</a></td>
+		<td><a href="https://www.lmoc.fr/actualites/retour-sur-le-supermot-a-loheac/">https://www.lmoc.fr/actualites/retour-sur-le-supermot-a-loheac/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>2121</td>
-		<td>6</td>
-		<td><a href='../aspirations/français-28.html'>aspiration</a></td>
+		<td>11</td>
 		<td><a href='../dumps-text/français-28.txt'>dump</a></td>
+		<td><a href='../aspirations/français-28.html'>aspiration</a></td>
+		<td><a href='../contextes/français-28.txt'>contexte</a></td>
+        <td><a href='../concordances/français-28.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>29</td>
-		<td><a class="has-text-primary" href="https://www.lmoc.fr/actualites/belle-entree-en-matiere-a-nogaro/">https://www.lmoc.fr/actualites/belle-entree-en-matiere-a-nogaro/</a></td>
+		<td><a href="https://www.lmoc.fr/actualites/belle-entree-en-matiere-a-nogaro/">https://www.lmoc.fr/actualites/belle-entree-en-matiere-a-nogaro/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>3484</td>
-		<td>12</td>
-		<td><a href='../aspirations/français-29.html'>aspiration</a></td>
+		<td>57</td>
 		<td><a href='../dumps-text/français-29.txt'>dump</a></td>
+		<td><a href='../aspirations/français-29.html'>aspiration</a></td>
+		<td><a href='../contextes/français-29.txt'>contexte</a></td>
+        <td><a href='../concordances/français-29.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>30</td>
-		<td><a class="has-text-primary" href="http://odp.org/World/Fran%C3%A7ais/R%C3%A9gional/Europe/France/Sports_et_loisirs/Sports/Endurance/Course_%C3%A0_pied">http://odp.org/World/Fran%C3%A7ais/R%C3%A9gional/Europe/France/Sports_et_loisirs/Sports/Endurance/Course_%C3%A0_pied</a></td>
+		<td><a href="http://odp.org/World/Fran%C3%A7ais/R%C3%A9gional/Europe/France/Sports_et_loisirs/Sports/Endurance/Course_%C3%A0_pied">http://odp.org/World/Fran%C3%A7ais/R%C3%A9gional/Europe/France/Sports_et_loisirs/Sports/Endurance/Course_%C3%A0_pied</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>654</td>
-		<td>29</td>
-		<td><a href='../aspirations/français-30.html'>aspiration</a></td>
+		<td>25</td>
 		<td><a href='../dumps-text/français-30.txt'>dump</a></td>
+		<td><a href='../aspirations/français-30.html'>aspiration</a></td>
+		<td><a href='../contextes/français-30.txt'>contexte</a></td>
+        <td><a href='../concordances/français-30.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>31</td>
-		<td><a class="has-text-primary" href="https://jeu7.com/gagner-aux-courses-a-reclamer_62">https://jeu7.com/gagner-aux-courses-a-reclamer_62</a></td>
+		<td><a href="https://jeu7.com/gagner-aux-courses-a-reclamer_62">https://jeu7.com/gagner-aux-courses-a-reclamer_62</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>6399</td>
-		<td>11</td>
-		<td><a href='../aspirations/français-31.html'>aspiration</a></td>
+		<td>6673</td>
+		<td>56</td>
 		<td><a href='../dumps-text/français-31.txt'>dump</a></td>
+		<td><a href='../aspirations/français-31.html'>aspiration</a></td>
+		<td><a href='../contextes/français-31.txt'>contexte</a></td>
+        <td><a href='../concordances/français-31.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>32</td>
-		<td><a class="has-text-primary" href="https://www.u-run.fr/39704-trail-des-hautes-cotes-recit-de-sissi">https://www.u-run.fr/39704-trail-des-hautes-cotes-recit-de-sissi</a></td>
+		<td><a href="https://www.u-run.fr/39704-trail-des-hautes-cotes-recit-de-sissi">https://www.u-run.fr/39704-trail-des-hautes-cotes-recit-de-sissi</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>2878</td>
-		<td>57</td>
-		<td><a href='../aspirations/français-32.html'>aspiration</a></td>
+		<td>2826</td>
+		<td>19</td>
 		<td><a href='../dumps-text/français-32.txt'>dump</a></td>
+		<td><a href='../aspirations/français-32.html'>aspiration</a></td>
+		<td><a href='../contextes/français-32.txt'>contexte</a></td>
+        <td><a href='../concordances/français-32.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>33</td>
-		<td><a class="has-text-primary" href="https://www.u-run.fr/11451-courir-dans-une-ligue">https://www.u-run.fr/11451-courir-dans-une-ligue</a></td>
+		<td><a href="https://www.u-run.fr/11451-courir-dans-une-ligue">https://www.u-run.fr/11451-courir-dans-une-ligue</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>1241</td>
-		<td>25</td>
-		<td><a href='../aspirations/français-33.html'>aspiration</a></td>
+		<td>1189</td>
+		<td>18</td>
 		<td><a href='../dumps-text/français-33.txt'>dump</a></td>
+		<td><a href='../aspirations/français-33.html'>aspiration</a></td>
+		<td><a href='../contextes/français-33.txt'>contexte</a></td>
+        <td><a href='../concordances/français-33.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>34</td>
-		<td><a class="has-text-primary" href="https://www.dbisa.fr/tracking-pour-les-courses-hippiques-par-positionnement-gps">https://www.dbisa.fr/tracking-pour-les-courses-hippiques-par-positionnement-gps</a></td>
+		<td><a href="https://www.dbisa.fr/tracking-pour-les-courses-hippiques-par-positionnement-gps">https://www.dbisa.fr/tracking-pour-les-courses-hippiques-par-positionnement-gps</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>1201</td>
-		<td>78</td>
-		<td><a href='../aspirations/français-34.html'>aspiration</a></td>
+		<td>20</td>
 		<td><a href='../dumps-text/français-34.txt'>dump</a></td>
+		<td><a href='../aspirations/français-34.html'>aspiration</a></td>
+		<td><a href='../contextes/français-34.txt'>contexte</a></td>
+        <td><a href='../concordances/français-34.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>35</td>
-		<td><a class="has-text-primary" href="https://www.u-run.fr/72166-france-de-marathon-a-senart-le-recit-de-sebastien-larue">https://www.u-run.fr/72166-france-de-marathon-a-senart-le-recit-de-sebastien-larue</a></td>
+		<td><a href="https://www.u-run.fr/72166-france-de-marathon-a-senart-le-recit-de-sebastien-larue">https://www.u-run.fr/72166-france-de-marathon-a-senart-le-recit-de-sebastien-larue</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>4696</td>
-		<td>21</td>
-		<td><a href='../aspirations/français-35.html'>aspiration</a></td>
+		<td>4644</td>
+		<td>18</td>
 		<td><a href='../dumps-text/français-35.txt'>dump</a></td>
+		<td><a href='../aspirations/français-35.html'>aspiration</a></td>
+		<td><a href='../contextes/français-35.txt'>contexte</a></td>
+        <td><a href='../concordances/français-35.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>36</td>
-		<td><a class="has-text-primary" href="https://www.u-run.fr/97647-la-golden-trail-national-series-france-belgique-est-de-retour-en-2021">https://www.u-run.fr/97647-la-golden-trail-national-series-france-belgique-est-de-retour-en-2021</a></td>
+		<td><a href="https://www.u-run.fr/97647-la-golden-trail-national-series-france-belgique-est-de-retour-en-2021">https://www.u-run.fr/97647-la-golden-trail-national-series-france-belgique-est-de-retour-en-2021</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>2173</td>
-		<td>20</td>
-		<td><a href='../aspirations/français-36.html'>aspiration</a></td>
+		<td>2121</td>
+		<td>22</td>
 		<td><a href='../dumps-text/français-36.txt'>dump</a></td>
+		<td><a href='../aspirations/français-36.html'>aspiration</a></td>
+		<td><a href='../contextes/français-36.txt'>contexte</a></td>
+        <td><a href='../concordances/français-36.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>37</td>
-		<td><a class="has-text-primary" href="https://www.u-run.fr/49290-eco-trail-de-paris-mission-accomplie-deux-pouces-pour-sissi">https://www.u-run.fr/49290-eco-trail-de-paris-mission-accomplie-deux-pouces-pour-sissi</a></td>
+		<td><a href="https://www.u-run.fr/49290-eco-trail-de-paris-mission-accomplie-deux-pouces-pour-sissi">https://www.u-run.fr/49290-eco-trail-de-paris-mission-accomplie-deux-pouces-pour-sissi</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>4119</td>
-		<td>20</td>
-		<td><a href='../aspirations/français-37.html'>aspiration</a></td>
+		<td>4067</td>
+		<td>26</td>
 		<td><a href='../dumps-text/français-37.txt'>dump</a></td>
+		<td><a href='../aspirations/français-37.html'>aspiration</a></td>
+		<td><a href='../contextes/français-37.txt'>contexte</a></td>
+        <td><a href='../concordances/français-37.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>38</td>
-		<td><a class="has-text-primary" href="https://fqsc.net/nouvelles/les-gagnants-2021">https://fqsc.net/nouvelles/les-gagnants-2021</a></td>
+		<td><a href="https://fqsc.net/nouvelles/les-gagnants-2021">https://fqsc.net/nouvelles/les-gagnants-2021</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>5541</td>
 		<td>20</td>
-		<td><a href='../aspirations/français-38.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-38.txt'>dump</a></td>
+		<td><a href='../aspirations/français-38.html'>aspiration</a></td>
+		<td><a href='../contextes/français-38.txt'>contexte</a></td>
+        <td><a href='../concordances/français-38.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>39</td>
-		<td><a class="has-text-primary" href="https://www.gpro.net/fr/GPROFAQ.asp">https://www.gpro.net/fr/GPROFAQ.asp</a></td>
+		<td><a href="https://www.gpro.net/fr/GPROFAQ.asp">https://www.gpro.net/fr/GPROFAQ.asp</a></td>
+		<td>200</td>
 		<td>N/A</td>
 		<td>3879</td>
-		<td>24</td>
-		<td><a href='../aspirations/français-39.html'>aspiration</a></td>
+		<td>45</td>
 		<td><a href='../dumps-text/français-39.txt'>dump</a></td>
+		<td><a href='../aspirations/français-39.html'>aspiration</a></td>
+		<td><a href='../contextes/français-39.txt'>contexte</a></td>
+        <td><a href='../concordances/français-39.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>40</td>
-		<td><a class="has-text-primary" href="https://fqsc.net/nouvelles/les-gagnants-du-merite-cycliste-quebecois-2022-1">https://fqsc.net/nouvelles/les-gagnants-du-merite-cycliste-quebecois-2022-1</a></td>
+		<td><a href="https://fqsc.net/nouvelles/les-gagnants-du-merite-cycliste-quebecois-2022-1">https://fqsc.net/nouvelles/les-gagnants-du-merite-cycliste-quebecois-2022-1</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>5619</td>
-		<td>28</td>
-		<td><a href='../aspirations/français-40.html'>aspiration</a></td>
+		<td>25</td>
 		<td><a href='../dumps-text/français-40.txt'>dump</a></td>
+		<td><a href='../aspirations/français-40.html'>aspiration</a></td>
+		<td><a href='../contextes/français-40.txt'>contexte</a></td>
+        <td><a href='../concordances/français-40.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>41</td>
-		<td><a class="has-text-primary" href="https://www.aroo.run/la-6000d-trail-des-geants/">https://www.aroo.run/la-6000d-trail-des-geants/</a></td>
+		<td><a href="https://www.aroo.run/la-6000d-trail-des-geants/">https://www.aroo.run/la-6000d-trail-des-geants/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>3217</td>
-		<td>20</td>
-		<td><a href='../aspirations/français-41.html'>aspiration</a></td>
+		<td>25</td>
 		<td><a href='../dumps-text/français-41.txt'>dump</a></td>
+		<td><a href='../aspirations/français-41.html'>aspiration</a></td>
+		<td><a href='../contextes/français-41.txt'>contexte</a></td>
+        <td><a href='../concordances/français-41.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>42</td>
-		<td><a class="has-text-primary" href="https://fqsc.net/bmx/evenements/2018-coupe-du-quebec-bmx-9-la-tuque-serie-elite">https://fqsc.net/bmx/evenements/2018-coupe-du-quebec-bmx-9-la-tuque-serie-elite</a></td>
+		<td><a href="https://fqsc.net/bmx/evenements/2018-coupe-du-quebec-bmx-9-la-tuque-serie-elite">https://fqsc.net/bmx/evenements/2018-coupe-du-quebec-bmx-9-la-tuque-serie-elite</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>2138</td>
-		<td>45</td>
-		<td><a href='../aspirations/français-42.html'>aspiration</a></td>
+		<td>27</td>
 		<td><a href='../dumps-text/français-42.txt'>dump</a></td>
+		<td><a href='../aspirations/français-42.html'>aspiration</a></td>
+		<td><a href='../contextes/français-42.txt'>contexte</a></td>
+        <td><a href='../concordances/français-42.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>43</td>
-		<td><a class="has-text-primary" href="https://www.larep.fr/orleans-45000/sports/quand-la-technologie-se-met-au-service-du-sport-exemple-avec-le-coach-orleanais-joris-jacquard_13749552/">https://www.larep.fr/orleans-45000/sports/quand-la-technologie-se-met-au-service-du-sport-exemple-avec-le-coach-orleanais-joris-jacquard_13749552/</a></td>
+		<td><a href="https://www.larep.fr/orleans-45000/sports/quand-la-technologie-se-met-au-service-du-sport-exemple-avec-le-coach-orleanais-joris-jacquard_13749552/">https://www.larep.fr/orleans-45000/sports/quand-la-technologie-se-met-au-service-du-sport-exemple-avec-le-coach-orleanais-joris-jacquard_13749552/</a></td>
+		<td>200</td>
 		<td>utf-8</td>
-		<td>1043</td>
-		<td>25</td>
-		<td><a href='../aspirations/français-43.html'>aspiration</a></td>
+		<td>1046</td>
+		<td>9</td>
 		<td><a href='../dumps-text/français-43.txt'>dump</a></td>
+		<td><a href='../aspirations/français-43.html'>aspiration</a></td>
+		<td><a href='../contextes/français-43.txt'>contexte</a></td>
+        <td><a href='../concordances/français-43.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>44</td>
-		<td><a class="has-text-primary" href="https://www.athle.ch/2017/12/09/course-titze-de-noel-kowal-kosgei-grands-vainqueurs-a-sion/">https://www.athle.ch/2017/12/09/course-titze-de-noel-kowal-kosgei-grands-vainqueurs-a-sion/</a></td>
+		<td><a href="https://www.athle.ch/2017/12/09/course-titze-de-noel-kowal-kosgei-grands-vainqueurs-a-sion/">https://www.athle.ch/2017/12/09/course-titze-de-noel-kowal-kosgei-grands-vainqueurs-a-sion/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>2354</td>
-		<td>25</td>
-		<td><a href='../aspirations/français-44.html'>aspiration</a></td>
+		<td>24</td>
 		<td><a href='../dumps-text/français-44.txt'>dump</a></td>
+		<td><a href='../aspirations/français-44.html'>aspiration</a></td>
+		<td><a href='../contextes/français-44.txt'>contexte</a></td>
+        <td><a href='../concordances/français-44.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>45</td>
-		<td><a class="has-text-primary" href="https://www.nakan.ch/wp/2022/06/01/garmin-annonce-les-forerunner-955-et-255/">https://www.nakan.ch/wp/2022/06/01/garmin-annonce-les-forerunner-955-et-255/</a></td>
+		<td><a href="https://www.nakan.ch/wp/2022/06/01/garmin-annonce-les-forerunner-955-et-255/">https://www.nakan.ch/wp/2022/06/01/garmin-annonce-les-forerunner-955-et-255/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>3778</td>
-		<td>27</td>
-		<td><a href='../aspirations/français-45.html'>aspiration</a></td>
+		<td>3763</td>
+		<td>18</td>
 		<td><a href='../dumps-text/français-45.txt'>dump</a></td>
+		<td><a href='../aspirations/français-45.html'>aspiration</a></td>
+		<td><a href='../contextes/français-45.txt'>contexte</a></td>
+        <td><a href='../concordances/français-45.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>46</td>
-		<td><a class="has-text-primary" href="https://www.b-m-b.be/index.php?/topic/55388-les-courses-amateurs-challenge-henri-bensberg-challenge-cx-dlbikes-wtk-etc/page/11/">https://www.b-m-b.be/index.php?/topic/55388-les-courses-amateurs-challenge-henri-bensberg-challenge-cx-dlbikes-wtk-etc/page/11/</a></td>
+		<td><a href="https://www.b-m-b.be/index.php?/topic/55388-les-courses-amateurs-challenge-henri-bensberg-challenge-cx-dlbikes-wtk-etc/page/11/">https://www.b-m-b.be/index.php?/topic/55388-les-courses-amateurs-challenge-henri-bensberg-challenge-cx-dlbikes-wtk-etc/page/11/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>9775</td>
-		<td>10</td>
-		<td><a href='../aspirations/français-46.html'>aspiration</a></td>
+		<td>48</td>
 		<td><a href='../dumps-text/français-46.txt'>dump</a></td>
+		<td><a href='../aspirations/français-46.html'>aspiration</a></td>
+		<td><a href='../contextes/français-46.txt'>contexte</a></td>
+        <td><a href='../concordances/français-46.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>47</td>
-		<td><a class="has-text-primary" href="https://www.nakan.ch/wp/2018/12/20/puissance-a-pied-definir-rftpw-et-ses-zones-de-puissance/">https://www.nakan.ch/wp/2018/12/20/puissance-a-pied-definir-rftpw-et-ses-zones-de-puissance/</a></td>
+		<td><a href="https://www.nakan.ch/wp/2018/12/20/puissance-a-pied-definir-rftpw-et-ses-zones-de-puissance/">https://www.nakan.ch/wp/2018/12/20/puissance-a-pied-definir-rftpw-et-ses-zones-de-puissance/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>3280</td>
-		<td>24</td>
-		<td><a href='../aspirations/français-47.html'>aspiration</a></td>
+		<td>3265</td>
+		<td>16</td>
 		<td><a href='../dumps-text/français-47.txt'>dump</a></td>
+		<td><a href='../aspirations/français-47.html'>aspiration</a></td>
+		<td><a href='../contextes/français-47.txt'>contexte</a></td>
+        <td><a href='../concordances/français-47.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>48</td>
-		<td><a class="has-text-primary" href="https://gfhm.blog/">https://gfhm.blog/</a></td>
+		<td><a href="https://gfhm.blog/">https://gfhm.blog/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>8175</td>
-		<td>18</td>
-		<td><a href='../aspirations/français-48.html'>aspiration</a></td>
+		<td>33</td>
 		<td><a href='../dumps-text/français-48.txt'>dump</a></td>
+		<td><a href='../aspirations/français-48.html'>aspiration</a></td>
+		<td><a href='../contextes/français-48.txt'>contexte</a></td>
+        <td><a href='../concordances/français-48.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>49</td>
-		<td><a class="has-text-primary" href="https://www.owaka.com/news-2536-ultramarathon-atacama-crossing-2022-le-chili-comme-vous-ne-l-avez-jamais-vu">https://www.owaka.com/news-2536-ultramarathon-atacama-crossing-2022-le-chili-comme-vous-ne-l-avez-jamais-vu</a></td>
+		<td><a href="https://www.owaka.com/news-2536-ultramarathon-atacama-crossing-2022-le-chili-comme-vous-ne-l-avez-jamais-vu">https://www.owaka.com/news-2536-ultramarathon-atacama-crossing-2022-le-chili-comme-vous-ne-l-avez-jamais-vu</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>1681</td>
-		<td>48</td>
-		<td><a href='../aspirations/français-49.html'>aspiration</a></td>
+		<td>1699</td>
+		<td>16</td>
 		<td><a href='../dumps-text/français-49.txt'>dump</a></td>
+		<td><a href='../aspirations/français-49.html'>aspiration</a></td>
+		<td><a href='../contextes/français-49.txt'>contexte</a></td>
+        <td><a href='../concordances/français-49.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>50</td>
-		<td><a class="has-text-primary" href="https://o-news.fr/viewtopic.php?f=3&t=1813&start=0&view=print&sid=8470754b2fb28d33b8e62393386aa962">https://o-news.fr/viewtopic.php?f=3&t=1813&start=0&view=print&sid=8470754b2fb28d33b8e62393386aa962</a></td>
+		<td><a href="https://o-news.fr/viewtopic.php?f=3&t=1813&start=0&view=print&sid=8470754b2fb28d33b8e62393386aa962">https://o-news.fr/viewtopic.php?f=3&t=1813&start=0&view=print&sid=8470754b2fb28d33b8e62393386aa962</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>2862</td>
 		<td>16</td>
-		<td><a href='../aspirations/français-50.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-50.txt'>dump</a></td>
+		<td><a href='../aspirations/français-50.html'>aspiration</a></td>
+		<td><a href='../contextes/français-50.txt'>contexte</a></td>
+        <td><a href='../concordances/français-50.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>51</td>
-		<td><a class="has-text-primary" href="http://www.disons.fr/?p=26227">http://www.disons.fr/?p=26227</a></td>
+		<td><a href="http://www.disons.fr/?p=26227">http://www.disons.fr/?p=26227</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>2629</td>
-		<td>33</td>
-		<td><a href='../aspirations/français-51.html'>aspiration</a></td>
+		<td>2660</td>
+		<td>17</td>
 		<td><a href='../dumps-text/français-51.txt'>dump</a></td>
+		<td><a href='../aspirations/français-51.html'>aspiration</a></td>
+		<td><a href='../contextes/français-51.txt'>contexte</a></td>
+        <td><a href='../concordances/français-51.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>52</td>
-		<td><a class="has-text-primary" href="https://www.larvf.com/la-course-a-pied-s-empare-du-vignoble,4780688.asp">https://www.larvf.com/la-course-a-pied-s-empare-du-vignoble,4780688.asp</a></td>
+		<td><a href="https://www.larvf.com/la-course-a-pied-s-empare-du-vignoble,4780688.asp">https://www.larvf.com/la-course-a-pied-s-empare-du-vignoble,4780688.asp</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>4132</td>
-		<td>19</td>
-		<td><a href='../aspirations/français-52.html'>aspiration</a></td>
+		<td>4140</td>
+		<td>37</td>
 		<td><a href='../dumps-text/français-52.txt'>dump</a></td>
+		<td><a href='../aspirations/français-52.html'>aspiration</a></td>
+		<td><a href='../contextes/français-52.txt'>contexte</a></td>
+        <td><a href='../concordances/français-52.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>53</td>
-		<td><a class="has-text-primary" href="https://www.runnek.fr/dossard-course/">https://www.runnek.fr/dossard-course/</a></td>
+		<td><a href="https://www.runnek.fr/dossard-course/">https://www.runnek.fr/dossard-course/</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>2156</td>
-		<td>16</td>
-		<td><a href='../aspirations/français-53.html'>aspiration</a></td>
+		<td>31</td>
 		<td><a href='../dumps-text/français-53.txt'>dump</a></td>
+		<td><a href='../aspirations/français-53.html'>aspiration</a></td>
+		<td><a href='../contextes/français-53.txt'>contexte</a></td>
+        <td><a href='../concordances/français-53.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>54</td>
-		<td><a class="has-text-primary" href="http://www.multid.fr/into-the-nnjjfym/57eca8-v%C3%A9lo-route-lapierre-taille-54">http://www.multid.fr/into-the-nnjjfym/57eca8-v%C3%A9lo-route-lapierre-taille-54</a></td>
+		<td><a href="http://www.multid.fr/into-the-nnjjfym/57eca8-v%C3%A9lo-route-lapierre-taille-54">http://www.multid.fr/into-the-nnjjfym/57eca8-v%C3%A9lo-route-lapierre-taille-54</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>1996</td>
-		<td>17</td>
-		<td><a href='../aspirations/français-54.html'>aspiration</a></td>
+		<td>14</td>
 		<td><a href='../dumps-text/français-54.txt'>dump</a></td>
+		<td><a href='../aspirations/français-54.html'>aspiration</a></td>
+		<td><a href='../contextes/français-54.txt'>contexte</a></td>
+        <td><a href='../concordances/français-54.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>55</td>
-		<td><a class="has-text-primary" href="https://ufoot.org/ultra/2004/crgrr">https://ufoot.org/ultra/2004/crgrr</a></td>
-		<td>UTF-8</td>
-		<td>9123</td>
-		<td>37</td>
-		<td><a href='../aspirations/français-55.html'>aspiration</a></td>
+		<td><a href="https://ufoot.org/ultra/2004/crgrr">https://ufoot.org/ultra/2004/crgrr</a></td>
+		<td>200</td>
+		<td>ISO-8859-1</td>
+		<td>9134</td>
+		<td>27</td>
 		<td><a href='../dumps-text/français-55.txt'>dump</a></td>
+		<td><a href='../aspirations/français-55.html'>aspiration</a></td>
+		<td><a href='../contextes/français-55.txt'>contexte</a></td>
+        <td><a href='../concordances/français-55.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>56</td>
-		<td><a class="has-text-primary" href="http://www.gcain.com/index.php/courses-et-raids/desert-cup-2002">http://www.gcain.com/index.php/courses-et-raids/desert-cup-2002</a></td>
+		<td><a href="http://www.gcain.com/index.php/courses-et-raids/desert-cup-2002">http://www.gcain.com/index.php/courses-et-raids/desert-cup-2002</a></td>
+		<td>200</td>
 		<td>utf-8</td>
 		<td>1952</td>
-		<td>31</td>
-		<td><a href='../aspirations/français-56.html'>aspiration</a></td>
+		<td>23</td>
 		<td><a href='../dumps-text/français-56.txt'>dump</a></td>
+		<td><a href='../aspirations/français-56.html'>aspiration</a></td>
+		<td><a href='../contextes/français-56.txt'>contexte</a></td>
+        <td><a href='../concordances/français-56.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>57</td>
-		<td><a class="has-text-primary" href="https://www.kuzeo.com/paris-hippiques-turf/2371/histoire-des-courses-de-chevaux-antiquite-a-nos-jours">https://www.kuzeo.com/paris-hippiques-turf/2371/histoire-des-courses-de-chevaux-antiquite-a-nos-jours</a></td>
+		<td><a href="https://www.kuzeo.com/paris-hippiques-turf/2371/histoire-des-courses-de-chevaux-antiquite-a-nos-jours">https://www.kuzeo.com/paris-hippiques-turf/2371/histoire-des-courses-de-chevaux-antiquite-a-nos-jours</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>1809</td>
-		<td>14</td>
-		<td><a href='../aspirations/français-57.html'>aspiration</a></td>
+		<td>1642</td>
+		<td>31</td>
 		<td><a href='../dumps-text/français-57.txt'>dump</a></td>
+		<td><a href='../aspirations/français-57.html'>aspiration</a></td>
+		<td><a href='../contextes/français-57.txt'>contexte</a></td>
+        <td><a href='../concordances/français-57.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>58</td>
-		<td><a class="has-text-primary" href="https://www.imoca.org/fr/news/news/la-transat-cic-au-depart-de-lorient-en-mai-2024">https://www.imoca.org/fr/news/news/la-transat-cic-au-depart-de-lorient-en-mai-2024</a></td>
+		<td><a href="https://www.imoca.org/fr/news/news/la-transat-cic-au-depart-de-lorient-en-mai-2024">https://www.imoca.org/fr/news/news/la-transat-cic-au-depart-de-lorient-en-mai-2024</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>2788</td>
-		<td>27</td>
-		<td><a href='../aspirations/français-58.html'>aspiration</a></td>
+		<td>2795</td>
+		<td>26</td>
 		<td><a href='../dumps-text/français-58.txt'>dump</a></td>
+		<td><a href='../aspirations/français-58.html'>aspiration</a></td>
+		<td><a href='../contextes/français-58.txt'>contexte</a></td>
+        <td><a href='../concordances/français-58.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>59</td>
-		<td><a class="has-text-primary" href="https://www.imoca.org/fr/news/news/cherbourg-en-cotentin-accueille-la-50eme-edition-de-la-rolex-fastnet-race">https://www.imoca.org/fr/news/news/cherbourg-en-cotentin-accueille-la-50eme-edition-de-la-rolex-fastnet-race</a></td>
+		<td><a href="https://www.imoca.org/fr/news/news/cherbourg-en-cotentin-accueille-la-50eme-edition-de-la-rolex-fastnet-race">https://www.imoca.org/fr/news/news/cherbourg-en-cotentin-accueille-la-50eme-edition-de-la-rolex-fastnet-race</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>1784</td>
-		<td>23</td>
-		<td><a href='../aspirations/français-59.html'>aspiration</a></td>
+		<td>1791</td>
+		<td>17</td>
 		<td><a href='../dumps-text/français-59.txt'>dump</a></td>
+		<td><a href='../aspirations/français-59.html'>aspiration</a></td>
+		<td><a href='../contextes/français-59.txt'>contexte</a></td>
+        <td><a href='../concordances/français-59.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>60</td>
-		<td><a class="has-text-primary" href="http://irider.net/compte-rendu-loury-2013">http://irider.net/compte-rendu-loury-2013</a></td>
+		<td><a href="http://irider.net/compte-rendu-loury-2013">http://irider.net/compte-rendu-loury-2013</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
 		<td>3126</td>
-		<td>33</td>
-		<td><a href='../aspirations/français-60.html'>aspiration</a></td>
+		<td>14</td>
 		<td><a href='../dumps-text/français-60.txt'>dump</a></td>
+		<td><a href='../aspirations/français-60.html'>aspiration</a></td>
+		<td><a href='../contextes/français-60.txt'>contexte</a></td>
+        <td><a href='../concordances/français-60.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>61</td>
-		<td><a class="has-text-primary" href="https://sosport.fr/entrainement-marathon">https://sosport.fr/entrainement-marathon</a></td>
+		<td><a href="https://sosport.fr/entrainement-marathon">https://sosport.fr/entrainement-marathon</a></td>
+		<td>200</td>
 		<td>UTF-8</td>
-		<td>2249</td>
-		<td>25</td>
-		<td><a href='../aspirations/français-61.html'>aspiration</a></td>
+		<td>2253</td>
+		<td>58</td>
 		<td><a href='../dumps-text/français-61.txt'>dump</a></td>
+		<td><a href='../aspirations/français-61.html'>aspiration</a></td>
+		<td><a href='../contextes/français-61.txt'>contexte</a></td>
+        <td><a href='../concordances/français-61.html'>concordance</a></td>
 		</tr>
 
 		<tr>
 		<td>62</td>
-		<td><a class="has-text-primary" href="https://www.yuimen.net/reglesspecifiques1.php">https://www.yuimen.net/reglesspecifiques1.php</a></td>
+		<td><a href="https://www.yuimen.net/reglesspecifiques1.php">https://www.yuimen.net/reglesspecifiques1.php</a></td>
+		<td>200</td>
 		<td>N/A</td>
 		<td>1495</td>
-		<td>16</td>
-		<td><a href='../aspirations/français-62.html'>aspiration</a></td>
+		<td>18</td>
 		<td><a href='../dumps-text/français-62.txt'>dump</a></td>
+		<td><a href='../aspirations/français-62.html'>aspiration</a></td>
+		<td><a href='../contextes/français-62.txt'>contexte</a></td>
+        <td><a href='../concordances/français-62.html'>concordance</a></td>
 		</tr>
 </tbody>
 </table>
+</div>
 </body>
 </html>
