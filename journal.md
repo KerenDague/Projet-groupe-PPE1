@@ -18,4 +18,6 @@ Simeng : URLs chinois (ch_urls.txt)
 10/01 = Simeng => J'ai chargé le corpus chinois nettoyé dans le site  iTrameur pour effectuer des analyses linguistiques complémentaires.(Fréquence des mots, cooccurrences, les contextes, la structure lexicale dans le systhème chinois)
 
 11/01 = Keren => j'ai ajouté le code que j'ai utilisé pour faire mon nuage de mot,  
-11/01 = Simeng => J'ai intégré et présenter des résultats chinois sur le site web et j'ai ajusté les scripts afin de mettre en commun les formats de toutes les sections du site. 
+11/01 = Simeng => J'ai intégré et présenter des résultats chinois sur le site web et j'ai ajusté les scripts afin de mettre en commun les formats de toutes les sections du site.   
+  
+12/01 = Simeng => J'ai amélioré les scripts pour les tableaux et l'analyse et rédigé la partie conclusion.
